@@ -1,0 +1,2462 @@
+[
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/urdf_origin/results.json",
+    "bytes": 745,
+    "sha256": "5ee63cce8d8dbb093969b185987bab1346917cc681d0a9e3e5c5f1fe27de7f84"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/urdf_origin/rm65_ability_right.urdf",
+    "bytes": 25996,
+    "sha256": "660ee66e5f624c4c2f10da2e4be835733cb74db9ccc0caf2446dcb1940ee26e0"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/urdf_origin/rm65_allegro_right.urdf",
+    "bytes": 24077,
+    "sha256": "a35d5fe15e779ddd62a151e64c3a982b2b021a2d4787f13da5f023893a5ad391"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/urdf_origin/rm65_barrett_right.urdf",
+    "bytes": 20829,
+    "sha256": "670062b41ccf6cff30946b6666b8ef917c5604534af80aab1635909025cf53a7"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/urdf_origin/rm65_dclaw_right.urdf",
+    "bytes": 21811,
+    "sha256": "16e0646aa33834a3049cce12f5aafffc1db2c04475eb5b49a79ac3c39a10a88c"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/urdf_origin/rm65_inspire_right.urdf",
+    "bytes": 22355,
+    "sha256": "fd019403cf2aa788476f921cd8e6be08b195c018f6c16974072d8f980aadb9d7"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/urdf_origin/rm65_leap_right.urdf",
+    "bytes": 33440,
+    "sha256": "122f1f34b9a049a5116ce335be44c0c38492810a54c96211bd55dd7945b38781"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/urdf_origin/rm65_shadow_right.urdf",
+    "bytes": 35650,
+    "sha256": "b155918a946f064428df17231b3225976617ceb2dd89874ee6a5f7c5e6190c5d"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/urdf_origin/rm65_svh_right.urdf",
+    "bytes": 25482,
+    "sha256": "1361c2d5c7337535d386e9b7982d8fddfabdf5ca494d6aef2a38be294b9535cf"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/ability/collision/FB_palm_ref.obj",
+    "bytes": 31522,
+    "sha256": "71c94a39fc3c2aac767a263f621287bf4da21f13cd1cd14caa83d656c0bc75f5"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/ability/collision/FB_palm_ref_MIR.obj",
+    "bytes": 32872,
+    "sha256": "3af64e454a1973be4982e8f538ae572ee2563bedea76ca570c65b780781ab433"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/ability/collision/idx-F2_C.obj",
+    "bytes": 22835,
+    "sha256": "b3cc09c18998b5cfca10a577045dee83795d22f7945591eb12b911fd09c3175c"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/ability/collision/thumb-F1-MIR_C.obj",
+    "bytes": 5627,
+    "sha256": "20de784151d7cbdbdb1df9e5383c9037fb661959a516edbbb2fa5873054e6d32"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/ability/collision/thumb-F1_C.obj",
+    "bytes": 5639,
+    "sha256": "cfde72aec713a7cf61440b3010be1043cc4b5f1e1cee759fb7d4968c6bdd8395"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/ability/collision/thumb-F2_C.obj",
+    "bytes": 12656,
+    "sha256": "cee181057eb6010ee002c3f0ac7e66ca82cb0f3c3a3f5b45eb606814ec37e2e0"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/ability/collision/wristmesh_C.obj",
+    "bytes": 15023,
+    "sha256": "683629e54d0711b07f632ba14e83e4cfffd5107ff85ce0734a0dbc78508298cc"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/ability/visual/FB_palm_ref.glb",
+    "bytes": 918408,
+    "sha256": "b66964bdd39a20b9c859c4469fd49d8f70b94552e94df01ceee33224e907cbd9"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/ability/visual/FB_palm_ref.mtl",
+    "bytes": 239,
+    "sha256": "614176c99b96f8f3938b4006c4292f26dfc31805ef3b12f1d54e6070a55ef8fd"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/ability/visual/FB_palm_ref.obj",
+    "bytes": 1026040,
+    "sha256": "5ffd7705b618756c71fee073d6799b3dae4bb68fb870246a4791a142cc3d11b7"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/ability/visual/FB_palm_ref_MIR.glb",
+    "bytes": 707156,
+    "sha256": "185fb959e23dd65c29ea9086c61f4e24ce468c3eb8de39407887edf0e3ce120d"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/ability/visual/FB_palm_ref_MIR.mtl",
+    "bytes": 239,
+    "sha256": "614176c99b96f8f3938b4006c4292f26dfc31805ef3b12f1d54e6070a55ef8fd"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/ability/visual/FB_palm_ref_MIR.obj",
+    "bytes": 1005301,
+    "sha256": "26ca1cfb231d747224ce0b4f746f6e094ed2596d038c00b492a13674cc4b4e9a"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/ability/visual/idx-F1.glb",
+    "bytes": 60100,
+    "sha256": "ab7d91d3e0c586133e0a668d63b1c071a8659f6367ff27c619e9e984e36dcbd2"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/ability/visual/idx-F1.mtl",
+    "bytes": 239,
+    "sha256": "e049fb0540c4d42738fa4f86c05558ec6dad735f49ff32ab60a106218165bcd9"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/ability/visual/idx-F1.obj",
+    "bytes": 62705,
+    "sha256": "75b874a160bf756a10db31d99c55339ebcb26bc429c5ebcc6b01222f81026006"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/ability/visual/idx-F2.glb",
+    "bytes": 10208,
+    "sha256": "b26e5dd3f23745f2146bdf3715fdd0a1b9b7a0515040e72ec771b453a064e703"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/ability/visual/idx-F2.mtl",
+    "bytes": 239,
+    "sha256": "e049fb0540c4d42738fa4f86c05558ec6dad735f49ff32ab60a106218165bcd9"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/ability/visual/idx-F2.obj",
+    "bytes": 26678,
+    "sha256": "458b603364e916b3a45e7d93b12f94d8b1e84fdaa2f48609765bb1e2c36a39cf"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/ability/visual/thumb-F1-MIR.glb",
+    "bytes": 9248,
+    "sha256": "c21bb175a987e46860a3be221e8f38bb8b0c86175b9ab12d47692a5ba6dd4cde"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/ability/visual/thumb-F1-MIR.mtl",
+    "bytes": 239,
+    "sha256": "e049fb0540c4d42738fa4f86c05558ec6dad735f49ff32ab60a106218165bcd9"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/ability/visual/thumb-F1-MIR.obj",
+    "bytes": 8238,
+    "sha256": "c17073d7166aa71a3ba35bf4536c949a95a6ab4566a7b151b2c2714283fd62aa"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/ability/visual/thumb-F1.glb",
+    "bytes": 3620,
+    "sha256": "7c256a928e8d0992a675cb8b804a3f92d11104dc83ea17fd32b24f24d34358b3"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/ability/visual/thumb-F1.mtl",
+    "bytes": 239,
+    "sha256": "e049fb0540c4d42738fa4f86c05558ec6dad735f49ff32ab60a106218165bcd9"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/ability/visual/thumb-F1.obj",
+    "bytes": 6250,
+    "sha256": "e8a595336b0baefc72e7859d4c6d25ceb3d33076fccead439032bbfa9135c20b"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/ability/visual/thumb-F2.glb",
+    "bytes": 21604,
+    "sha256": "540909edd1c4634aa0bf112a32c7f5bf043858b3832992b8b924eb0d6e7765cd"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/ability/visual/thumb-F2.mtl",
+    "bytes": 239,
+    "sha256": "e049fb0540c4d42738fa4f86c05558ec6dad735f49ff32ab60a106218165bcd9"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/ability/visual/thumb-F2.obj",
+    "bytes": 18604,
+    "sha256": "575cf0f348a59e847697d41342522eff7abafe17b1203633fe36355e4b16b1f5"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/ability/visual/wristmesh.glb",
+    "bytes": 2401876,
+    "sha256": "7f920cebe9cef71830f34ebac8bce9553eb3af4db830e528ed254ffe3f7bfa45"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/ability/visual/wristmesh.mtl",
+    "bytes": 240,
+    "sha256": "6e084eac674ac58d66837dd7b1fc74b798574849862d7e354483cd7f863b44e1"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/ability/visual/wristmesh.obj",
+    "bytes": 3569269,
+    "sha256": "bbba82def982ca550dc5a1f5d2129a249895e80998a8116aff7e0d25ce17130f"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/allegro/collision/link_tip.obj",
+    "bytes": 67338,
+    "sha256": "cd517fb6f1b4ccec9ef48501b2a41494d700fdf376f37aa6909afcee172e64f4"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/allegro/visual/base_link.glb",
+    "bytes": 150276,
+    "sha256": "a5b957aa87e9fe4aa0f58a5192ca4583b6d4c3584f0a51ee8cd99ad76261c8d8"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/allegro/visual/base_link.mtl",
+    "bytes": 232,
+    "sha256": "9fe02681269c274299689f750c91c104253bc14fbf25045df935e44fbb01f9eb"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/allegro/visual/base_link.obj",
+    "bytes": 195076,
+    "sha256": "6bf8daf270ac7e427ee477515bfcbcee306958e8b2ea8a23ecb7a319c5c8690f"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/allegro/visual/base_link_left.glb",
+    "bytes": 454240,
+    "sha256": "fe83ed36849fac8a2b8cc0b346474ae4e6d0b94aa2d414528309d9cff0033f2b"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/allegro/visual/base_link_left.mtl",
+    "bytes": 232,
+    "sha256": "9fe02681269c274299689f750c91c104253bc14fbf25045df935e44fbb01f9eb"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/allegro/visual/base_link_left.obj",
+    "bytes": 599153,
+    "sha256": "fbc01616cbd28d9c133a4ed6942ddf07e55ec84fa99a900c6b9bf6499d87ceca"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/allegro/visual/link_0.0.glb",
+    "bytes": 51836,
+    "sha256": "3efc9af7866efcfd61b51a19dec4454f88bf9c86787fba0f44f0ccb911cc364d"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/allegro/visual/link_0.0.mtl",
+    "bytes": 232,
+    "sha256": "9fe02681269c274299689f750c91c104253bc14fbf25045df935e44fbb01f9eb"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/allegro/visual/link_0.0.obj",
+    "bytes": 60750,
+    "sha256": "f8ba6316f4fe17e740276b7f28864f53c0296a1d8b0072e98561be1c6f063732"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/allegro/visual/link_1.0.glb",
+    "bytes": 67276,
+    "sha256": "a009c6e53176c0252f31a23cc3c32e9096ec275c7891c4bdd4c407b787f4cb84"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/allegro/visual/link_1.0.mtl",
+    "bytes": 232,
+    "sha256": "9fe02681269c274299689f750c91c104253bc14fbf25045df935e44fbb01f9eb"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/allegro/visual/link_1.0.obj",
+    "bytes": 72591,
+    "sha256": "3f379c94cb867d8421db1879d50f4b11d9ddfde0e4c46e25e0a7da41466368ae"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/allegro/visual/link_12.0_left.glb",
+    "bytes": 229708,
+    "sha256": "d9f09385c918aeaf8e332cb4cd4b2ba7aef1c1373eef97911135191301b5c5e1"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/allegro/visual/link_12.0_left.mtl",
+    "bytes": 236,
+    "sha256": "ea595f92d913827f629051ce12661f90587854ea94f21c3665783f7f6c67fbb2"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/allegro/visual/link_12.0_left.obj",
+    "bytes": 269052,
+    "sha256": "59ba34b4fe47f46381bf02ce835bae978411095c632fee6006823135daa9915a"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/allegro/visual/link_12.0_right.glb",
+    "bytes": 217268,
+    "sha256": "53e6798f41c0b3b2eff598a6afec322d04ba2f848c00100aeb31c7f04e765809"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/allegro/visual/link_12.0_right.mtl",
+    "bytes": 232,
+    "sha256": "9fe02681269c274299689f750c91c104253bc14fbf25045df935e44fbb01f9eb"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/allegro/visual/link_12.0_right.obj",
+    "bytes": 283840,
+    "sha256": "cd4ed89d517ab35fc1148d50d695672d6720df5e45e931039f14c227ae8a2047"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/allegro/visual/link_13.0.glb",
+    "bytes": 20140,
+    "sha256": "ab032e67897db4ac66343914f9a862afd9efeea44b9f2328ae42d4dd8ad31830"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/allegro/visual/link_13.0.mtl",
+    "bytes": 232,
+    "sha256": "9fe02681269c274299689f750c91c104253bc14fbf25045df935e44fbb01f9eb"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/allegro/visual/link_13.0.obj",
+    "bytes": 20840,
+    "sha256": "774f0a09ae38e0ce3192cf53063cc39d9c8400096435a4491bac52f25c7012ff"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/allegro/visual/link_14.0.glb",
+    "bytes": 44288,
+    "sha256": "726b42767f0b7f29e6a822df52d278a213d8c017364f330560645d5fc3a918d3"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/allegro/visual/link_14.0.mtl",
+    "bytes": 232,
+    "sha256": "9fe02681269c274299689f750c91c104253bc14fbf25045df935e44fbb01f9eb"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/allegro/visual/link_14.0.obj",
+    "bytes": 50104,
+    "sha256": "0b5d6e3e2294abb0c046bd2397021877e012fd14ebf899713470f8bdfca32d38"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/allegro/visual/link_15.0.glb",
+    "bytes": 41696,
+    "sha256": "3bbf8697a7923cb2aa1c0144571068806c83f3346820ca27ce65b8a7c9c1fb48"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/allegro/visual/link_15.0.mtl",
+    "bytes": 232,
+    "sha256": "9fe02681269c274299689f750c91c104253bc14fbf25045df935e44fbb01f9eb"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/allegro/visual/link_15.0.obj",
+    "bytes": 49458,
+    "sha256": "f682074d43e0f3dc08a44eb6a821bf93fff9015b168cb1e75913aaaea4873782"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/allegro/visual/link_2.0.glb",
+    "bytes": 50284,
+    "sha256": "67f2184095711736cc03a315c79b5167299c4039ae2e6cd2b6b7b7fd8f8669e1"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/allegro/visual/link_2.0.mtl",
+    "bytes": 232,
+    "sha256": "9fe02681269c274299689f750c91c104253bc14fbf25045df935e44fbb01f9eb"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/allegro/visual/link_2.0.obj",
+    "bytes": 60526,
+    "sha256": "81886acc0097e0872c3ff7004025481a984fd73d9ebe70213693d6d66a713e07"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/allegro/visual/link_3.0.glb",
+    "bytes": 16296,
+    "sha256": "a7c1b43da27f17611cc9cf6687517acbd3f91f263d123d3f1ac10081ec3b619a"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/allegro/visual/link_3.0.mtl",
+    "bytes": 232,
+    "sha256": "9fe02681269c274299689f750c91c104253bc14fbf25045df935e44fbb01f9eb"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/allegro/visual/link_3.0.obj",
+    "bytes": 16527,
+    "sha256": "6495c4ed4e0950539c0e6145c3593b065ed0befe5e2802d2fade0d66c840dd72"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/allegro/visual/link_4.0.glb",
+    "bytes": 20472,
+    "sha256": "0a3dce458365c3251cd6e286673f0f1b6be75ffa44fa72724b557518d1f29dc3"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/allegro/visual/link_4.0.mtl",
+    "bytes": 232,
+    "sha256": "9fe02681269c274299689f750c91c104253bc14fbf25045df935e44fbb01f9eb"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/allegro/visual/link_4.0.obj",
+    "bytes": 20978,
+    "sha256": "ac59782293ebf679e40e8db47a48bd1aae918ecac2098c2992f70994203a0700"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/allegro/visual/link_tip.glb",
+    "bytes": 78524,
+    "sha256": "578c515dda261f5f633ed3d9de2c588843b4a4bc009e82be672aafa3f8663555"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/allegro/visual/link_tip.mtl",
+    "bytes": 231,
+    "sha256": "ea6c5affc10c704bb36d608488152de69e2bc63468405139bb404404b04e0a45"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/allegro/visual/link_tip.obj",
+    "bytes": 118848,
+    "sha256": "4c1cdca17b218ad9cf912ff2ecc9509bfff35fdc8ca4c58468e8c5e9689d30b7"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/barrett/collision/base_link_cylinder.obj",
+    "bytes": 14991,
+    "sha256": "49c5e25eaa9d308e0eecc3275d560670ed005029ba0f3f2a230a7b7640586ae2"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/barrett/collision/prox_link_cylinder.obj",
+    "bytes": 7370,
+    "sha256": "bf699a29e783c35f3eb095cec1d1ae1361e89139307f6aa78bd8b69e59b25c52"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/barrett/visual/base_link.glb",
+    "bytes": 470508,
+    "sha256": "adf5a24b9beb12f80d6150be1d3997b151590e0cf2d427c875afa56bd1127c45"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/barrett/visual/base_link.mtl",
+    "bytes": 427,
+    "sha256": "95e7d51a8fb0731c4bd49f990b002026c6df86b56b5d3f76edf24652694069f1"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/barrett/visual/base_link.obj",
+    "bytes": 489745,
+    "sha256": "e963f3f9570b1ec41c1084c5d5725994a4f5bc1a8be8c07fe3b333892bef66fa"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/barrett/visual/dist_link.glb",
+    "bytes": 189552,
+    "sha256": "023c444c1acec07c0eed03ef9e86c9e07c46b143fb224dd9fb29083948d3e287"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/barrett/visual/dist_link.mtl",
+    "bytes": 427,
+    "sha256": "95e7d51a8fb0731c4bd49f990b002026c6df86b56b5d3f76edf24652694069f1"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/barrett/visual/dist_link.obj",
+    "bytes": 190698,
+    "sha256": "7de4ace9a09910bc42578c456871f48df7e2916ce6cc2fef3cfeb918f1e54a39"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/barrett/visual/med_link.glb",
+    "bytes": 44408,
+    "sha256": "9f8c88b063da027430be4e5bef3a35337f1d8be6e7ead93b5f98b45f8cfb8a12"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/barrett/visual/med_link.mtl",
+    "bytes": 243,
+    "sha256": "ade8fc6d6b9d7aadb924f1a2ac4198b3727714eeaac8835266087ca95b73e464"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/barrett/visual/med_link.obj",
+    "bytes": 42485,
+    "sha256": "066c870b44c34dfde43a855fd1574882b855cbcb93dfda2a1a6753d543995530"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/barrett/visual/prox_link.glb",
+    "bytes": 91996,
+    "sha256": "6c9faae8c11ea6e302539fbe577bd281dd0bed44903e0df637fa161877f3ff0b"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/barrett/visual/prox_link.mtl",
+    "bytes": 243,
+    "sha256": "ade8fc6d6b9d7aadb924f1a2ac4198b3727714eeaac8835266087ca95b73e464"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/barrett/visual/prox_link.obj",
+    "bytes": 90196,
+    "sha256": "72797ef02e2183e1499ad046835b3c1ffcc9f7fdb309bb523c30ae5d4e7dfc3e"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/dclaw/collision/base_link_cylinder.obj",
+    "bytes": 7370,
+    "sha256": "038fce444975c9d763a26ba594cc1f2ffc75f5d20c2602ef2c2e80c282ac2b0f"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/dclaw/collision/finger_tip.obj",
+    "bytes": 72020,
+    "sha256": "186a67df7b7f27734ca0f936b0c646d14d8c17058a9456d66845b0511fb5f303"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/dclaw/visual/base_link.glb",
+    "bytes": 3176500,
+    "sha256": "438e5ab306e31130ec4cc6ac03662cc76e45bf6c2e8dd394c70fded44a2b6120"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/dclaw/visual/base_link.mtl",
+    "bytes": 244,
+    "sha256": "618dd8abda77f6824d8fd3baf60cabc9a60d7bdbaf9a946c3dc873a7df70ca23"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/dclaw/visual/base_link.obj",
+    "bytes": 2691993,
+    "sha256": "adc9593bccc40dc3e98ad3c3e88343c12b350c62e32df12b160c663c223578a6"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/dclaw/visual/link_1.glb",
+    "bytes": 2325976,
+    "sha256": "fe0232aecae53efbf45c8482d05155126cf5b3c8262976b7a268f680d0ce933c"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/dclaw/visual/link_1.mtl",
+    "bytes": 244,
+    "sha256": "618dd8abda77f6824d8fd3baf60cabc9a60d7bdbaf9a946c3dc873a7df70ca23"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/dclaw/visual/link_1.obj",
+    "bytes": 1904112,
+    "sha256": "376d9d100ed6235e4e4bf32242964ca0ad2dac0a89c18032a37ecf2c076ae7e7"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/dclaw/visual/link_2.glb",
+    "bytes": 2379768,
+    "sha256": "bfb59659008d10bced76bf1a271fd6df494351b3e60a1052e56a772fd8784392"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/dclaw/visual/link_2.mtl",
+    "bytes": 244,
+    "sha256": "618dd8abda77f6824d8fd3baf60cabc9a60d7bdbaf9a946c3dc873a7df70ca23"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/dclaw/visual/link_2.obj",
+    "bytes": 1895985,
+    "sha256": "667d6484f6fba50fc2d4d3d67476035944aa60f855e5bf85d83ff4c08393f7cf"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/dclaw/visual/link_3.glb",
+    "bytes": 957224,
+    "sha256": "99d640b75e97f24a674a4bede31d095b9761634c6ca2a873b0267d664b24a253"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/dclaw/visual/link_3.mtl",
+    "bytes": 244,
+    "sha256": "618dd8abda77f6824d8fd3baf60cabc9a60d7bdbaf9a946c3dc873a7df70ca23"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/dclaw/visual/link_3.obj",
+    "bytes": 839825,
+    "sha256": "47bc7ecb8570e87552102565349ad9ab3391f64b17ef15a449df185167a5bb9b"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/inspire/collision/left_index_intermediate.obj",
+    "bytes": 104519,
+    "sha256": "7e29a7ed6b070a6a07cde1a60356c5b993e601d3a72c02d83bf1296f0f5fb902"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/inspire/collision/left_index_proximal.obj",
+    "bytes": 42128,
+    "sha256": "e4729ae88acb28358ba90a094c0a014a3536cc112a7451bc14ecc34baa399026"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/inspire/collision/left_middle_intermediate.obj",
+    "bytes": 101298,
+    "sha256": "58f8e4f6bd3e5df1e02c4fb08e72cffda93a8ba69eba5d723424d70171d0aa29"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/inspire/collision/left_pinky_intermediate.obj",
+    "bytes": 164842,
+    "sha256": "78455326a6e15df785fb0e2f55662e43e8231e4cabedb8aa4ffe6e2a95890198"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/inspire/collision/left_thumb_distal.obj",
+    "bytes": 70918,
+    "sha256": "37b579f6cd36fe4599e400d7d56eab4f913fc3c255ce5e3af57d6f496a87b053"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/inspire/collision/left_thumb_intermediate.obj",
+    "bytes": 44768,
+    "sha256": "b2c83a75ab32e3044fe132e4e652135e5978d3c61c1cef4641cd70225859525f"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/inspire/collision/left_thumb_proximal.obj",
+    "bytes": 59031,
+    "sha256": "954b06c2605e1e56042aa2cbcb6e044cc49f200d3da4e40a84ae5dae01e5fc82"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/inspire/collision/left_thumb_proximal_base.obj",
+    "bytes": 5415,
+    "sha256": "89b9807a27b9139a4abaf87a8204c6b7990d3d3145ee220893dd62306f3be8f8"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/inspire/collision/right_index_intermediate.obj",
+    "bytes": 169645,
+    "sha256": "dd53ff65ae730edafd9ff80a90615c50576a0dd0acd228b2c0bdb03271fed417"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/inspire/collision/right_index_proximal.obj",
+    "bytes": 70325,
+    "sha256": "b03fd612bc35f229d7d567801165f2bfa241a8fc3ed6ef00e8c8fd4e143f222d"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/inspire/collision/right_middle_intermediate.obj",
+    "bytes": 69424,
+    "sha256": "cdd6b0035d17b2ae8ca908b743ab85da74aa0415b30ea911bd4c5be376a91ca0"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/inspire/collision/right_pinky_intermediate.obj",
+    "bytes": 112643,
+    "sha256": "34f210b27d682ac50aaed9632b8cc6d09fddb6c08fa7d0d25428eeaa2b3441be"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/inspire/collision/right_thumb_distal.obj",
+    "bytes": 116917,
+    "sha256": "45fda90356a618728e33db7f5077b591b3aa778ada8395e5ee2d68080ab16a3d"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/inspire/collision/right_thumb_intermediate.obj",
+    "bytes": 75284,
+    "sha256": "c8779b10337cca5477abc35f3287f6f5d07fbe58933a43738ebd1d1e297c560d"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/inspire/collision/right_thumb_proximal.obj",
+    "bytes": 98037,
+    "sha256": "e58d05f48e5a5bb72b14fe16e516e5c6d779da9722d58704765c5ca715bbfa10"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/inspire/collision/right_thumb_proximal_base.obj",
+    "bytes": 9466,
+    "sha256": "058319b2f7fb81b67e34f442171c7672a9b953652e80f263edb4b12968ddb2f5"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/inspire/visual/left_base_link.glb",
+    "bytes": 898872,
+    "sha256": "f69967f7eecd1806baf1e67c32488c17ba16f1f5f5701204fdeb6d49331f5a15"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/inspire/visual/left_index_intermediate.glb",
+    "bytes": 167048,
+    "sha256": "3a4bd7dae131b19da606b7611680c9886e83072d6c61e7b947bc735c8ab29747"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/inspire/visual/left_index_proximal.glb",
+    "bytes": 212348,
+    "sha256": "1ea4313f0efc0a18de3d2b7d06145760a574c0d19b21b001f7227e0e8e22ecf9"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/inspire/visual/left_middle_intermediate.glb",
+    "bytes": 161244,
+    "sha256": "672ef42a4fe9a3adf1aa93ad579c12419085c7b164dc3895b441fc318fdee885"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/inspire/visual/left_pinky_intermediate.glb",
+    "bytes": 204556,
+    "sha256": "2bbeb5d8013f95f4a567004364e74ece6f5e367e8597ef630aefb462fd223990"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/inspire/visual/left_thumb_distal.glb",
+    "bytes": 45312,
+    "sha256": "993a02fe7f87003960c104bf6fdc76a297dc4a100b1de50042074d906dc52589"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/inspire/visual/left_thumb_intermediate.glb",
+    "bytes": 89504,
+    "sha256": "22e0c4cfd7b531d36f0bd9ead646c51c2257f39a00a68b7d236b5b2c78fee505"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/inspire/visual/left_thumb_proximal.glb",
+    "bytes": 45684,
+    "sha256": "658c983511369d1817a2206694540e1074908752f70ee730c7b2d6173fa747fa"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/inspire/visual/left_thumb_proximal_base.glb",
+    "bytes": 39924,
+    "sha256": "0623a10ac8f6d7a0f5d8b974fa48af59da7f46d2440bed1e4161f385feb1883e"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/inspire/visual/right_base_link.glb",
+    "bytes": 851444,
+    "sha256": "5e4523c936818785318829a5ae64831994d7a85814e53d6461c0ee9212ca6750"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/inspire/visual/right_index_intermediate.glb",
+    "bytes": 167248,
+    "sha256": "55f2041dd7674ba95d3fca88dbfdd721bf6f4c4b17d8ae56733ca040a6ee0584"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/inspire/visual/right_index_proximal.glb",
+    "bytes": 225860,
+    "sha256": "aa989ff69ebf066dabef421ed9062d34a4588162aa1569c717a3262a99a031ba"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/inspire/visual/right_middle_intermediate.glb",
+    "bytes": 146144,
+    "sha256": "57ae7d1525270ac4edef4f9ff1b98898e3943e39d3ccc4ab068831fd54349636"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/inspire/visual/right_pinky_intermediate.glb",
+    "bytes": 204908,
+    "sha256": "6b49449acc77fc66f78eaa2025e608b8eae94f22c1cc3e6b6663c960035675e3"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/inspire/visual/right_thumb_distal.glb",
+    "bytes": 45788,
+    "sha256": "eb4f5ac8fc524c0c70d06f98dd897307a0a340fa74091d3345c981d2a8f23cf8"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/inspire/visual/right_thumb_intermediate.glb",
+    "bytes": 88992,
+    "sha256": "1e9df1f663633b73c918479c2b27bd7c586a90a7c9273f10b00e87030197c228"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/inspire/visual/right_thumb_proximal.glb",
+    "bytes": 45796,
+    "sha256": "c3b9fdd15bcea183e0f05fa261cb7da93ba4d905e7fa04906c7776c9d3975d5a"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/inspire/visual/right_thumb_proximal_base.glb",
+    "bytes": 40060,
+    "sha256": "3e1143d3fc366a169e795be8003892f7e5d7cd5b7b322ac55b39089aca5c9f81"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/leap/collision/white_tip.obj",
+    "bytes": 640739,
+    "sha256": "bbc1d4b64f4f4115fb0fd776a14abd9496e339804bf42cb645d30aee13e61f88"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/leap/collision/white_tip_thumb.obj",
+    "bytes": 402712,
+    "sha256": "80e7c3de59c0b1b141e2c91ffa36374bef11636e362173d7a68a79022829020f"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/leap/visual/dip.glb",
+    "bytes": 1485152,
+    "sha256": "548013ccb478a29552b2d8e150cc5f90f45c6a638bc008e9ed4f81b23228a6c0"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/leap/visual/dip.mtl",
+    "bytes": 253,
+    "sha256": "240a97143e932aba69009abdd728066939517cf808108623a014ef577976caeb"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/leap/visual/dip.obj",
+    "bytes": 1013886,
+    "sha256": "472e054348c5a0e987829e721d5ba8486ddd47d867e416bb45d8d2a2ff917acf"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/leap/visual/fingertip.glb",
+    "bytes": 544612,
+    "sha256": "e422eb83230fed126c38d7b6f43a5f9ec71b58059c8acefdcf6b2ec04bdc0e7c"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/leap/visual/fingertip.mtl",
+    "bytes": 436,
+    "sha256": "7e972e2fb3bd55d0aac677a6cc41a2c1a6678868ac0b4f1a03af5786540fc3d7"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/leap/visual/fingertip.obj",
+    "bytes": 359831,
+    "sha256": "6bfa2afb2a06557ce0c54b03baec13522bfe561aabb576bd4701d4704f93ec0f"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/leap/visual/mcp_joint.glb",
+    "bytes": 1557804,
+    "sha256": "7b33228fa19433e260c20588698416d4a0fc7018cdf927c28316513d21f79c3e"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/leap/visual/mcp_joint.mtl",
+    "bytes": 253,
+    "sha256": "240a97143e932aba69009abdd728066939517cf808108623a014ef577976caeb"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/leap/visual/mcp_joint.obj",
+    "bytes": 1065471,
+    "sha256": "3d7194a6a33626ffcdfce78a0ca854e67b6b49f2e09a3bd62656f94515fdfbec"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/leap/visual/palm_lower.glb",
+    "bytes": 5045588,
+    "sha256": "3262010395bce54e8441adffc704b4cf10a2a1f69c3aa726ff5bb63de61a9f57"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/leap/visual/palm_lower.mtl",
+    "bytes": 253,
+    "sha256": "240a97143e932aba69009abdd728066939517cf808108623a014ef577976caeb"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/leap/visual/palm_lower.obj",
+    "bytes": 2978219,
+    "sha256": "90d1d9b2a1c9eea15fbeb2232019c6191a55a3c4afa7f7427ce7afa0e3108b07"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/leap/visual/palm_lower_left.glb",
+    "bytes": 5338144,
+    "sha256": "c080628e0d47dd074db4499a942a3d623261034d6dabbb5c3b6be985eb1a7977"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/leap/visual/palm_lower_left.mtl",
+    "bytes": 236,
+    "sha256": "8d089b69a407ec56c2beea4be14c24d0be0a8eab7fae7df04f35cb147ef69153"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/leap/visual/palm_lower_left.obj",
+    "bytes": 4514064,
+    "sha256": "5369c7bb802fb7effb58ff24d64da77b8630330c800cf490d96b631e93fed1e9"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/leap/visual/pip.glb",
+    "bytes": 1036400,
+    "sha256": "f538bd1a1aff270032c55ec12b6b5f6df263465d8ad70900ef71ea8b3c7755f2"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/leap/visual/pip.mtl",
+    "bytes": 253,
+    "sha256": "240a97143e932aba69009abdd728066939517cf808108623a014ef577976caeb"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/leap/visual/pip.obj",
+    "bytes": 673869,
+    "sha256": "3fff19dc1f0100bb5f34eaf8a40fcf3db40f96fd7179bb7336e538b21ff8e067"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/leap/visual/pip_left.glb",
+    "bytes": 1076996,
+    "sha256": "297c1aa40bc83e12b471f0e16950188153ea88f20a3fe8197823b9c1a3702470"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/leap/visual/pip_left.mtl",
+    "bytes": 236,
+    "sha256": "8d089b69a407ec56c2beea4be14c24d0be0a8eab7fae7df04f35cb147ef69153"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/leap/visual/pip_left.obj",
+    "bytes": 1115403,
+    "sha256": "8a9206845849784efef43486e2dafaad142f32a53c0d0fdde0381d178ec6acb4"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/leap/visual/thumb_dip.glb",
+    "bytes": 1452096,
+    "sha256": "90d8564dfc71b191a14a0464c6812255f32350647bae32eab8eac15972cc6db5"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/leap/visual/thumb_dip.mtl",
+    "bytes": 253,
+    "sha256": "240a97143e932aba69009abdd728066939517cf808108623a014ef577976caeb"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/leap/visual/thumb_dip.obj",
+    "bytes": 968312,
+    "sha256": "5b402876601f2b0b36631e6a54ad20588f88e74f52320b6c902a8bc694578689"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/leap/visual/thumb_fingertip.glb",
+    "bytes": 1263544,
+    "sha256": "a88ba3ddc33179f6cb9427ab5dc8019dc1005d38ba1b75adf36d1c5531a30654"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/leap/visual/thumb_fingertip.mtl",
+    "bytes": 436,
+    "sha256": "7e972e2fb3bd55d0aac677a6cc41a2c1a6678868ac0b4f1a03af5786540fc3d7"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/leap/visual/thumb_fingertip.obj",
+    "bytes": 734609,
+    "sha256": "4695d72a70285e8a0132ed4de49876cf99c813182e3a24b172b53631224890de"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/leap/visual/thumb_pip.glb",
+    "bytes": 402568,
+    "sha256": "4fc1fcc3421ef81e07492ec1842e2fba1b2c3dcf60007ba2ae03525836e5be2d"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/leap/visual/thumb_pip.mtl",
+    "bytes": 253,
+    "sha256": "240a97143e932aba69009abdd728066939517cf808108623a014ef577976caeb"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/leap/visual/thumb_pip.obj",
+    "bytes": 294575,
+    "sha256": "d28876cc3b674323aa7d8a628a4240cda2757c61263b05e86a66280035a2689d"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/rm65/rm65_base_link.stl",
+    "bytes": 389684,
+    "sha256": "cab60b1d90f964f4fdb89e55809e5aae844ab3b7f585babc6aa232b080e2b445"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/rm65/rm65_link1.stl",
+    "bytes": 266184,
+    "sha256": "14756351009a3a6be8916068d67ff8b1ac0ed046ace47ceebe28ed8a8f2d7995"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/rm65/rm65_link2.stl",
+    "bytes": 495684,
+    "sha256": "fe6457ac59723c6e35e0c12c809c171d21b9165bf2f1782ddc8998c492706383"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/rm65/rm65_link3.stl",
+    "bytes": 268884,
+    "sha256": "caa28db987ecec82f4b5584f53c0a4c10460177912bef8bdc70dff6f7e8e9219"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/rm65/rm65_link4.stl",
+    "bytes": 250284,
+    "sha256": "7fc66e41318399ee534fbfc59fd49b830a36ece4a558de133f31a7644bac0580"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/rm65/rm65_link5.stl",
+    "bytes": 267784,
+    "sha256": "482832743269f83b98599dfbb3b3fb59c876df6ba61b7954c9a1e2928996d219"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/rm65/rm65_link6.stl",
+    "bytes": 219084,
+    "sha256": "e1334db72ddbf360c16309350b76b5190b255c55cda24fcb6c8fadfa7f84474b"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/shadow/collision/f_distal_pst.obj",
+    "bytes": 29008,
+    "sha256": "60fc4387b60b9362cdbc5b40d8f3869247cc5049de75fc6e7e7ae32cf8e87e33"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/shadow/collision/f_knuckle_E3M5.obj",
+    "bytes": 7362,
+    "sha256": "7b76866ef85a388f79dba377293c7d12a17154d369c225e760afa9ccd5fa6b22"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/shadow/collision/forearm_E3M5.obj",
+    "bytes": 29880,
+    "sha256": "ae348fdf00c61695dbd484455070101e901d89f3977a7585ae575742cec4a3be"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/shadow/collision/th_middle_E3M5.obj",
+    "bytes": 321510,
+    "sha256": "de7278a75a3cc202f7186f0e0701c22c2cd6cdaf6ea68f991cbefb819d7bce38"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/shadow/collision/th_proximal_E3M5.obj",
+    "bytes": 353175,
+    "sha256": "1763d80c8e34ed86bc20f0de67cd683aaf10eb7ff3b8395a9ab2b35554183c4c"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/shadow/visual/f_distal_pst.glb",
+    "bytes": 393712,
+    "sha256": "a961159aafcda9906e30456dbe6956890b207bea6dd82aa83494473a2a7692a4"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/shadow/visual/f_distal_pst.mtl",
+    "bytes": 237,
+    "sha256": "997065356d2a865204443d1cba21d19067369da599e9d3a4bbaa02bfe8ef3360"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/shadow/visual/f_distal_pst.obj",
+    "bytes": 378684,
+    "sha256": "04d7ddc2166089b0c670806c1d1eb4b47b8f8c48428c00581b0fe64d59d4e5f8"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/shadow/visual/f_knuckle_E3M5.glb",
+    "bytes": 41528,
+    "sha256": "4cfd18bc698f89813900fd1a743459b35f95c8aa3d873e37bd5749ef4cdef16a"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/shadow/visual/f_knuckle_E3M5.mtl",
+    "bytes": 237,
+    "sha256": "a689c3f677cda3adfa1cabd6f60c7b17770ad6cecc3d9aea57f6be4865ff1510"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/shadow/visual/f_knuckle_E3M5.obj",
+    "bytes": 36617,
+    "sha256": "1452690f5f93875665e5b23f022e89fa04f2a6aab6e49ae0112db7821f759792"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/shadow/visual/f_middle_E3M5.glb",
+    "bytes": 33764,
+    "sha256": "88aa04c5c084e64eb1d210c74638d552fb3efbdff6e5875f0193fe22a40a695d"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/shadow/visual/f_middle_E3M5.mtl",
+    "bytes": 237,
+    "sha256": "997065356d2a865204443d1cba21d19067369da599e9d3a4bbaa02bfe8ef3360"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/shadow/visual/f_middle_E3M5.obj",
+    "bytes": 29082,
+    "sha256": "c1c0b460c69894cbef8bc1ab8bfed6112832a20aa77531f3823a4fb8090daeac"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/shadow/visual/f_proximal_E3M5.glb",
+    "bytes": 78800,
+    "sha256": "9c43089eac777d05cf902620931b81870aa3bfb811370ffa58d34548577d8c85"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/shadow/visual/f_proximal_E3M5.mtl",
+    "bytes": 237,
+    "sha256": "997065356d2a865204443d1cba21d19067369da599e9d3a4bbaa02bfe8ef3360"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/shadow/visual/f_proximal_E3M5.obj",
+    "bytes": 71175,
+    "sha256": "adb5475347a153997da789b0ab46b3b1b945906c9bf6a4e28787150ed3afa8cd"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/shadow/visual/forearm_E3M5.glb",
+    "bytes": 471844,
+    "sha256": "82bbef2f9dead84f527fef66bd1993895477388daeb1550b9bcd7a25e713754c"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/shadow/visual/forearm_E3M5.mtl",
+    "bytes": 609,
+    "sha256": "5f99cbfe0015ff932b593b00f3d42c1b68928a49ef7d7ec6918c04f48528709d"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/shadow/visual/forearm_E3M5.obj",
+    "bytes": 442301,
+    "sha256": "67f719d4131da5edd1c43e8a560481087074833e3fe4580f4ffe0ea3d07691fb"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/shadow/visual/lf_metacarpal_E3M5.glb",
+    "bytes": 107936,
+    "sha256": "3be27d164d5eafa1ab272d755f5f363454c5204102135ef0bb486045520b878f"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/shadow/visual/lf_metacarpal_E3M5.mtl",
+    "bytes": 237,
+    "sha256": "997065356d2a865204443d1cba21d19067369da599e9d3a4bbaa02bfe8ef3360"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/shadow/visual/lf_metacarpal_E3M5.obj",
+    "bytes": 98772,
+    "sha256": "def539fcdefb4399ae69cb4fc5b2c5296b43ec7015c5581c2b90e7643a030a62"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/shadow/visual/lf_metacarpal_E3M5_left.glb",
+    "bytes": 107824,
+    "sha256": "b69f0ad7600c6f1eb7c74ba563d0acaa5864b31531e94a660ba8bf5cd7a23817"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/shadow/visual/lf_metacarpal_E3M5_left.mtl",
+    "bytes": 237,
+    "sha256": "aced883bd97a1bd04abe5c74e44224a7116eab8cc61f332a51c3b4a1e017c7d2"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/shadow/visual/lf_metacarpal_E3M5_left.obj",
+    "bytes": 43756,
+    "sha256": "dbe1dc639cd9c212229a4010f60ebc56b174ff6891eac05410e6bee2965f927f"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/shadow/visual/palm_E3M5.glb",
+    "bytes": 857944,
+    "sha256": "dcb1a4b613d28970100090830626a09ad1ca4d5479278880226baa7ed915a3fc"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/shadow/visual/palm_E3M5.mtl",
+    "bytes": 237,
+    "sha256": "997065356d2a865204443d1cba21d19067369da599e9d3a4bbaa02bfe8ef3360"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/shadow/visual/palm_E3M5.obj",
+    "bytes": 807151,
+    "sha256": "529d6bcf4f356aeaece8a9c884d98bc399d039fdb2f3174449aeaaf262aa812d"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/shadow/visual/palm_E3M5_left.glb",
+    "bytes": 858264,
+    "sha256": "1f9871bc32f2385187a199fa840c08528201f5ba05d690388b652326e6eb8714"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/shadow/visual/palm_E3M5_left.mtl",
+    "bytes": 237,
+    "sha256": "8e79f263296075919dff5bd28d6eb21fe2d4ca7704d848e306f41dd788663c3a"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/shadow/visual/palm_E3M5_left.obj",
+    "bytes": 385205,
+    "sha256": "3f7b3a9f8e00602aaba900fe107a19e7a9ab480750faa63812311d5009711bdf"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/shadow/visual/th_distal_pst.glb",
+    "bytes": 353408,
+    "sha256": "b664fc97df01a855e237a1cac0b25e6dfeb3322ead9c77dc338877cb5854d6e7"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/shadow/visual/th_distal_pst.mtl",
+    "bytes": 237,
+    "sha256": "997065356d2a865204443d1cba21d19067369da599e9d3a4bbaa02bfe8ef3360"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/shadow/visual/th_distal_pst.obj",
+    "bytes": 338390,
+    "sha256": "da8ca3aa9aeceeb6aac940a6db0605cac4014dcd496133080bc5787e217346ce"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/shadow/visual/th_middle_E3M5.glb",
+    "bytes": 95600,
+    "sha256": "3ee962b02fd4d1f40cf71e9d44c10fccaea022c5c08312ab318b6045b8426a3b"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/shadow/visual/th_middle_E3M5.mtl",
+    "bytes": 237,
+    "sha256": "997065356d2a865204443d1cba21d19067369da599e9d3a4bbaa02bfe8ef3360"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/shadow/visual/th_middle_E3M5.obj",
+    "bytes": 85987,
+    "sha256": "49416cd8b0ca8a976749cc7c954ce56a59fc9e4664c68fc931d14a1a53ffd2ba"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/shadow/visual/th_proximal_E3M5.glb",
+    "bytes": 30940,
+    "sha256": "3a16729bc49472397cc02663998e903f49cab353b9385d4469b801d6c9ceadb9"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/shadow/visual/th_proximal_E3M5.mtl",
+    "bytes": 237,
+    "sha256": "997065356d2a865204443d1cba21d19067369da599e9d3a4bbaa02bfe8ef3360"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/shadow/visual/th_proximal_E3M5.obj",
+    "bytes": 26737,
+    "sha256": "c021a0c066743274d4133d0e85146a3fa3433102616a5e56e2aa18ff602bf996"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/shadow/visual/wrist_E3M5.glb",
+    "bytes": 132856,
+    "sha256": "e7f04596fc7e45d5f33f797a20187842433e36c560cde1eae8fe6f51728b915e"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/shadow/visual/wrist_E3M5.mtl",
+    "bytes": 237,
+    "sha256": "ddf7562276de61678b848d82160baee5c654af0de07c744581a740f2e1b6ba45"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/shadow/visual/wrist_E3M5.obj",
+    "bytes": 124663,
+    "sha256": "29724f4640064dde710b3725cbd37b0ee1ba8e000b0b5ad402d66bbba284bd29"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/svh/collision/d11.obj",
+    "bytes": 12531,
+    "sha256": "52808c3e08e71cfa0855389ea9dc766cc9d60f6e5a2737cf109251d627da3ea2"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/svh/collision/d11_left.obj",
+    "bytes": 12561,
+    "sha256": "bd37f58bd09fd12f9ad9a5304a9dd893edf589aa03d52b317bbf18f8fd71d6e0"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/svh/collision/d12.obj",
+    "bytes": 20074,
+    "sha256": "1f105ba785377433f8358f944f6966c62e49701358b03bc6f2de9d958de85e85"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/svh/collision/d12_left.obj",
+    "bytes": 11709,
+    "sha256": "298f1b37993035372dec3549151f64ea429b9bc5219c8a8b193d5b9f355aa192"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/svh/collision/d13.obj",
+    "bytes": 10339,
+    "sha256": "222d28123d15145cab9b99b1b51f57ca32b9e249d5f5c35e2b6f50bb7fc08d26"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/svh/collision/d13_left.obj",
+    "bytes": 5934,
+    "sha256": "5dc4debce6b7aad8835171488c5835ebfb314bb64e386451fa6eac98db473e48"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/svh/collision/f11.obj",
+    "bytes": 9192,
+    "sha256": "e6dfd6157b3542f0d1c3f1e3a8b3fff6d1aca73dd0d4f64e459b74d5af3c0c75"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/svh/collision/f12.obj",
+    "bytes": 26526,
+    "sha256": "0518531385ebc027807240b3c1ad4f2963f01ead98b86fc0121adf519b48d1b5"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/svh/collision/f21.obj",
+    "bytes": 8659,
+    "sha256": "10066df55328bbde94c30cdaf6d098962ba68bc5d6e996ab07721fc5970c156f"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/svh/collision/f22_f32.obj",
+    "bytes": 30409,
+    "sha256": "07ac1ed0e8c6da49dad9fdbff6b0672de1cf47d9e737a18eaff5ed090f6d0a13"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/svh/collision/f31.obj",
+    "bytes": 4950,
+    "sha256": "f47a0654479cc1b139b42f4e0e2619b66d746cac72e31984e4ac2467fb019c6e"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/svh/collision/f41.obj",
+    "bytes": 7503,
+    "sha256": "1f86c8c614e7633cdc0e03f3dc79c0f8572e15f84326994d362115603b41a800"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/svh/collision/f42.obj",
+    "bytes": 17436,
+    "sha256": "ce707cc5cdbde0e0f13d4f8d47b311538e2c1f8ad237adb153aab24143b1bacd"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/svh/collision/finger_tip.obj",
+    "bytes": 17651,
+    "sha256": "253083989fb6824b2022c52c3089357a90657afbbea71f6e257760e2b7478a1c"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/svh/visual/base10.glb",
+    "bytes": 65352,
+    "sha256": "97afc4877751230ae05e7f0a7a79558c4ee133d9cb5c508d950b95940e0019fd"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/svh/visual/base10.obj",
+    "bytes": 57411,
+    "sha256": "a417edf6e6b45663f981b2be258c761551470132584708b0b8e4da04b0f175ef"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/svh/visual/d10.glb",
+    "bytes": 11300,
+    "sha256": "8ec2898e06d31bead803b436bf123f5abac897c6241355b6522334aae0ddad36"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/svh/visual/d10.obj",
+    "bytes": 25857,
+    "sha256": "236a4e402a9e4a11903e4ec213e74435951432ea623c1048e1d4d2f7cd039565"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/svh/visual/d10_left.glb",
+    "bytes": 11312,
+    "sha256": "6d82a284a812fe281ba2f20e0d39c8f9b34952a7e0e41b7fdc064819641180d5"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/svh/visual/d10_left.obj",
+    "bytes": 25862,
+    "sha256": "485e68fe98e73aa0306ced9159b40e3eac94ddc71edd876a74f34039dbd5384e"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/svh/visual/d11.glb",
+    "bytes": 23212,
+    "sha256": "fad69fe7d11c54c0c55054ab0e1650628dccb3bcb4c927c80d419f2f4032b639"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/svh/visual/d11.obj",
+    "bytes": 55829,
+    "sha256": "192d4ed0ef7a36c2845a6a768cc1eef7918cff29777b45c7c8e8115bc858965e"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/svh/visual/d11_left.glb",
+    "bytes": 23216,
+    "sha256": "fb2612093743d3b79279ad2cc3de4f5ec7ee65bc98cda7e08ef01614a4fac26b"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/svh/visual/d11_left.obj",
+    "bytes": 56204,
+    "sha256": "7635f5469b9c3e6328a2ab575aba0bfcb2e28c1164ccca0c5e0ecef8445cce0b"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/svh/visual/d12.glb",
+    "bytes": 14444,
+    "sha256": "3eab43dd8803592bcde1c3d5cf5a21deb642e341ef737a6854037064563e9bcb"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/svh/visual/d12.obj",
+    "bytes": 34733,
+    "sha256": "d93c0547ff67fc2b88d817cb79eb616b5555cbe411065692b951d5342939041d"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/svh/visual/d12_left.glb",
+    "bytes": 14452,
+    "sha256": "55233567a8bd30343505fc4b7472f8715015d8e9897162334b785fb60c8597a2"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/svh/visual/d12_left.obj",
+    "bytes": 34807,
+    "sha256": "81fe124d8ce2dbbb2eea5ce6def1b6bb8efb2a47c74a08b010ffb5ce33641755"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/svh/visual/d13.glb",
+    "bytes": 11788,
+    "sha256": "f5080c7ad409553e7505055454bc0cdf16b2288198b7802f6b33788df54dcc06"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/svh/visual/d13.obj",
+    "bytes": 26840,
+    "sha256": "dc8be8ee1f5ae7f2ccea88329c2a31dd5460c7b526d15cecd5e60837aef4bec4"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/svh/visual/d13_left.glb",
+    "bytes": 11796,
+    "sha256": "f7743c35e63b3a9cf9b25dc81d537e8ae23ddfec8cb121b247d270fa3c8bda3d"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/svh/visual/d13_left.obj",
+    "bytes": 26817,
+    "sha256": "e0f2174826c3bd658b7ac8c2ca0f7aeea7c3f6601425c0a758059380c418ee21"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/svh/visual/f10_f20.glb",
+    "bytes": 8616,
+    "sha256": "4d8121a11ef9a5b6ebe27b65b095b269fb1940cd25d582577a212a013701259a"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/svh/visual/f10_f20.obj",
+    "bytes": 18309,
+    "sha256": "83f0f607c6c0da70a0c7affdf09c50e38a7aed5e2f78fc0990335f6aed85a7c7"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/svh/visual/f11.glb",
+    "bytes": 22800,
+    "sha256": "9b0a6f0a44eb347ce79999a6da19e80e8fdd10642786bb6149f32df865436cc2"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/svh/visual/f11.obj",
+    "bytes": 56519,
+    "sha256": "89b8d79fe7ae9e49577c31a5a8566f378e95cbbc53b9f175d055427f77232434"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/svh/visual/f12.glb",
+    "bytes": 17408,
+    "sha256": "7f751bf042a30d4b5a9556f1a39f6f3136076617614a9ad64eb3de11308cbb63"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/svh/visual/f12.obj",
+    "bytes": 45020,
+    "sha256": "6cbef64f6e246479d7da474790f9db73f16c847e3bc0760789020931659a55f1"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/svh/visual/f21.glb",
+    "bytes": 22824,
+    "sha256": "06411c508ce7768d13fb4889fa194eec1ca78a973036be0b3bdea5ba3be5bf3d"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/svh/visual/f21.obj",
+    "bytes": 56610,
+    "sha256": "e266e08964bc614719919b803ca3ed9a5db6ad48b7349c6dba9cdd5ed249b212"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/svh/visual/f22_f32.glb",
+    "bytes": 18556,
+    "sha256": "61725d949513e86899cd1a75eef0c98a96d0654a3236a463e814bf97d6199295"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/svh/visual/f22_f32.obj",
+    "bytes": 48752,
+    "sha256": "00c35e29c129b68073d60f5df8f0f093545f399a03988da216eb343d7d2ec41a"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/svh/visual/f30_f40.glb",
+    "bytes": 8612,
+    "sha256": "5ce97835ab175f4b4f468a537612a7ea5d6f2935189fca40ca183e38b1978280"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/svh/visual/f30_f40.obj",
+    "bytes": 18152,
+    "sha256": "7446445d20a84fb1ee0384e419674ba25771304e67e1cdde004c3c28071a2041"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/svh/visual/f31.glb",
+    "bytes": 24716,
+    "sha256": "ae0260780378e03db449c5922f581d5f8f8ddeda30046133798bb557a715acb2"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/svh/visual/f31.obj",
+    "bytes": 62559,
+    "sha256": "a36b081baf7526427b7ddee001da8f4dd9a81553e2dc6b69de8ca2003ce438fb"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/svh/visual/f41.glb",
+    "bytes": 24716,
+    "sha256": "70955f0036a6afab758535d9479f69407fe96105e9ce1b8770bc2521d1c93b89"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/svh/visual/f41.obj",
+    "bytes": 62546,
+    "sha256": "03716108ae7b75117a8bad19ca9d96650bb530779f883b24e202d407e1170f0b"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/svh/visual/f42.glb",
+    "bytes": 15772,
+    "sha256": "4c2401950a1526369595dd809dacdcfebb6b31683b12bef59674f0362782d9eb"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/svh/visual/f42.obj",
+    "bytes": 44213,
+    "sha256": "7d926b70a635de4cd5d2efd6d34ad713377823265d1f229bb1d95e3773ec999c"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/svh/visual/finger.mtl",
+    "bytes": 1011,
+    "sha256": "8ae395c7bd4431f2bb950c52bd97d4b557754b353ff527ff9638830b373b6045"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/svh/visual/finger_tip.glb",
+    "bytes": 13628,
+    "sha256": "90b37fab655bbce5379de84738a3d0ddfae0bfb2f34c763d91cc68fb00ab8ade"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/svh/visual/finger_tip.obj",
+    "bytes": 32466,
+    "sha256": "18124aa5471efceab687cf6ec2188bb5960ce8ac10caea823a45ea8343823d30"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/svh/visual/h10.glb",
+    "bytes": 47632,
+    "sha256": "8cd18461a820b8cb791f6267829f72615daf9831bf207b5c412ad4c06c4af61b"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/svh/visual/h10.obj",
+    "bytes": 118254,
+    "sha256": "17f9b588d4e2720820d4d8bcdc11f8e819b767308e010b02e2275decde382207"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/svh/visual/h10_left.glb",
+    "bytes": 47684,
+    "sha256": "0406acbf7798a3728f97ba984e2a39f38a5422e013fa67966b6015d9d6ea60eb"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/svh/visual/h10_left.obj",
+    "bytes": 118162,
+    "sha256": "b6c988c110d09d3240e12cd8c3f11c5ef5e6134cfded783f1ccb5f413f539f60"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/svh/visual/h11.glb",
+    "bytes": 35920,
+    "sha256": "9f6ec0fdfd2b9b665d3be5b215313f07130dfc0d3f098622d6ce6414315e8535"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/svh/visual/h11.obj",
+    "bytes": 91231,
+    "sha256": "0c5d99a41e890c420a061bf5296b37e090d9aee09791432bf6cfc1ef34361944"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/svh/visual/h11_left.glb",
+    "bytes": 35952,
+    "sha256": "ca00f3b263aba7768ef8faa42ca934a448749f660f8e275a69cd83bccd3f27a8"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/svh/visual/h11_left.obj",
+    "bytes": 91965,
+    "sha256": "45d8e18ee47faa08ac7e43fcc91334b5014382e85cb5eda9c9056a8c2520736f"
+  },
+  {
+    "path": "/home/siyu/CrossDex/robot_randomization/meshes/svh/visual/palm.mtl",
+    "bytes": 1401,
+    "sha256": "87c0754452e16a69429277523e8bba9434cc64ad3f46a7935ab36a5fc5cee2d6"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/meshes/002_master_chef_can.stl",
+    "bytes": 819284,
+    "sha256": "1d0744957f6f826771be7546de7eb72883bb8beb44fdb9b5bf43e116c2537205"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/meshes/003_cracker_box.stl",
+    "bytes": 819284,
+    "sha256": "9c7373b52adef6a7e48032e7b4bd136865390fbfec11793a8666ff543d176e71"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/meshes/004_sugar_box.stl",
+    "bytes": 819284,
+    "sha256": "f7a4a30a02d101e1db0cd4d744a490713a72f970dcee7219d77820201166008d"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/meshes/005_tomato_soup_can.stl",
+    "bytes": 819284,
+    "sha256": "d27e084d5bd47cb57f478ce4b87dd710d70653db8c6d893bf3f9d1fd718d0b18"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/meshes/006_mustard_bottle.stl",
+    "bytes": 819284,
+    "sha256": "5bbe80258e86c06fb8f296dfc96a1cfb53ef593668069b2c46c18a0b53633da6"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/meshes/007_tuna_fish_can.stl",
+    "bytes": 819284,
+    "sha256": "82a4889e27ed707e8693b69daecd732be2702262389750abc4f40f9f9c39a8ea"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/meshes/008_pudding_box.stl",
+    "bytes": 819284,
+    "sha256": "a2b1238b9af3f667740918a6bf330a86f69dacb382cb960b21ce837c61f9fc6d"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/meshes/009_gelatin_box.stl",
+    "bytes": 819284,
+    "sha256": "04124a773d97cef30d7a96db003d776882466ab18f458666b689e34bfa5c04c7"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/meshes/010_potted_meat_can.stl",
+    "bytes": 819284,
+    "sha256": "04e283eb78fdb73a258e0d680f68a2dcbf2800fd631689e3731016e60581142f"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/meshes/011_banana.stl",
+    "bytes": 819284,
+    "sha256": "e4e9e89907602bef667669c5ca9ee236e66023a775336290d4886fc851faefc1"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/meshes/012_strawberry.stl",
+    "bytes": 819284,
+    "sha256": "73eb950514198531e3be830cd548e67c0dcddfbce6f0234ca6cbd9689dbb3bde"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/meshes/013_apple.stl",
+    "bytes": 819284,
+    "sha256": "452af6b9327a03c451aa47961f8e3782d14b1b3157da64cff37545a0468bbf4f"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/meshes/014_lemon.stl",
+    "bytes": 819284,
+    "sha256": "f2b52253d7c731eb44aa192711541241e1da70ee70b9e1ac530d3307c1687e52"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/meshes/015_peach.stl",
+    "bytes": 819284,
+    "sha256": "03dbcd421a3de4df79b49b58513920a36e5ea505a9ce5bf4adbbcf0962324b2f"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/meshes/016_pear.stl",
+    "bytes": 819284,
+    "sha256": "f7c19e02960d45917ac1c3f7803afe0343ddee0638edfeb3f3b4fc33f9650582"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/meshes/017_orange.stl",
+    "bytes": 819284,
+    "sha256": "983efd8c13a822690b7584548594e00e5cad930f5259ea8a02d58d19d5a65b87"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/meshes/018_plum.stl",
+    "bytes": 819284,
+    "sha256": "7019ed0c00b9f928919cbe660e1bc491757d09c6efd3d8b2bff14be821c271d5"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/meshes/019_pitcher_base.stl",
+    "bytes": 819284,
+    "sha256": "cba81552fc0bbf255d0311659cdef0bdccd0d7c0bd5f75a71168b2138d6f3655"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/meshes/021_bleach_cleanser.stl",
+    "bytes": 819284,
+    "sha256": "0196b95fa7bf3837704daba43c1a97b7f18ac168fc5d919d68906142efe08337"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/meshes/022_windex_bottle.stl",
+    "bytes": 819284,
+    "sha256": "533537e2a189859ad51c5d60495c39323d1776ed241cd803a3faf7428ad441ad"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/meshes/024_bowl.stl",
+    "bytes": 819284,
+    "sha256": "fda9b237dd45d66ea3ac92db51a4bdd65b9fce4ecf97f3ef24b98710d9938047"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/meshes/025_mug.stl",
+    "bytes": 819284,
+    "sha256": "4c42cea189945472b2de3f7a6a9401f27a61b72e98180aba6a511cde97d13671"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/meshes/026_sponge.stl",
+    "bytes": 819284,
+    "sha256": "b165e72cfa0a92c3abbd4bac3d73b1e7d9f84beef431b1d01232ce2815b7228c"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/meshes/028_skillet_lid.stl",
+    "bytes": 819284,
+    "sha256": "dcaa831395f83922ae7a3d4698f61e969aee034c6a44a99d3b7a1a4d6dedbd5e"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/meshes/029_plate.stl",
+    "bytes": 819284,
+    "sha256": "dcb182a6c5c1c76a5810c9b71b27c2379475af6c4424d39ef03c344365137772"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/meshes/030_fork.stl",
+    "bytes": 819284,
+    "sha256": "bc30c5f51372373063ff4a8afe6606d327cbe99e211dc8768cfaf480c465489d"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/meshes/031_spoon.stl",
+    "bytes": 819284,
+    "sha256": "5c15a774feae74a6a0e48a6d1132e22b3f84bf96641aa90b071a301c6661f677"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/meshes/032_knife.stl",
+    "bytes": 819284,
+    "sha256": "6e31c78d9ddc90bccab9cc4bcfd4d1c7f4009c5c570fd6a938c2a497aa58fc32"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/meshes/033_spatula.stl",
+    "bytes": 819284,
+    "sha256": "cb75dfb3a43f82924ae1666d86cfc79d13efbc28b53cbe3489f287ba2738a1fa"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/meshes/035_power_drill.stl",
+    "bytes": 819284,
+    "sha256": "23f4cf01337d39eced5d4b73ed78bf49514a93732d284b1f3e050195409f2155"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/meshes/036_wood_block.stl",
+    "bytes": 819284,
+    "sha256": "1bf82a3acf2e03c880ae98e825ef5990db9e97d2c99885cad33cb0e743697f1e"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/meshes/037_scissors.stl",
+    "bytes": 819284,
+    "sha256": "735676c49106da304944be8e960cd760637a8260d08426ab307595ac80304499"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/meshes/038_padlock.stl",
+    "bytes": 819284,
+    "sha256": "a7dee8e8d2b238a29f5703382d7db2c1ebaaa33ead16f205d7a69ad48d659832"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/meshes/040_large_marker.stl",
+    "bytes": 819284,
+    "sha256": "22079f14403a8293c5fe61574ed39fad4435a197c96d9cdb7e5a5fc4d20d2396"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/meshes/042_adjustable_wrench.stl",
+    "bytes": 819284,
+    "sha256": "31a3a6556a1d45ce4aa41b6de9269922f6b3124c933f1861d77086c371d20ff9"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/meshes/043_phillips_screwdriver.stl",
+    "bytes": 819284,
+    "sha256": "cc6ae9148d4d48424e6d22b2f00b9a548c6ddf79982789d1e886339f121a61db"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/meshes/044_flat_screwdriver.stl",
+    "bytes": 819284,
+    "sha256": "7236741ee77f079272f6b726d9c1ff68c69038a21a58d9a2662c927fb66b44e2"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/meshes/048_hammer.stl",
+    "bytes": 819284,
+    "sha256": "6e4e79db557caebcfc5d37933b4328e424bba542c66780e6ad6b8f5f4d21ea0e"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/meshes/050_medium_clamp.stl",
+    "bytes": 819284,
+    "sha256": "b96cc384fbd3b11ab5ffd8b96586a29af24382a3a8f1b515a00d1803dc55636b"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/meshes/051_large_clamp.stl",
+    "bytes": 819284,
+    "sha256": "85c63a411729aa8fcb0939f6ae242fa387235cfcace54e4f3757a5cd65981fea"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/meshes/052_extra_large_clamp.stl",
+    "bytes": 819284,
+    "sha256": "66c5aeba05ff76820af158b7bf9c1347d8033d2f4a725e115ede162264e20925"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/meshes/053_mini_soccer_ball.stl",
+    "bytes": 819284,
+    "sha256": "7e8efe120b92ab2e5ae3fd47b0a33a0bab4809d6018327b09b65c71aded1e886"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/meshes/054_softball.stl",
+    "bytes": 819284,
+    "sha256": "fbc00161735f8cdb2a951e93a796e2581786e1fd691a0cf6d0a5d958429ccaba"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/meshes/055_baseball.stl",
+    "bytes": 819284,
+    "sha256": "938a354e3085c1b9c39c207afb334af3fc71d80bc5b6b59778ca946423857aed"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/meshes/056_tennis_ball.stl",
+    "bytes": 819284,
+    "sha256": "2644cd7b758f0d7b6190a54a7d394684c40c3e9f035723656a06b63169408bdc"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/meshes/057_racquetball.stl",
+    "bytes": 819284,
+    "sha256": "0c61629efd0febd830ca23196724e7dbcae794b13c7c01254906b45b6b384381"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/meshes/058_golf_ball.stl",
+    "bytes": 819284,
+    "sha256": "922b0f9eee071086ab9ce3f50efa5388900af71fa7adae642fb778544286f1cd"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/meshes/059_chain.stl",
+    "bytes": 819284,
+    "sha256": "a4df209923da5e8c69592f1f0447b0fd69ea157b68deac0999ad536d644a257c"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/meshes/061_foam_brick.stl",
+    "bytes": 819284,
+    "sha256": "8301922e59155c2702ccf02950cdb5d12a433d67d39266297da6c9bf24c2f04e"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/meshes/062_dice.stl",
+    "bytes": 819284,
+    "sha256": "ff8e8a43a9bfeffa815e5b0d3e5a249254d552e21d70e717e3718673614ea5eb"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/meshes/063-a_marbles.stl",
+    "bytes": 819284,
+    "sha256": "ba29600fa2326bfb23b7f7763befe16a255014a7b563d4f8ad7b2a637ad345c1"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/meshes/063-b_marbles.stl",
+    "bytes": 819284,
+    "sha256": "8f83fce06cee2bd81202c87e48193bac5eaa95172a390533c96e288c0f3bbbb5"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/meshes/065-a_cups.stl",
+    "bytes": 819284,
+    "sha256": "9b88931b4470d366a7d400974f3057837a1beaed681fd8150d59b8d35a049302"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/meshes/065-b_cups.stl",
+    "bytes": 819284,
+    "sha256": "53f61b06387d82e3778a1b342cd2c721079df97abf17b924100b25e72cd3d6ff"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/meshes/065-c_cups.stl",
+    "bytes": 819284,
+    "sha256": "3da18eb83e950567f811e3f47cce0ac88d28b342a09ffc3ef78d6e2b3cd63f0b"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/meshes/065-d_cups.stl",
+    "bytes": 819284,
+    "sha256": "4d22070bbe6fc15a449b2232a760cc45391d1115cd889223c3f4369348ea7676"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/meshes/065-e_cups.stl",
+    "bytes": 819284,
+    "sha256": "5216d783daeae046f9e64e6bac416279687456c344701dedc9e391a36c2100ca"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/meshes/065-f_cups.stl",
+    "bytes": 819284,
+    "sha256": "a23a96525e55959b3858f65333e87c3aa27c6dabb935f41d0c0bb1fd0530ab8d"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/meshes/065-g_cups.stl",
+    "bytes": 819284,
+    "sha256": "1e5303b453bdadd66977b361481fe7f4acf95fb89417381f569afed46c275918"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/meshes/065-h_cups.stl",
+    "bytes": 819284,
+    "sha256": "99fe54444fbd6edb4703f40632224f9d790455cccc43610fe77e36e9c886cd97"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/meshes/065-i_cups.stl",
+    "bytes": 819284,
+    "sha256": "f2f2684293456cfdef2a505f6a972e1a2400c1dc7ac2a1c60aef6d83cbab1cd5"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/meshes/065-j_cups.stl",
+    "bytes": 819284,
+    "sha256": "af1978a90b098d1b659f05770303d9b3ba71268c6979540c390575c3009cade3"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/meshes/070-a_colored_wood_blocks.stl",
+    "bytes": 819284,
+    "sha256": "52412f2eb54b8e2be536f1b78bc4b75129bd2ffc69ced6260ce99108e498cc50"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/meshes/070-b_colored_wood_blocks.stl",
+    "bytes": 819284,
+    "sha256": "a780044aaca9c7e2584b177844fee82f21dbc6f6926cb4f626d8f87cf0d76eae"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/meshes/071_nine_hole_peg_test.stl",
+    "bytes": 819284,
+    "sha256": "d52105c1b987d1294ce42c02f36ec0cf54d83a345b90c614ade749f8fb275aa1"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/meshes/072-a_toy_airplane.stl",
+    "bytes": 819284,
+    "sha256": "fa076b31ff22d4721b30768bb21f554644bc5e453eb7b160047f1fe3a0697006"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/meshes/072-b_toy_airplane.stl",
+    "bytes": 819284,
+    "sha256": "073d78d6e0245a901550681f4c39cf8708a10948edf0dfaa1fddceebed178afb"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/meshes/072-c_toy_airplane.stl",
+    "bytes": 819284,
+    "sha256": "5b40727ccdb99cf39f61ca6fcc31ca8d20649fa89df89c0ddefb4cb8e9e46775"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/meshes/072-d_toy_airplane.stl",
+    "bytes": 819284,
+    "sha256": "19e75b4f8898dc4e04e7ed8635881175c0fd5fbdf0819b9a37f78a29222f7f5b"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/meshes/072-e_toy_airplane.stl",
+    "bytes": 819284,
+    "sha256": "edacb8150f027f1fc5879eb750d9daf46183f57e2fcba4ead10af161ecc50667"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/meshes/073-a_lego_duplo.stl",
+    "bytes": 819284,
+    "sha256": "fd6f7716d8e026dbe9e448090d07468a81cc253d21d9dde8055c4507c8377406"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/meshes/073-b_lego_duplo.stl",
+    "bytes": 819284,
+    "sha256": "01a53639236735adde0e4febbda8b090106f21f5d46571b46bc5debf6301d223"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/meshes/073-c_lego_duplo.stl",
+    "bytes": 819284,
+    "sha256": "c7086e5cc4ac1a0f10ae4fccf93a182f35fc343b9084056db3464e71777925e0"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/meshes/073-d_lego_duplo.stl",
+    "bytes": 819284,
+    "sha256": "8274c351c0736b78cde42b9cdedc051f6c43689219ca4379fa3584c7c5f45da7"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/meshes/073-e_lego_duplo.stl",
+    "bytes": 819284,
+    "sha256": "dfe5a7a9f3ec7f2eb5d5ac4c3ff28bef65275fa4c368a2d12928d0d2f9f8e76f"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/meshes/073-f_lego_duplo.stl",
+    "bytes": 819284,
+    "sha256": "571464fc33baa4513d93d388d7b934c0c573add0991979de4277a45c1b986675"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/meshes/073-g_lego_duplo.stl",
+    "bytes": 819284,
+    "sha256": "2c26d1f532b3580cb8377e0b294b479f22f28bbaa070059f3998ecae02a5b21c"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/meshes/077_rubiks_cube.stl",
+    "bytes": 819284,
+    "sha256": "c49fba51ee2d2b5ea134a70f2d3b288d2df0411f038b98ec57b97085ea38e756"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/pointclouds/002_master_chef_can.npy",
+    "bytes": 98432,
+    "sha256": "6de1e42a2b6269ec5e4080fb1d6c35cbeebed7f79eace62748de2eb44697cbd7"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/pointclouds/003_cracker_box.npy",
+    "bytes": 98432,
+    "sha256": "0887518d86755f7014e9140eab2b28b9b61dbf90ec21506a22475cc5aedc91ba"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/pointclouds/004_sugar_box.npy",
+    "bytes": 98432,
+    "sha256": "d82a615611347e60037bb2f7f88288b25ccb4a1c4f2f8419b3c03ca06ba86c4f"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/pointclouds/005_tomato_soup_can.npy",
+    "bytes": 98432,
+    "sha256": "936739a0f627d22ab395af48a8d93e3026a8d736dc7c273e94a384281bd014ac"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/pointclouds/006_mustard_bottle.npy",
+    "bytes": 98432,
+    "sha256": "bf43f1b4449bb19a28810210206ac50245a7a7e98ba35d4b5314b81c81d03a99"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/pointclouds/007_tuna_fish_can.npy",
+    "bytes": 98432,
+    "sha256": "5982d8faa00013f5b1486fa867be8b8ac81b0d8b02518f874336de8a324eb191"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/pointclouds/008_pudding_box.npy",
+    "bytes": 98432,
+    "sha256": "435ef915e9e142b09397d7a01bd772afc116de030ecc0595822147c245f30355"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/pointclouds/009_gelatin_box.npy",
+    "bytes": 98432,
+    "sha256": "9e3f567b55f5f06f4f02f45c9ef39c4b50b1c89f2192bc8ce6b3c5037144f5f3"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/pointclouds/010_potted_meat_can.npy",
+    "bytes": 98432,
+    "sha256": "98e5155b9a1aab86907ef4aca25f247765d131b89297b61c3fb0ad155ddd6d4c"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/pointclouds/011_banana.npy",
+    "bytes": 98432,
+    "sha256": "90a5f3a02bb844f100cff3dada6ff9967bc323ce4e778d31fb4b7f4d85d98efa"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/pointclouds/012_strawberry.npy",
+    "bytes": 98432,
+    "sha256": "308266c95a98fe3d5ab26286d8b651ef22be9c17ef598095371459783455c009"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/pointclouds/013_apple.npy",
+    "bytes": 98432,
+    "sha256": "64d56c2dae3ff5631a7d7165af495bf80c75e1842aa8578d400496df6af4bfe6"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/pointclouds/014_lemon.npy",
+    "bytes": 98432,
+    "sha256": "990d8553e0a146475c57d01a1b969592691637b8c4409c762ccbd1acf4abf0d1"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/pointclouds/015_peach.npy",
+    "bytes": 98432,
+    "sha256": "75f80041ef730d70cc12f653f5071d4daf44ff7df319b9e2fdc9cc3e76e90de4"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/pointclouds/016_pear.npy",
+    "bytes": 98432,
+    "sha256": "f126eb68a69c41c45cae34027482b982fca3efc6e02394ad89ea5fd293b9b087"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/pointclouds/017_orange.npy",
+    "bytes": 98432,
+    "sha256": "62ea02bb6e28f6a3a15326036c88e23320eac2a35311cae12a409d69ca5d900f"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/pointclouds/018_plum.npy",
+    "bytes": 98432,
+    "sha256": "a21b9a026f091f6beeb30d8eb48e14345cb2ede78912ae542b8793679d7b44f9"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/pointclouds/019_pitcher_base.npy",
+    "bytes": 98432,
+    "sha256": "679f30a9f0ac6232432ba59cfffff23e9effc7f507aaef9bd3bce2a3dda14b75"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/pointclouds/021_bleach_cleanser.npy",
+    "bytes": 98432,
+    "sha256": "c34bf1509d35774a209ada04c8434c79f3a8b8f2b83f8dd9ae52e6fd924e5107"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/pointclouds/022_windex_bottle.npy",
+    "bytes": 98432,
+    "sha256": "f47ef93c4d0191a644efb495526e1fbaaee408320288f4569b36b61a70607585"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/pointclouds/024_bowl.npy",
+    "bytes": 98432,
+    "sha256": "5005675cc553ac4515f19c829cd4a56b8f2d1fb86e429e277947bb101fb01a9a"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/pointclouds/025_mug.npy",
+    "bytes": 98432,
+    "sha256": "264c603416add4528055324af2fe65f229033737b2347ae25c1ddf3d92379303"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/pointclouds/026_sponge.npy",
+    "bytes": 98432,
+    "sha256": "54996afbea624cb7543b51f0dafae62eb503b944c58b033878e3945ec3969a0e"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/pointclouds/028_skillet_lid.npy",
+    "bytes": 98432,
+    "sha256": "71327899021a265fb0b305eed71e3e7eaf1988198c1faf5ee7ad38e48cafefbb"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/pointclouds/029_plate.npy",
+    "bytes": 98432,
+    "sha256": "127a778edb0193a16535c108fb692d842c33edc746a9d1a35fbbe160b3d46202"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/pointclouds/030_fork.npy",
+    "bytes": 98432,
+    "sha256": "ce9eee7cb059118780a0df6730e13b146e694caf6b54e67fbe893d6181d1599b"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/pointclouds/031_spoon.npy",
+    "bytes": 98432,
+    "sha256": "feaca5c11d935b567ea5df8e73ea818cbc71fc3ad4b66d1b72b266b6302ce1ec"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/pointclouds/032_knife.npy",
+    "bytes": 98432,
+    "sha256": "cda1a9b7262d3d8cf1319e8e474a67cce3b75f86c032d00289b9bb4a8c05a667"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/pointclouds/033_spatula.npy",
+    "bytes": 98432,
+    "sha256": "30c303577bb7606b244086c0e63e5b0ef2588dca06d97df3d1e639cd9d34967f"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/pointclouds/035_power_drill.npy",
+    "bytes": 98432,
+    "sha256": "61429e37946e7d42d32b5aa3bee2cc95f89c2096392c18e9b084515995374030"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/pointclouds/036_wood_block.npy",
+    "bytes": 98432,
+    "sha256": "43594f69324d3356352a1f56467a4e47c9535bfe687f4a2229a807cfde96c08b"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/pointclouds/037_scissors.npy",
+    "bytes": 98432,
+    "sha256": "1e2b339ca0b9b936fa74da97021de7518012cdc20280681565e8a64eed862b63"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/pointclouds/038_padlock.npy",
+    "bytes": 98432,
+    "sha256": "80aaa9856bfb174777a824498d07234d10d16ff0ba03ea5ad27c65c01912428b"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/pointclouds/040_large_marker.npy",
+    "bytes": 98432,
+    "sha256": "7b029cd3d7779179618c4ccc581a0243148ca0f758d790dcbdbf5f6802c42ff2"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/pointclouds/042_adjustable_wrench.npy",
+    "bytes": 98432,
+    "sha256": "a9ed1ea5a72bd1ea445523b7aabbb9e62b122578b3957f63b07f6ca7feecd546"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/pointclouds/043_phillips_screwdriver.npy",
+    "bytes": 98432,
+    "sha256": "406f7e9f14ed9955b15845b2dca8bab9eb56575035e1b0bcae0507927a6fcff5"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/pointclouds/044_flat_screwdriver.npy",
+    "bytes": 98432,
+    "sha256": "e360fe8e5ea0f155deece1294abd7410ce17ed4bc719e0d9ee0eb16c572b3b51"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/pointclouds/048_hammer.npy",
+    "bytes": 98432,
+    "sha256": "3f5280798c19842859fab01561a634320590efb93cd73de1cd3c60f29c3f1fc1"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/pointclouds/050_medium_clamp.npy",
+    "bytes": 98432,
+    "sha256": "4b3c452cad2dafc8f6f623a999a63abf3797b82160dc230c26bb6e247b744769"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/pointclouds/051_large_clamp.npy",
+    "bytes": 98432,
+    "sha256": "90e9545350ca23cebc652aa206f8d4d7d965f151724a43a11a566701daba108b"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/pointclouds/052_extra_large_clamp.npy",
+    "bytes": 98432,
+    "sha256": "5bd71bd20469f8804afd1e7ab0162d94fb87106518d3fa6e29e334a105e8abf4"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/pointclouds/053_mini_soccer_ball.npy",
+    "bytes": 98432,
+    "sha256": "a96c0419908f4147a62ce261d799e534ac30ca74958fd9daafa1c47297e1efd2"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/pointclouds/054_softball.npy",
+    "bytes": 98432,
+    "sha256": "2ed2a8f53b0708eab12fc3d3e641490cadc28c4ae8c151b6fb0db98d2778f1e2"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/pointclouds/055_baseball.npy",
+    "bytes": 98432,
+    "sha256": "499d8be19c791bdb0c254f87d6124358c9ba60b97e4ea1b8fb9fe7769bfc64b0"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/pointclouds/056_tennis_ball.npy",
+    "bytes": 98432,
+    "sha256": "1241e1c6aba3d4d8884f378cbcbf9ad33ba031858275e347b3772f08812a66ff"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/pointclouds/057_racquetball.npy",
+    "bytes": 98432,
+    "sha256": "4b0d99a0b5db683900729c79b7504251bb425aa9bf2c7b2618e699db368f342b"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/pointclouds/058_golf_ball.npy",
+    "bytes": 98432,
+    "sha256": "48e085e4d647250da9ab713b024f410c7243d22d38f657d556cd5f09fc0373b8"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/pointclouds/059_chain.npy",
+    "bytes": 98432,
+    "sha256": "191fb47fd10dbc5229cf881b1fb9c1ec9ed04d5aaa9f91363b1284daa01ff265"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/pointclouds/061_foam_brick.npy",
+    "bytes": 98432,
+    "sha256": "3559300df283bcf080798df813da93270d9b54d668176fa7f2d122abe5afecef"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/pointclouds/062_dice.npy",
+    "bytes": 98432,
+    "sha256": "305927873a73f66661b328c20f0d8ac3a6ea51d926c0f86d50f39b9b12003184"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/pointclouds/063-a_marbles.npy",
+    "bytes": 98432,
+    "sha256": "0b572c9b4a43a11c1f4553a7ad26dcbe1c89f05248da5239dd5fc5b8eb65dc24"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/pointclouds/063-b_marbles.npy",
+    "bytes": 98432,
+    "sha256": "1fbb5cd7af08bd4ed8fee4da85f7d4ee64a8fa9744cfe8e70a6df2ddb721be8d"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/pointclouds/065-a_cups.npy",
+    "bytes": 98432,
+    "sha256": "f19c1df0e8043e02a30978362f03ed2194fde49811c5a69d94aad01fa57d55de"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/pointclouds/065-b_cups.npy",
+    "bytes": 98432,
+    "sha256": "33c24b7235e527a2ade63171ca40c5c763f36713a40d5fcd259674ae42bdca0e"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/pointclouds/065-c_cups.npy",
+    "bytes": 98432,
+    "sha256": "335a090f2fe4f59f8b0ec5b26a5d77b4fcbe45ee6ff25ae60bcbbcfbc40f48f2"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/pointclouds/065-d_cups.npy",
+    "bytes": 98432,
+    "sha256": "c8607670f9302012f8b8b26b56e4c99cf4220ec9beaa1a944be55241dee61f51"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/pointclouds/065-e_cups.npy",
+    "bytes": 98432,
+    "sha256": "39a2ad119c6ed0fcc8658eeaf4a3ba294b423df6f9181eada0db31d68faaa2f7"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/pointclouds/065-f_cups.npy",
+    "bytes": 98432,
+    "sha256": "9a98b21d20b477161ec1e71e0efda061143b2b4494e364932526575be9ac97ed"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/pointclouds/065-g_cups.npy",
+    "bytes": 98432,
+    "sha256": "e41fa140f64959cb67a52fbdd39bffc312fc704cf510115f7f779a89dd010cf1"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/pointclouds/065-h_cups.npy",
+    "bytes": 98432,
+    "sha256": "36791af40f51966429339209107c55e962bf97a066e946a107fc5f9847406398"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/pointclouds/065-i_cups.npy",
+    "bytes": 98432,
+    "sha256": "b590e49d6b5e9574a74a16e7baf48298cef7f1bf646801a4a8173e19d5180f7e"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/pointclouds/065-j_cups.npy",
+    "bytes": 98432,
+    "sha256": "cc1e98c714fc299d80844b4482c12b44608eaec6883ee7b2777dda32b25f8151"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/pointclouds/070-a_colored_wood_blocks.npy",
+    "bytes": 98432,
+    "sha256": "1349b1bcdbb5606d09b52291cb799181f68829e68e6c3fb1316d1128f999adeb"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/pointclouds/070-b_colored_wood_blocks.npy",
+    "bytes": 98432,
+    "sha256": "37509395eda6740ddb9654fd0dded905e709b6fecc09b577c1ed8483073d3c43"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/pointclouds/071_nine_hole_peg_test.npy",
+    "bytes": 98432,
+    "sha256": "42fcf187a82d027c248faafa9eea1962e579509c81b01c6dceb76e2cb0907b17"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/pointclouds/072-a_toy_airplane.npy",
+    "bytes": 98432,
+    "sha256": "d6a884c9c0774e1b565766a7716686980f024ce11099a5e4dfab021da7f4d036"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/pointclouds/072-b_toy_airplane.npy",
+    "bytes": 98432,
+    "sha256": "928e2ea7fa391d99910ea8724aed59c4f2cdad3557c48d17869c7f1fb06b08ea"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/pointclouds/072-c_toy_airplane.npy",
+    "bytes": 98432,
+    "sha256": "cd6a48ec14c5ec0095919f525a04852080ba588947f0bcb9aeee40f826dfca05"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/pointclouds/072-d_toy_airplane.npy",
+    "bytes": 98432,
+    "sha256": "a02545abc4f32427d4cc3d65bf6e0992451de0385cf348adb3c35e7064a84a74"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/pointclouds/072-e_toy_airplane.npy",
+    "bytes": 98432,
+    "sha256": "2db0b8b78597ec14f0e6eaa3728f44bcf7f8b20f38cca06e9d1bbce374bc0947"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/pointclouds/073-a_lego_duplo.npy",
+    "bytes": 98432,
+    "sha256": "b628a05a0e3dcbf04a572d98426b251c03670c9a1ac6a5342ec1c611ae464339"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/pointclouds/073-b_lego_duplo.npy",
+    "bytes": 98432,
+    "sha256": "5e9b4d57864544623e86486c58cf1b2deeb07fee435ae78b2a036801b5f6d347"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/pointclouds/073-c_lego_duplo.npy",
+    "bytes": 98432,
+    "sha256": "ea94516f435a08efb7d54af03a029b057ca43824e78ab8e46595eee3bdb3b4ea"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/pointclouds/073-d_lego_duplo.npy",
+    "bytes": 98432,
+    "sha256": "a3feb831284245e8ffa8e6769afda060adae48d5654e511fe8446f8fdeb73fb3"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/pointclouds/073-e_lego_duplo.npy",
+    "bytes": 98432,
+    "sha256": "60a4ea347e125002b5380ba34ef1241f5a1134e4633ede37933c0fad2319b4d3"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/pointclouds/073-f_lego_duplo.npy",
+    "bytes": 98432,
+    "sha256": "a8fdc1a0e62f3fd67878e6c5af86535ce8a6d24db015edb214631e497bb5b402"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/pointclouds/073-g_lego_duplo.npy",
+    "bytes": 98432,
+    "sha256": "e2125cf0deff0d7d461680dd6cc8fe38a4087d6df203be132dde70b039f8c612"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/pointclouds/077_rubiks_cube.npy",
+    "bytes": 98432,
+    "sha256": "39e19e7ac9b65b7939d2ee42ba5e146cb48bfd8774187b5d477f99e8f9de2198"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/urdf/004_sugar_box.urdf",
+    "bytes": 590,
+    "sha256": "b9689ac0b47b1c5fa3fbbe1151a36c76eb0de57cf48018bb2c884bd174bc4533"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/urdf/005_tomato_soup_can.urdf",
+    "bytes": 602,
+    "sha256": "09baccc4f21c8d151dc83ef53fae95de8117f55d940b9801d02adbb4e0de39c9"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/urdf/006_mustard_bottle.urdf",
+    "bytes": 600,
+    "sha256": "cd955de1acc7d495a9f0473f4f79bfda0de96d74f35083ea1758682fdc54b078"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/urdf/010_potted_meat_can.urdf",
+    "bytes": 602,
+    "sha256": "258d1f8e4118580425a72d2e209d85e212a28210a9ae2f28db1799c5e81f4a2d"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/urdf/011_banana.urdf",
+    "bytes": 584,
+    "sha256": "fc7b81a1a080b8b299d5abbcbe3eb081d7be0d7c6404f0aed3ddfdae3b0c0186"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/urdf/013_apple.urdf",
+    "bytes": 582,
+    "sha256": "33712834741173280c5cba552f6f20ba8c0483d4e908eee90b813fd2fe87e0bf"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/urdf/014_lemon.urdf",
+    "bytes": 582,
+    "sha256": "e02aa79b2ef5be0f2561832702a745fe093e0a52defbb9a407c1e92c92991e57"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/urdf/015_peach.urdf",
+    "bytes": 582,
+    "sha256": "e5e9ede86a9fe8f8c821160a8135fdbe61ae37b01424a2940a3850396a3b13ce"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/urdf/016_pear.urdf",
+    "bytes": 580,
+    "sha256": "bece79814b755f8a918cb9cc98361599e0b1ac0216075a2d81dfec9ebc35f288"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/urdf/017_orange.urdf",
+    "bytes": 584,
+    "sha256": "07fc2a31667cd9e69520dfe7f2e179db7d7a63e016a5f2493bc80ef008226eea"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/urdf/018_plum.urdf",
+    "bytes": 580,
+    "sha256": "c770e6604371a824de957fc2ba39c8a2cedb314a67870bfd2aeb210505ec84cb"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/urdf/025_mug.urdf",
+    "bytes": 578,
+    "sha256": "2eafacf90dbf813c9f2ed102afe5403eef05d54044d2e87778d90b47882123f5"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/urdf/028_skillet_lid.urdf",
+    "bytes": 594,
+    "sha256": "d782e4073aad887afeb6e90597d592435fee4d6f16530840554563bbfce5d81a"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/urdf/030_fork.urdf",
+    "bytes": 580,
+    "sha256": "bfcf66e41632fe934edeaa0a2087b915b83f011fda081f35d3eaf8e41d1891cb"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/urdf/031_spoon.urdf",
+    "bytes": 582,
+    "sha256": "86bd542b7fad5420aead7b4bc6257fdf2d8e30d8977aa33ff1834894e93d4bc7"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/urdf/032_knife.urdf",
+    "bytes": 582,
+    "sha256": "351e16783bd807f224138f66fcf38f8b916ff88d8d88fd7b42cad5237c1a9835"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/urdf/033_spatula.urdf",
+    "bytes": 586,
+    "sha256": "2a2acb4065bb7299c2523c0c07d468c6d159e470f5c351d997a385df8fb1f665"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/urdf/035_power_drill.urdf",
+    "bytes": 594,
+    "sha256": "7438a6fbceb0cded174f1ab1ef732bb7fcc935258b011b9af6dc87507be123e9"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/urdf/037_scissors.urdf",
+    "bytes": 588,
+    "sha256": "0aa3bc9a2d01def0037bf2a07026be3a8122777db4a03a578d4ad62239c1c74e"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/urdf/040_large_marker.urdf",
+    "bytes": 596,
+    "sha256": "820698c6cb4fb295a54e23759bb26c706014e3dbfe003acb73cdbc6570e35877"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/urdf/043_phillips_screwdriver.urdf",
+    "bytes": 612,
+    "sha256": "950114b4f510c59f638efa93048e7b34196a7b78dd91636e0381bbc10b7ec709"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/urdf/044_flat_screwdriver.urdf",
+    "bytes": 604,
+    "sha256": "9497251aa9b772e93f39113f21ed999389f97f653f2e3eaef81c1e7f71a815aa"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/urdf/048_hammer.urdf",
+    "bytes": 584,
+    "sha256": "0db42c77bb0a2a9f919cac9296bcd092f444bd9bfdce8dca0a375f365fb597c2"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/urdf/051_large_clamp.urdf",
+    "bytes": 594,
+    "sha256": "171b047e6eb6faa5b14b8cc9eb0805537d9f17db4768003a8ca506a53c0fb76e"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/urdf/052_extra_large_clamp.urdf",
+    "bytes": 606,
+    "sha256": "29ebcc1226e3bf0c1b929ada9785b8452db75149d6d0aed81ca73ee7daccee7a"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/urdf/054_softball.urdf",
+    "bytes": 588,
+    "sha256": "1600b3ce8b9e6ceb9df7c0ca298f26fc65c6d3f2b57305faf2a391ae28e6567e"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/urdf/055_baseball.urdf",
+    "bytes": 588,
+    "sha256": "e2d1f710f027c9c46091c3bbd0247194418d8780a50da33292f20fabce030dd7"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/urdf/056_tennis_ball.urdf",
+    "bytes": 594,
+    "sha256": "d775e165099952ea017a0be5072ab282c63a1ca3ca830b76365ea377309c1a69"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/urdf/057_racquetball.urdf",
+    "bytes": 594,
+    "sha256": "b20a010288af39ff5a410c6e610b9d12f8cf9fed8999d42fcdb2f424f71ef419"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/urdf/061_foam_brick.urdf",
+    "bytes": 592,
+    "sha256": "f1c34ca2a3eb02c7cbc8de9d9ea1482a4b4b02ebc4b4d539aed4ace9b1060b28"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/urdf/063-a_marbles.urdf",
+    "bytes": 590,
+    "sha256": "10ddd3e1c7683fa55b48ed3200fb548b4df1241ddc52dc11840b1e1a5bd7721f"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/urdf/065-a_cups.urdf",
+    "bytes": 584,
+    "sha256": "8a539a87f8de44befc7c0584eb4255784b74a765fcd8a8bd46b727bea545b179"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/urdf/065-b_cups.urdf",
+    "bytes": 584,
+    "sha256": "41e96e48f18bd8f4bf5eaaf1b47b8bfbd180ce61d76d190563eb5441f227aff0"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/urdf/065-c_cups.urdf",
+    "bytes": 584,
+    "sha256": "dafc884f73898645d5a5c3d6ef49ea594e4cf4653da8a16bdeb38cb4f3037e0a"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/urdf/065-d_cups.urdf",
+    "bytes": 584,
+    "sha256": "9927c1d18cde45e65fe0f66bd2a8876ebc5788b4fea505a0dce6aa3577ff8cd1"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/urdf/065-e_cups.urdf",
+    "bytes": 584,
+    "sha256": "aea120f0d23d1c070dd18af44bea3fdeace4897d4127e4e6cdc31a17cb2e9b54"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/urdf/065-f_cups.urdf",
+    "bytes": 584,
+    "sha256": "8590f9691d64a21e11b2f73aec2554d9796946c8c3067db48d726051b9d48ea3"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/urdf/065-g_cups.urdf",
+    "bytes": 584,
+    "sha256": "cc9347af767a35d456132c50396048bfdcb7d5be6f03433f2ae103d2ac8490d8"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/urdf/065-h_cups.urdf",
+    "bytes": 584,
+    "sha256": "f7bebbc1fa8d75fb05de026c82b1d5d74733a20c3df74c6454858c046009810d"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/urdf/065-i_cups.urdf",
+    "bytes": 584,
+    "sha256": "ed48571dbcc07d9f6c19f40ca2d48a0c69226f4a09472837b07034e60b34a875"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/urdf/065-j_cups.urdf",
+    "bytes": 584,
+    "sha256": "5e624bf4ac8241db84e706baacf7229bea48b10d85e64b3cef4ed419a947fac5"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/urdf/071_nine_hole_peg_test.urdf",
+    "bytes": 608,
+    "sha256": "febf4ee2dfe5b1c09a649167e552c6096268045b2020071553ed3ad6f7dd84b5"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/urdf/072-b_toy_airplane.urdf",
+    "bytes": 600,
+    "sha256": "fd8b9d4d748a1ca8094bb6189c8198a181bd7b8d5aa94a839d818da7a9d5632e"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/urdf/073-g_lego_duplo.urdf",
+    "bytes": 596,
+    "sha256": "e9fc6c3adb99368a094464a8e29851b933ba8af294796fb99b31b0ad28020254"
+  },
+  {
+    "path": "/home/siyu/CrossDex/assets/ycb_assets/urdf/077_rubiks_cube.urdf",
+    "bytes": 594,
+    "sha256": "13c93db5a308b35f9d36057dc64f6c7eec8605d638e94dd734ce338f5d9ac813"
+  },
+  {
+    "path": "/home/siyu/CrossDex/retargeting/models/retargeting_nn_allegro_hand_grab_dexpilot.pth",
+    "bytes": 2232152,
+    "sha256": "4d970e85d3cbdb1c2cd60075404021a3166eb5d4d9c84432abf44efce0dae01c"
+  },
+  {
+    "path": "/home/siyu/CrossDex/retargeting/models/retargeting_nn_allegro_hand_grab_dexpilot.yaml",
+    "bytes": 371,
+    "sha256": "8ee031402ac06db02937bb619c962a74cb62e1982f50b001006087302043b32b"
+  },
+  {
+    "path": "/home/siyu/CrossDex/retargeting/models/retargeting_nn_shadow_hand_grab_dexpilot.pth",
+    "bytes": 2244428,
+    "sha256": "069debac8f11f36667b072c73232be4bdaf4a3fadb9a32833722e6d3fb39d4e0"
+  },
+  {
+    "path": "/home/siyu/CrossDex/retargeting/models/retargeting_nn_shadow_hand_grab_dexpilot.yaml",
+    "bytes": 324,
+    "sha256": "8f557e16530970c19acc66264d6eadb767a0221cc29e0aa817e2e8b62d371668"
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "hand": "ability_hand",
+  "train_frames": 1583102,
+  "validation_frames": 40593,
+  "validation_mse_rad2": 0.012515174224972725,
+  "validation_rmse_rad": 0.11187124252319336,
+  "validation_mae_rad": 0.0756000429391861,
+  "sampled_mean_fingertip_error_mm": 4.7946100986797715,
+  "sampled_p95_fingertip_error_mm": 12.82981296974202,
+  "original_frame_random_split": true,
+  "limitation": "Adjacent frames may occur across training and validation. Does not establish PPO-domain coverage or grasp performance.",
+  "weights": "/root/crossdex_validation/additional_hands/full_run/ability_hand/retargeting_nn_ability_hand_grab_dexpilot.pth",
+  "weight_sha256": "79cd7e32cba1807906e84567854e2a7d02d28bc5e4d6c6087415e31ea22d2f45"
+}

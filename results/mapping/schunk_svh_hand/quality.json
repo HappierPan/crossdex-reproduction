@@ -1,0 +1,14 @@
+{
+  "hand": "schunk_svh_hand",
+  "train_frames": 1583102,
+  "validation_frames": 40593,
+  "validation_mse_rad2": 0.008288070559501648,
+  "validation_rmse_rad": 0.09103883802890778,
+  "validation_mae_rad": 0.06453395634889603,
+  "sampled_mean_fingertip_error_mm": 5.096596466352171,
+  "sampled_p95_fingertip_error_mm": 12.43968742909287,
+  "original_frame_random_split": true,
+  "limitation": "Adjacent frames may occur across training and validation. Does not establish PPO-domain coverage or grasp performance.",
+  "weights": "/root/crossdex_validation/additional_hands/full_run/schunk_svh_hand/retargeting_nn_schunk_svh_hand_grab_dexpilot.pth",
+  "weight_sha256": "c4fd1b4c244365ba267296a9bd0aa8df52cbbc17cdc044f0a306a86ac227c105"
+}

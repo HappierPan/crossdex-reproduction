@@ -1,0 +1,86 @@
+[
+  {
+    "iteration": 1000,
+    "episodes": 1280,
+    "native_successes": 382,
+    "per_hand": {
+      "shadow_hand": {
+        "episodes": 320,
+        "native_successes": 202,
+        "success_rate": 0.63125
+      },
+      "allegro_hand": {
+        "episodes": 320,
+        "native_successes": 27,
+        "success_rate": 0.084375
+      },
+      "ability_hand": {
+        "episodes": 320,
+        "native_successes": 63,
+        "success_rate": 0.196875
+      },
+      "schunk_svh_hand": {
+        "episodes": 320,
+        "native_successes": 90,
+        "success_rate": 0.28125
+      }
+    },
+    "success_rate": 0.2984375
+  },
+  {
+    "iteration": 5000,
+    "episodes": 1280,
+    "native_successes": 1032,
+    "per_hand": {
+      "shadow_hand": {
+        "episodes": 320,
+        "native_successes": 296,
+        "success_rate": 0.925
+      },
+      "allegro_hand": {
+        "episodes": 320,
+        "native_successes": 237,
+        "success_rate": 0.740625
+      },
+      "ability_hand": {
+        "episodes": 320,
+        "native_successes": 220,
+        "success_rate": 0.6875
+      },
+      "schunk_svh_hand": {
+        "episodes": 320,
+        "native_successes": 279,
+        "success_rate": 0.871875
+      }
+    },
+    "success_rate": 0.80625
+  },
+  {
+    "iteration": 10000,
+    "episodes": 1280,
+    "native_successes": 1161,
+    "per_hand": {
+      "shadow_hand": {
+        "episodes": 320,
+        "native_successes": 314,
+        "success_rate": 0.98125
+      },
+      "allegro_hand": {
+        "episodes": 320,
+        "native_successes": 274,
+        "success_rate": 0.85625
+      },
+      "ability_hand": {
+        "episodes": 320,
+        "native_successes": 290,
+        "success_rate": 0.90625
+      },
+      "schunk_svh_hand": {
+        "episodes": 320,
+        "native_successes": 283,
+        "success_rate": 0.884375
+      }
+    },
+    "success_rate": 0.90703125
+  }
+]

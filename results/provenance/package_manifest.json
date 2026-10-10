@@ -1,0 +1,725 @@
+{
+  "scope": "Isaac Gym reproduction; copied without modifying source files",
+  "files": [
+    {
+      "repository_path": "crossdex_validation/evaluate_existing_policy.py",
+      "source_path": "/root/crossdex_validation/evaluate_existing_policy.py",
+      "sha256": "b4a1cc3fb0ddb9b99109713dd4684e2c682906e105a73cfe7009317d278dac82"
+    },
+    {
+      "repository_path": "crossdex_validation/ppo_10000/run_validation.py",
+      "source_path": "/root/crossdex_validation/ppo_10000/run_validation.py",
+      "sha256": "3661b47f037687f82427720bb52d7ff84204997d9a4c8dc9113c7318f603f9f6"
+    },
+    {
+      "repository_path": "crossdex_validation/four_hand_trial/check_environment.py",
+      "source_path": "/root/crossdex_validation/four_hand_trial/check_environment.py",
+      "sha256": "ee9634e6ab435ced012645b47a89f84be23b5c6f6336665a169b3c502c437b4c"
+    },
+    {
+      "repository_path": "crossdex_validation/four_hand_trial/run_short_trial.py",
+      "source_path": "/root/crossdex_validation/four_hand_trial/run_short_trial.py",
+      "sha256": "26cf56ce2f6d1f204d008eacbd3d61d766bc77f404172e71cabbb670fd88283b"
+    },
+    {
+      "repository_path": "crossdex_validation/four_hand_trial/run_10000_validation.py",
+      "source_path": "/root/crossdex_validation/four_hand_trial/run_10000_validation.py",
+      "sha256": "434dda30400524bfbba88bf07fc5ee982819b8b7f3d6744a5703e8c91ec1c95b"
+    },
+    {
+      "repository_path": "crossdex_validation/four_hand_trial/replay_10000/record_camera.py",
+      "source_path": "/root/crossdex_validation/four_hand_trial/replay_10000/record_camera.py",
+      "sha256": "72e307f3425d41ead069566f1af0f81c8ee34e371ac92e7d736c42db60dbb283"
+    },
+    {
+      "repository_path": "crossdex_validation/four_hand_trial/replay_10000/convert_to_mp4.py",
+      "source_path": "/root/crossdex_validation/four_hand_trial/replay_10000/convert_to_mp4.py",
+      "sha256": "5ed6c5236e02715784514f24c5e8fece2dd571729a6352b0a74e485652b337dc"
+    },
+    {
+      "repository_path": "crossdex_validation/four_hand_trial/replay_10000/build_gallery.py",
+      "source_path": "/root/crossdex_validation/four_hand_trial/replay_10000/build_gallery.py",
+      "sha256": "aac6a62717ee3f0b23e3a4bf4ab46c7b30786df886585b34ebbdfd3b09bcbafb"
+    },
+    {
+      "repository_path": "crossdex_validation/single_object_dagger/run_trial.py",
+      "source_path": "/root/crossdex_validation/single_object_dagger/run_trial.py",
+      "sha256": "ed925484a4e726328f16121e08cb65b3c7f919aab50c68435636ab67c8e238e1"
+    },
+    {
+      "repository_path": "crossdex_validation/single_object_dagger/evaluate.py",
+      "source_path": "/root/crossdex_validation/single_object_dagger/evaluate.py",
+      "sha256": "f34b639f22e772cf017310dab8556ce3fa2cc94ca04276d3beea622d7bad4ad9"
+    },
+    {
+      "repository_path": "crossdex_validation/single_object_dagger/record_camera.py",
+      "source_path": "/root/crossdex_validation/single_object_dagger/record_camera.py",
+      "sha256": "0c5207f9f12549b18fc7cea0553d592553a31dce294f11fb0c0fa117b93995bd"
+    },
+    {
+      "repository_path": "crossdex_validation/single_object_dagger/convert_mp4.py",
+      "source_path": "/root/crossdex_validation/single_object_dagger/convert_mp4.py",
+      "sha256": "380052ddd2fa625b6d51297a0c0e03d847ad276ed45a03bd57059d3a1bae4306"
+    },
+    {
+      "repository_path": "crossdex_validation/multi_object_teachers/train_teacher.py",
+      "source_path": "/root/crossdex_validation/multi_object_teachers/train_teacher.py",
+      "sha256": "c4b5c17ebc95482d1b2bbb49bb2cfc40b1f1f0f462f4f5b7a16eaf604d4fa0f9"
+    },
+    {
+      "repository_path": "crossdex_validation/multi_object_teachers/preflight.py",
+      "source_path": "/root/crossdex_validation/multi_object_teachers/preflight.py",
+      "sha256": "4acd610a3e5848cfc84071e5497c414bb3a3b11775bcb511563f4b048df974ca"
+    },
+    {
+      "repository_path": "crossdex_validation/multi_object_teachers/run_queue.py",
+      "source_path": "/root/crossdex_validation/multi_object_teachers/run_queue.py",
+      "sha256": "f7a53fa713acf37bcb91050903599ce1dbe0b33287fdab36b16911bb0e8d6967"
+    },
+    {
+      "repository_path": "crossdex_validation/sugar_box_followup/run_budgeted.py",
+      "source_path": "/root/crossdex_validation/sugar_box_followup/run_budgeted.py",
+      "sha256": "e9bc69589b35ef0579d6cef9eb49ea9dd03ee30beca465f0e5ec3afb2348b44e"
+    },
+    {
+      "repository_path": "crossdex_validation/additional_hands/export_grab_pose45.py",
+      "source_path": "/root/crossdex_validation/additional_hands/export_grab_pose45.py",
+      "sha256": "7d5e2c9637b79fe24b21505307ddfdc3d7272cd73b7845e79f8e0df84a8fff67"
+    },
+    {
+      "repository_path": "crossdex_validation/additional_hands/train_full_mappings.py",
+      "source_path": "/root/crossdex_validation/additional_hands/train_full_mappings.py",
+      "sha256": "23d9ff84860a80b7325b870d5d3dbdf335ea2c568bc4b53ddd6a1cc741e9802c"
+    },
+    {
+      "repository_path": "crossdex_validation/additional_hands/check_new_hands.py",
+      "source_path": "/root/crossdex_validation/additional_hands/check_new_hands.py",
+      "sha256": "7e176f42f141b67a4e77748f73b3f6fcb08da85147317800e4d75061c5ca58d5"
+    },
+    {
+      "repository_path": "crossdex_validation/check_mapping_quality.py",
+      "source_path": "/root/crossdex_validation/check_mapping_quality.py",
+      "sha256": "b947d8081ef197bc4d0f8a20ae5fc68362a41c5ca7fa63fc7218093e70eaf612"
+    },
+    {
+      "repository_path": "crossdex_validation/check_mapping_quality_unfiltered.py",
+      "source_path": "/root/crossdex_validation/check_mapping_quality_unfiltered.py",
+      "sha256": "dbcdfcb9adff00764f315c420b27f5dcb19bf36fb268fedbecd095fc13b3efae"
+    },
+    {
+      "repository_path": "crossdex_validation/mapping_origin/check_runtime_chain.py",
+      "source_path": "/root/crossdex_validation/mapping_origin/check_runtime_chain.py",
+      "sha256": "b518e1772f062678bff6e5f67d491fc2ebedebb322083e98ceb6192577f76f9f"
+    },
+    {
+      "repository_path": "crossdex_validation/mapping_origin/check_assets_and_input.py",
+      "source_path": "/root/crossdex_validation/mapping_origin/check_assets_and_input.py",
+      "sha256": "04ac7bdc1574e3b2cbb7b978cb857939abfe10ec9a06e949b19f9d3ef2099381"
+    },
+    {
+      "repository_path": "crossdex_validation/mapping_origin/controlled_reference_check.py",
+      "source_path": "/root/crossdex_validation/mapping_origin/controlled_reference_check.py",
+      "sha256": "bbf37fa48de83657495378bbfb02eb3d516831ea35699b29c3beb109bdef4f3c"
+    },
+    {
+      "repository_path": "crossdex_validation/mapping_origin/export_local_mapping_evidence.py",
+      "source_path": "/root/crossdex_validation/mapping_origin/export_local_mapping_evidence.py",
+      "sha256": "fee1b52e5be008823a75933388048100d8c31c8f505f0918074c667bf0f615d4"
+    },
+    {
+      "repository_path": "crossdex_validation/mapping_origin/analyze_uploaded_evidence.py",
+      "source_path": "/root/crossdex_validation/mapping_origin/analyze_uploaded_evidence.py",
+      "sha256": "11ff1f6807bf8552ba094523c7815077693a0693ad016a7d9d80fb984a6c8353"
+    },
+    {
+      "repository_path": "crossdex_validation/mapping_origin/calibrate_reference_on_holdout.py",
+      "source_path": "/root/crossdex_validation/mapping_origin/calibrate_reference_on_holdout.py",
+      "sha256": "bf92794827919be77e0240efcb58efbb996054dbb202f80f96d8335f2e19e735"
+    },
+    {
+      "repository_path": "viewer/play.py",
+      "source_path": "/root/crossdex_validation/local_viewer/crossdex_four_hand_dagger_viewer/play.py",
+      "sha256": "70557c06b8b7fd1cbbd2413827de3ae5319c0a29cec9fd28497a46f02dd2db4d"
+    },
+    {
+      "repository_path": "viewer/run.sh",
+      "source_path": "/root/crossdex_validation/local_viewer/crossdex_four_hand_dagger_viewer/run.sh",
+      "sha256": "87929f1b186d8acabec39ed0896113d8d8d83ff8256f79121553b6a3887e2166"
+    },
+    {
+      "repository_path": "viewer/frames_to_mp4.py",
+      "source_path": "/root/crossdex_validation/local_viewer/crossdex_four_hand_dagger_viewer/frames_to_mp4.py",
+      "sha256": "35017b5060ce77a228a469c508a63cf916f826366e765f501e27836d2edfbee3"
+    },
+    {
+      "repository_path": "results/two_hand_ppo_10000/launch_manifest.json",
+      "source_path": "/root/autodl-tmp/crossdex_experiments/ppo_10000_original_20261002_183343/launch_manifest.json",
+      "sha256": "ff82ed24a3847e2bf941133172203689ffd7235d5fe94e0fbcbb8e2674c0a540"
+    },
+    {
+      "repository_path": "results/two_hand_ppo_10000/evaluation_1000_101.json",
+      "source_path": "/root/autodl-tmp/crossdex_experiments/ppo_10000_original_20261002_183343/evaluation_1000_101.json",
+      "sha256": "0f68fbf53e1bd921ccdba29bdca08a8c986e098c832c093ef71ee329d7cc9933"
+    },
+    {
+      "repository_path": "results/two_hand_ppo_10000/evaluation_1000_202.json",
+      "source_path": "/root/autodl-tmp/crossdex_experiments/ppo_10000_original_20261002_183343/evaluation_1000_202.json",
+      "sha256": "810ddfea3a52f81edaa4e7734db2cd59962eb7be8fbaf50dc038f645f9ee9818"
+    },
+    {
+      "repository_path": "results/two_hand_ppo_10000/evaluation_1000_303.json",
+      "source_path": "/root/autodl-tmp/crossdex_experiments/ppo_10000_original_20261002_183343/evaluation_1000_303.json",
+      "sha256": "f7b923c9481fb403ed80b819ad4efd3ac29490466959d54b8e56bbfdd11080f6"
+    },
+    {
+      "repository_path": "results/two_hand_ppo_10000/evaluation_1000_404.json",
+      "source_path": "/root/autodl-tmp/crossdex_experiments/ppo_10000_original_20261002_183343/evaluation_1000_404.json",
+      "sha256": "61044b71508d688208953ca1b934dceef10fa85af2d9aacff5685eb20957b3a3"
+    },
+    {
+      "repository_path": "results/two_hand_ppo_10000/evaluation_1000_505.json",
+      "source_path": "/root/autodl-tmp/crossdex_experiments/ppo_10000_original_20261002_183343/evaluation_1000_505.json",
+      "sha256": "624d84212a24126e741b310d4e0755107b7133a6943bcc67701b41a6b19f145c"
+    },
+    {
+      "repository_path": "results/two_hand_ppo_10000/comparison.json",
+      "source_path": "/root/autodl-tmp/crossdex_experiments/ppo_10000_original_20261002_183343/comparison.json",
+      "sha256": "12f0c5ac88d29085481b7c4eef7dd41ef3970f7eaa50ff63c34197e727635de9"
+    },
+    {
+      "repository_path": "results/two_hand_ppo_10000/evaluation_5000_101.json",
+      "source_path": "/root/autodl-tmp/crossdex_experiments/ppo_10000_original_20261002_183343/evaluation_5000_101.json",
+      "sha256": "d092a2424c70bd74a9ea74caa86a3c86aea5e3b08241481ba449890dbdfb3a7c"
+    },
+    {
+      "repository_path": "results/two_hand_ppo_10000/evaluation_5000_202.json",
+      "source_path": "/root/autodl-tmp/crossdex_experiments/ppo_10000_original_20261002_183343/evaluation_5000_202.json",
+      "sha256": "8e3076e4178c31b6ffe342bc82ada835b711825867beec3d29ea1936b90e1cb0"
+    },
+    {
+      "repository_path": "results/two_hand_ppo_10000/evaluation_5000_303.json",
+      "source_path": "/root/autodl-tmp/crossdex_experiments/ppo_10000_original_20261002_183343/evaluation_5000_303.json",
+      "sha256": "b0e29ec3a9ec57893e733e6b47c3877d100c3e723a7bd2d3ef8b726183f127cb"
+    },
+    {
+      "repository_path": "results/two_hand_ppo_10000/evaluation_5000_404.json",
+      "source_path": "/root/autodl-tmp/crossdex_experiments/ppo_10000_original_20261002_183343/evaluation_5000_404.json",
+      "sha256": "6b0c666fd54d175e13d2108930f0ecf2112dec4b86190595fe97a3b198364045"
+    },
+    {
+      "repository_path": "results/two_hand_ppo_10000/evaluation_5000_505.json",
+      "source_path": "/root/autodl-tmp/crossdex_experiments/ppo_10000_original_20261002_183343/evaluation_5000_505.json",
+      "sha256": "a8f136fd433ff1a1c8e4a28345cb6b90eec630b80b150891ab5594aed742ec2e"
+    },
+    {
+      "repository_path": "results/two_hand_ppo_10000/evaluation_10000_101.json",
+      "source_path": "/root/autodl-tmp/crossdex_experiments/ppo_10000_original_20261002_183343/evaluation_10000_101.json",
+      "sha256": "9c1a1f92fd30dcde0c74d972c09da4b4232751ded1be41b0b53067838bc82b6f"
+    },
+    {
+      "repository_path": "results/two_hand_ppo_10000/evaluation_10000_202.json",
+      "source_path": "/root/autodl-tmp/crossdex_experiments/ppo_10000_original_20261002_183343/evaluation_10000_202.json",
+      "sha256": "f4505b092d2d95051081b1e07aba204699434b94ca83ca9572efc7098b769531"
+    },
+    {
+      "repository_path": "results/two_hand_ppo_10000/evaluation_10000_303.json",
+      "source_path": "/root/autodl-tmp/crossdex_experiments/ppo_10000_original_20261002_183343/evaluation_10000_303.json",
+      "sha256": "fb8d4d2d7d80b49c143972995eac9c74c111bd98f958ab9d9f4a6d17d4fe5c3e"
+    },
+    {
+      "repository_path": "results/two_hand_ppo_10000/evaluation_10000_404.json",
+      "source_path": "/root/autodl-tmp/crossdex_experiments/ppo_10000_original_20261002_183343/evaluation_10000_404.json",
+      "sha256": "09d566d1364d7ebec71f8f96dc4f7f09f05a634f6f861077c43a3bef560ae4a7"
+    },
+    {
+      "repository_path": "results/two_hand_ppo_10000/evaluation_10000_505.json",
+      "source_path": "/root/autodl-tmp/crossdex_experiments/ppo_10000_original_20261002_183343/evaluation_10000_505.json",
+      "sha256": "3a7a6a682507474ad584ad23453cd4416aa0dc845fc1cec1cc50ba9164945528"
+    },
+    {
+      "repository_path": "configs/experiments/two_hand_ppo_10000.json",
+      "source_path": "/root/autodl-tmp/crossdex_experiments/ppo_10000_original_20261002_183343/runs/077_rubiks_cube_2026-10-03_02-33-55/config.json",
+      "sha256": "6964f75caeddb6edd3d79282d5b9f4afdf6ee05cff08661e500c4f5d57a02cd2"
+    },
+    {
+      "repository_path": "results/four_hand_ppo_10000/launch_manifest.json",
+      "source_path": "/root/autodl-tmp/crossdex_experiments/four_hand_10000_20261003_160542/launch_manifest.json",
+      "sha256": "8520836b9a8b11e162d02f88d3157ab7dc6439e6fa514f1778b25fc93209ab1b"
+    },
+    {
+      "repository_path": "results/four_hand_ppo_10000/evaluation_1000_101.json",
+      "source_path": "/root/autodl-tmp/crossdex_experiments/four_hand_10000_20261003_160542/evaluation_1000_101.json",
+      "sha256": "5c4eb52bce65171d8544e83b564af7df85450c278bf75a97a609ef1783cfedd9"
+    },
+    {
+      "repository_path": "results/four_hand_ppo_10000/evaluation_1000_202.json",
+      "source_path": "/root/autodl-tmp/crossdex_experiments/four_hand_10000_20261003_160542/evaluation_1000_202.json",
+      "sha256": "896564395610ff5cb7348c266692d5f971480d633d6b58d0ec7fa4044e6f2352"
+    },
+    {
+      "repository_path": "results/four_hand_ppo_10000/evaluation_1000_303.json",
+      "source_path": "/root/autodl-tmp/crossdex_experiments/four_hand_10000_20261003_160542/evaluation_1000_303.json",
+      "sha256": "0bfaef213f0e76e3034632382bbd47530ea595c6255d6588dafcb34c333433ee"
+    },
+    {
+      "repository_path": "results/four_hand_ppo_10000/evaluation_1000_404.json",
+      "source_path": "/root/autodl-tmp/crossdex_experiments/four_hand_10000_20261003_160542/evaluation_1000_404.json",
+      "sha256": "f07bb84e9e9846bbeb6e882371004b83ff79d2fc72b55f250278c80212ce8fe8"
+    },
+    {
+      "repository_path": "results/four_hand_ppo_10000/evaluation_1000_505.json",
+      "source_path": "/root/autodl-tmp/crossdex_experiments/four_hand_10000_20261003_160542/evaluation_1000_505.json",
+      "sha256": "26778f925d64fa8a11d015f6ace04afe3e824382c29d94dd4a4ad3d979d43806"
+    },
+    {
+      "repository_path": "results/four_hand_ppo_10000/comparison.json",
+      "source_path": "/root/autodl-tmp/crossdex_experiments/four_hand_10000_20261003_160542/comparison.json",
+      "sha256": "5cfd16a17e66b0059301d29dfe7a2dd5e4cdf5aeb926d41a148fe232ec33a340"
+    },
+    {
+      "repository_path": "results/four_hand_ppo_10000/evaluation_5000_101.json",
+      "source_path": "/root/autodl-tmp/crossdex_experiments/four_hand_10000_20261003_160542/evaluation_5000_101.json",
+      "sha256": "40a077fa33df770501b2a1703583d7224f2bd74427380ec0d2c91ddb458dad65"
+    },
+    {
+      "repository_path": "results/four_hand_ppo_10000/evaluation_5000_202.json",
+      "source_path": "/root/autodl-tmp/crossdex_experiments/four_hand_10000_20261003_160542/evaluation_5000_202.json",
+      "sha256": "5b0a8bdb99de0cf477f0f0b8c10966ec17a2f085bb42e2002f036a11c68cd467"
+    },
+    {
+      "repository_path": "results/four_hand_ppo_10000/evaluation_5000_303.json",
+      "source_path": "/root/autodl-tmp/crossdex_experiments/four_hand_10000_20261003_160542/evaluation_5000_303.json",
+      "sha256": "67a4375a6996a4bedd6ae39f64c081810df7618383cbd756579da8795e72e334"
+    },
+    {
+      "repository_path": "results/four_hand_ppo_10000/evaluation_5000_404.json",
+      "source_path": "/root/autodl-tmp/crossdex_experiments/four_hand_10000_20261003_160542/evaluation_5000_404.json",
+      "sha256": "961512929ee05597869201790c1425817582c7270691fbd6ad42b097ab5d06f1"
+    },
+    {
+      "repository_path": "results/four_hand_ppo_10000/evaluation_5000_505.json",
+      "source_path": "/root/autodl-tmp/crossdex_experiments/four_hand_10000_20261003_160542/evaluation_5000_505.json",
+      "sha256": "6422ad7ff22836d32a8e3531f7a66f3ea34eeb3b33d5c935d1436f398d90ec0f"
+    },
+    {
+      "repository_path": "results/four_hand_ppo_10000/evaluation_10000_101.json",
+      "source_path": "/root/autodl-tmp/crossdex_experiments/four_hand_10000_20261003_160542/evaluation_10000_101.json",
+      "sha256": "6afee4bd5818e4069182926af5269115293ccb1336a79ee0b9cbafe3239e41a6"
+    },
+    {
+      "repository_path": "results/four_hand_ppo_10000/evaluation_10000_202.json",
+      "source_path": "/root/autodl-tmp/crossdex_experiments/four_hand_10000_20261003_160542/evaluation_10000_202.json",
+      "sha256": "36aab07cc4bbed3044112ed2a91b9e647f20a90653f275ae0a1b35972917bffd"
+    },
+    {
+      "repository_path": "results/four_hand_ppo_10000/evaluation_10000_303.json",
+      "source_path": "/root/autodl-tmp/crossdex_experiments/four_hand_10000_20261003_160542/evaluation_10000_303.json",
+      "sha256": "b5896bd0a054fd6a66e88fc10a90d51b480d2841ee3c5cb000ea4484fa137266"
+    },
+    {
+      "repository_path": "results/four_hand_ppo_10000/evaluation_10000_404.json",
+      "source_path": "/root/autodl-tmp/crossdex_experiments/four_hand_10000_20261003_160542/evaluation_10000_404.json",
+      "sha256": "a40ec30bb1d032654501552fd8d528b24c0a0b6ac2e055284562e74a65078ca2"
+    },
+    {
+      "repository_path": "results/four_hand_ppo_10000/evaluation_10000_505.json",
+      "source_path": "/root/autodl-tmp/crossdex_experiments/four_hand_10000_20261003_160542/evaluation_10000_505.json",
+      "sha256": "f0a129ce621ecbd9604eac7bd7dc3c262ac667e5a36d5e32bd1c8b9e33b5d181"
+    },
+    {
+      "repository_path": "configs/experiments/four_hand_ppo_10000.json",
+      "source_path": "/root/autodl-tmp/crossdex_experiments/four_hand_10000_20261003_160542/runs/077_rubiks_cube_2026-10-04_00-05-55/config.json",
+      "sha256": "b8a415e918097fc5a05039bf1124f30e185ba9c0755520ed741d9f9767e6713a"
+    },
+    {
+      "repository_path": "results/sugar_box_ppo_10000/launch_manifest.json",
+      "source_path": "/root/autodl-tmp/crossdex_experiments/multi_object_teachers_20261004/004_sugar_box/launch_manifest.json",
+      "sha256": "7fc6cc373c333712765840aedac54e335a405d5149df29efb814e4200af2dbf4"
+    },
+    {
+      "repository_path": "results/sugar_box_ppo_10000/evaluation_1000_101.json",
+      "source_path": "/root/autodl-tmp/crossdex_experiments/multi_object_teachers_20261004/004_sugar_box/evaluation_1000_101.json",
+      "sha256": "138d82983ba8ab1543a54ba2765c1951729043c91f79471cd67fafeffa6d7a44"
+    },
+    {
+      "repository_path": "results/sugar_box_ppo_10000/evaluation_1000_202.json",
+      "source_path": "/root/autodl-tmp/crossdex_experiments/multi_object_teachers_20261004/004_sugar_box/evaluation_1000_202.json",
+      "sha256": "ec5b8cbc3199cfb64246c9c34d0b6d62fc1a6943703dd6691f65d86ef0a6f697"
+    },
+    {
+      "repository_path": "results/sugar_box_ppo_10000/evaluation_1000_303.json",
+      "source_path": "/root/autodl-tmp/crossdex_experiments/multi_object_teachers_20261004/004_sugar_box/evaluation_1000_303.json",
+      "sha256": "635a085bc88e76b63158b7a0b862e48d2d0a7d35da6bf09574db776035ebf6eb"
+    },
+    {
+      "repository_path": "results/sugar_box_ppo_10000/evaluation_1000_404.json",
+      "source_path": "/root/autodl-tmp/crossdex_experiments/multi_object_teachers_20261004/004_sugar_box/evaluation_1000_404.json",
+      "sha256": "3c0351f9eaf07ea3a7f33ddd9c9560840fa5766ba3921ec2306141c19e536770"
+    },
+    {
+      "repository_path": "results/sugar_box_ppo_10000/evaluation_1000_505.json",
+      "source_path": "/root/autodl-tmp/crossdex_experiments/multi_object_teachers_20261004/004_sugar_box/evaluation_1000_505.json",
+      "sha256": "6fea54da479c086e2cef57f3dc4246933a52942e1e0af5be32c489dccc8484a2"
+    },
+    {
+      "repository_path": "results/sugar_box_ppo_10000/comparison.json",
+      "source_path": "/root/autodl-tmp/crossdex_experiments/multi_object_teachers_20261004/004_sugar_box/comparison.json",
+      "sha256": "c6957c333b11c3ed5dc84d9cfae3ebc220e3ed00f179949f41d7ba4ad95772ca"
+    },
+    {
+      "repository_path": "results/sugar_box_ppo_10000/evaluation_5000_101.json",
+      "source_path": "/root/autodl-tmp/crossdex_experiments/multi_object_teachers_20261004/004_sugar_box/evaluation_5000_101.json",
+      "sha256": "0835dc7cacc9eca04b32658316c411f532cd10f064268cc1b96ee684fa66b7f0"
+    },
+    {
+      "repository_path": "results/sugar_box_ppo_10000/evaluation_5000_202.json",
+      "source_path": "/root/autodl-tmp/crossdex_experiments/multi_object_teachers_20261004/004_sugar_box/evaluation_5000_202.json",
+      "sha256": "45803c4283c712c781aacf03680e8cf8f0652c659fc4f8117255bdc6597b82fe"
+    },
+    {
+      "repository_path": "results/sugar_box_ppo_10000/evaluation_5000_303.json",
+      "source_path": "/root/autodl-tmp/crossdex_experiments/multi_object_teachers_20261004/004_sugar_box/evaluation_5000_303.json",
+      "sha256": "9fbcf724865acefc49f149d1247bedd04e02aa76a8b47af3f47df1fc715783ba"
+    },
+    {
+      "repository_path": "results/sugar_box_ppo_10000/evaluation_5000_404.json",
+      "source_path": "/root/autodl-tmp/crossdex_experiments/multi_object_teachers_20261004/004_sugar_box/evaluation_5000_404.json",
+      "sha256": "d7921cae8d498e317ad44df342c5b6cc52f8ff6e312f341413d3f69020c32a91"
+    },
+    {
+      "repository_path": "results/sugar_box_ppo_10000/evaluation_5000_505.json",
+      "source_path": "/root/autodl-tmp/crossdex_experiments/multi_object_teachers_20261004/004_sugar_box/evaluation_5000_505.json",
+      "sha256": "bd098ca7aa649b4d44e0578265ae5e893b8718f6747e7a47bc369bbfbaeaf815"
+    },
+    {
+      "repository_path": "results/sugar_box_ppo_10000/evaluation_10000_101.json",
+      "source_path": "/root/autodl-tmp/crossdex_experiments/multi_object_teachers_20261004/004_sugar_box/evaluation_10000_101.json",
+      "sha256": "9d9820e6699b4fffe63da74360770b08c73036251a28d8c1da018e0beeb42b16"
+    },
+    {
+      "repository_path": "results/sugar_box_ppo_10000/evaluation_10000_202.json",
+      "source_path": "/root/autodl-tmp/crossdex_experiments/multi_object_teachers_20261004/004_sugar_box/evaluation_10000_202.json",
+      "sha256": "82281debf439ba383f6a9d45473bdff2e4fa71aa57108510ca2d4b07c3c4bfec"
+    },
+    {
+      "repository_path": "results/sugar_box_ppo_10000/evaluation_10000_303.json",
+      "source_path": "/root/autodl-tmp/crossdex_experiments/multi_object_teachers_20261004/004_sugar_box/evaluation_10000_303.json",
+      "sha256": "58030416b6b3335b3e07c000498d914a3b901868779a1d535789c882e5cda7f0"
+    },
+    {
+      "repository_path": "results/sugar_box_ppo_10000/evaluation_10000_404.json",
+      "source_path": "/root/autodl-tmp/crossdex_experiments/multi_object_teachers_20261004/004_sugar_box/evaluation_10000_404.json",
+      "sha256": "a6e6a70c92131173060de4bec57d4919762477ecfc74d7f72606b9d5e11b8ffe"
+    },
+    {
+      "repository_path": "results/sugar_box_ppo_10000/evaluation_10000_505.json",
+      "source_path": "/root/autodl-tmp/crossdex_experiments/multi_object_teachers_20261004/004_sugar_box/evaluation_10000_505.json",
+      "sha256": "e74e7b0bc40934392e1fe264760f21b6fee8bcb65846c7c5ca4ff75f7b45ed91"
+    },
+    {
+      "repository_path": "configs/experiments/sugar_box_ppo_10000.json",
+      "source_path": "/root/autodl-tmp/crossdex_experiments/multi_object_teachers_20261004/004_sugar_box/runs/004_sugar_box_2026-10-04_16-54-27/config.json",
+      "sha256": "3b0378a17ad2ed8d0ec6da6b13e2438f4d84e36382c8a50856a9466327609576"
+    },
+    {
+      "repository_path": "results/tomato_soup_ppo_10000/launch_manifest.json",
+      "source_path": "/root/autodl-tmp/crossdex_experiments/multi_object_teachers_20261004/005_tomato_soup_can/launch_manifest.json",
+      "sha256": "b9e866f012f44856611d119af5bd5b6cfee0571bac1fd5b78e13bf976d109267"
+    },
+    {
+      "repository_path": "results/tomato_soup_ppo_10000/evaluation_1000_101.json",
+      "source_path": "/root/autodl-tmp/crossdex_experiments/multi_object_teachers_20261004/005_tomato_soup_can/evaluation_1000_101.json",
+      "sha256": "660b9c50acd1db31db6c15f537e17266c1fdfecbab181bd09a599109ae2966f3"
+    },
+    {
+      "repository_path": "results/tomato_soup_ppo_10000/evaluation_1000_202.json",
+      "source_path": "/root/autodl-tmp/crossdex_experiments/multi_object_teachers_20261004/005_tomato_soup_can/evaluation_1000_202.json",
+      "sha256": "2fe76c046f3005b2a236fc9b6cfcbf2e218535cc9597d452e71b044547852bdb"
+    },
+    {
+      "repository_path": "results/tomato_soup_ppo_10000/evaluation_1000_303.json",
+      "source_path": "/root/autodl-tmp/crossdex_experiments/multi_object_teachers_20261004/005_tomato_soup_can/evaluation_1000_303.json",
+      "sha256": "540d44dce41d06e5e4140c75231320deab376ecea39da4c6fbad7bd7714c1da6"
+    },
+    {
+      "repository_path": "results/tomato_soup_ppo_10000/evaluation_1000_404.json",
+      "source_path": "/root/autodl-tmp/crossdex_experiments/multi_object_teachers_20261004/005_tomato_soup_can/evaluation_1000_404.json",
+      "sha256": "07e4f05e5c5cc32e346b15ec646496debc210ae09836be24954ae85fb4ca83db"
+    },
+    {
+      "repository_path": "results/tomato_soup_ppo_10000/evaluation_1000_505.json",
+      "source_path": "/root/autodl-tmp/crossdex_experiments/multi_object_teachers_20261004/005_tomato_soup_can/evaluation_1000_505.json",
+      "sha256": "f18297e8ec82a3fd5200831c22cbd2499089ce0ae3118a99286a0b5107889eb8"
+    },
+    {
+      "repository_path": "results/tomato_soup_ppo_10000/comparison.json",
+      "source_path": "/root/autodl-tmp/crossdex_experiments/multi_object_teachers_20261004/005_tomato_soup_can/comparison.json",
+      "sha256": "76a201c099f0925c6916647025dedecbe96f7b991b476f0efdb8042b3eb2410c"
+    },
+    {
+      "repository_path": "results/tomato_soup_ppo_10000/evaluation_5000_101.json",
+      "source_path": "/root/autodl-tmp/crossdex_experiments/multi_object_teachers_20261004/005_tomato_soup_can/evaluation_5000_101.json",
+      "sha256": "89a949a145164b3d86f4192d806a66d8d5449e640cb7cc7194a752407a5772d6"
+    },
+    {
+      "repository_path": "results/tomato_soup_ppo_10000/evaluation_5000_202.json",
+      "source_path": "/root/autodl-tmp/crossdex_experiments/multi_object_teachers_20261004/005_tomato_soup_can/evaluation_5000_202.json",
+      "sha256": "fdf17a49b6e6b9c387cbf7538d622b86a14bbbb9c7cd35b9101e319e1b65e3dd"
+    },
+    {
+      "repository_path": "results/tomato_soup_ppo_10000/evaluation_5000_303.json",
+      "source_path": "/root/autodl-tmp/crossdex_experiments/multi_object_teachers_20261004/005_tomato_soup_can/evaluation_5000_303.json",
+      "sha256": "4e3d046fafed957b5b558c556124b11784b3c3a0ef5b8bdb52577743c5fd4e00"
+    },
+    {
+      "repository_path": "results/tomato_soup_ppo_10000/evaluation_5000_404.json",
+      "source_path": "/root/autodl-tmp/crossdex_experiments/multi_object_teachers_20261004/005_tomato_soup_can/evaluation_5000_404.json",
+      "sha256": "a3620d5f75f28c92791e348871d8ed14bdf590ff3ed0922d76efc8b4dcd72985"
+    },
+    {
+      "repository_path": "results/tomato_soup_ppo_10000/evaluation_5000_505.json",
+      "source_path": "/root/autodl-tmp/crossdex_experiments/multi_object_teachers_20261004/005_tomato_soup_can/evaluation_5000_505.json",
+      "sha256": "c7a382669718c36c361c6d87046d1e2e56e34034502f11191a6556cc0cbd92b7"
+    },
+    {
+      "repository_path": "results/tomato_soup_ppo_10000/evaluation_10000_101.json",
+      "source_path": "/root/autodl-tmp/crossdex_experiments/multi_object_teachers_20261004/005_tomato_soup_can/evaluation_10000_101.json",
+      "sha256": "3eaff94aa80cbc21fcfb51f080e87c78a7c15f3f1be403a7d6dc8e701039e9a5"
+    },
+    {
+      "repository_path": "results/tomato_soup_ppo_10000/evaluation_10000_202.json",
+      "source_path": "/root/autodl-tmp/crossdex_experiments/multi_object_teachers_20261004/005_tomato_soup_can/evaluation_10000_202.json",
+      "sha256": "aa848c4da361a393bb483b52e05089010ed5991b79da733141dd33e57ee2b8b9"
+    },
+    {
+      "repository_path": "results/tomato_soup_ppo_10000/evaluation_10000_303.json",
+      "source_path": "/root/autodl-tmp/crossdex_experiments/multi_object_teachers_20261004/005_tomato_soup_can/evaluation_10000_303.json",
+      "sha256": "8affb0b860a0094022fbb74df2c65f1ce1c229e1c00d23990f60776feffeeb76"
+    },
+    {
+      "repository_path": "results/tomato_soup_ppo_10000/evaluation_10000_404.json",
+      "source_path": "/root/autodl-tmp/crossdex_experiments/multi_object_teachers_20261004/005_tomato_soup_can/evaluation_10000_404.json",
+      "sha256": "65b9d9d8631b2c0abf9a7dc4e2e5cf251a6f628318ab6d99dbbf02f84c5c557a"
+    },
+    {
+      "repository_path": "results/tomato_soup_ppo_10000/evaluation_10000_505.json",
+      "source_path": "/root/autodl-tmp/crossdex_experiments/multi_object_teachers_20261004/005_tomato_soup_can/evaluation_10000_505.json",
+      "sha256": "51db10e4b5ef6bba0fb1317b07d8e9851da53db9a48934bc1f6b2eb16dbc945d"
+    },
+    {
+      "repository_path": "configs/experiments/tomato_soup_ppo_10000.json",
+      "source_path": "/root/autodl-tmp/crossdex_experiments/multi_object_teachers_20261004/005_tomato_soup_can/runs/005_tomato_soup_can_2026-10-04_22-25-57/config.json",
+      "sha256": "6aa6dcd567e63e177eb9c99610ae7b82ab6c55d2e608c4f65f3014b36d12f2c6"
+    },
+    {
+      "repository_path": "results/sugar_box_followup/launch_manifest.json",
+      "source_path": "/root/autodl-tmp/crossdex_experiments/sugar_box_warmstart_20261005/launch_manifest.json",
+      "sha256": "33c8828b515fec2b3df465d535abddda98ae63f242eb2f0dff7cb6b63806206f"
+    },
+    {
+      "repository_path": "results/sugar_box_followup/evaluation_101.json",
+      "source_path": "/root/autodl-tmp/crossdex_experiments/sugar_box_warmstart_20261005/evaluation_101.json",
+      "sha256": "f7de01458ae900c85de257e5da06613dcfe755227a06b48998ec3cc64ae1d00e"
+    },
+    {
+      "repository_path": "results/sugar_box_followup/evaluation_202.json",
+      "source_path": "/root/autodl-tmp/crossdex_experiments/sugar_box_warmstart_20261005/evaluation_202.json",
+      "sha256": "8ebef3e09bf2c9e0d724dd965553a683bc78cfbb17a6d9db7fd9e0286152327a"
+    },
+    {
+      "repository_path": "results/sugar_box_followup/evaluation_303.json",
+      "source_path": "/root/autodl-tmp/crossdex_experiments/sugar_box_warmstart_20261005/evaluation_303.json",
+      "sha256": "c3c575e87731d81027bd510303fd8b08eedc1889192fb935a1689fc0e1ba2582"
+    },
+    {
+      "repository_path": "results/sugar_box_followup/evaluation_404.json",
+      "source_path": "/root/autodl-tmp/crossdex_experiments/sugar_box_warmstart_20261005/evaluation_404.json",
+      "sha256": "9ceca83086e26b8d7d065ccd7c5be67306cf7c137d25269e0ac55336a6f20cae"
+    },
+    {
+      "repository_path": "results/sugar_box_followup/evaluation_505.json",
+      "source_path": "/root/autodl-tmp/crossdex_experiments/sugar_box_warmstart_20261005/evaluation_505.json",
+      "sha256": "4b7aa7bf9690a3eac3bcfd9d34c8488f1574295003b2dd590c50e738ded10a0e"
+    },
+    {
+      "repository_path": "results/sugar_box_followup/comparison.json",
+      "source_path": "/root/autodl-tmp/crossdex_experiments/sugar_box_warmstart_20261005/comparison.json",
+      "sha256": "17e18c8c4f82bc685b4b1b4f189afac69f5ec94c2e74224ef595da51fdc02dc4"
+    },
+    {
+      "repository_path": "configs/experiments/sugar_box_followup.json",
+      "source_path": "/root/autodl-tmp/crossdex_experiments/sugar_box_warmstart_20261005/runs/004_sugar_box_2026-10-05_10-12-41/config.json",
+      "sha256": "eb7d8ef53afefdd8026f6c56c065ac43b37ae7f36e927458eec3f01eac05cfae"
+    },
+    {
+      "repository_path": "results/single_object_dagger/student_101.json",
+      "source_path": "/root/crossdex_validation/single_object_dagger/expanded/student_101.json",
+      "sha256": "be9b910cc24247fc61727e5bdc18dc5c3bf6c4ccc53d885338ad3ff9757a2694"
+    },
+    {
+      "repository_path": "results/single_object_dagger/student_202.json",
+      "source_path": "/root/crossdex_validation/single_object_dagger/expanded/student_202.json",
+      "sha256": "2f4eaf0079b712016a0581362e8450d5563299decddcf53d6a676bd3053ffa33"
+    },
+    {
+      "repository_path": "results/single_object_dagger/student_303.json",
+      "source_path": "/root/crossdex_validation/single_object_dagger/expanded/student_303.json",
+      "sha256": "a220cb5557f46881ebeaada3ce70269cae5e085ee9e3adfd1250d0c977f9f0e7"
+    },
+    {
+      "repository_path": "results/single_object_dagger/student_404.json",
+      "source_path": "/root/crossdex_validation/single_object_dagger/expanded/student_404.json",
+      "sha256": "c6e8725f8e43de0717dbc2620eb2fa92870be2fe5a338b63b8ba8943b51f6f6e"
+    },
+    {
+      "repository_path": "results/single_object_dagger/student_505.json",
+      "source_path": "/root/crossdex_validation/single_object_dagger/expanded/student_505.json",
+      "sha256": "f09209462cca43bd0cb2964499bf5f8389194367f5a595ef37fc562d61f8089b"
+    },
+    {
+      "repository_path": "results/single_object_dagger/teacher_101.json",
+      "source_path": "/root/crossdex_validation/single_object_dagger/expanded/teacher_101.json",
+      "sha256": "fdd714c3729a010ebb1968e03d1d1843217edaea0f73dbfa9eaba20daaaf3f2e"
+    },
+    {
+      "repository_path": "results/single_object_dagger/teacher_202.json",
+      "source_path": "/root/crossdex_validation/single_object_dagger/expanded/teacher_202.json",
+      "sha256": "e0f880c0c8c18067c1fc8a0c36e47e1484a5e6ff070d7ee5adf403c20598070d"
+    },
+    {
+      "repository_path": "results/single_object_dagger/teacher_303.json",
+      "source_path": "/root/crossdex_validation/single_object_dagger/expanded/teacher_303.json",
+      "sha256": "9c6b41674f0846d4b8c37cb4a58b00fdd138ee033132c27f5d5d80d6be563dfc"
+    },
+    {
+      "repository_path": "results/single_object_dagger/teacher_404.json",
+      "source_path": "/root/crossdex_validation/single_object_dagger/expanded/teacher_404.json",
+      "sha256": "e0540f3f3d2f7542ab296b8ec2f9b5891d209485ca349e89e33f87770564e125"
+    },
+    {
+      "repository_path": "results/single_object_dagger/teacher_505.json",
+      "source_path": "/root/crossdex_validation/single_object_dagger/expanded/teacher_505.json",
+      "sha256": "9e6a8478dcf0d311c2370440ab3797d9cb7b087ce0823c964e2c69bbebb36bbf"
+    },
+    {
+      "repository_path": "results/single_object_dagger/comparison.json",
+      "source_path": "/root/crossdex_validation/single_object_dagger/expanded/comparison.json",
+      "sha256": "4fbf7e6a379daa115294e6ec964331eb8d90c613d83cf6ca8d5493d8ae9e18df"
+    },
+    {
+      "repository_path": "results/single_object_dagger/launch_manifest.json",
+      "source_path": "/root/crossdex_validation/single_object_dagger/trial_20261004/launch_manifest.json",
+      "sha256": "50f5f466f7bc9e885f73b6d041ebd22d9d9b25e6a79a784c45530ea6c54498c9"
+    },
+    {
+      "repository_path": "configs/experiments/single_object_dagger.json",
+      "source_path": "/root/crossdex_validation/single_object_dagger/trial_20261004/runs/MultiDexGrasp_2026-10-04_15-30-57/config.json",
+      "sha256": "b9f8a148395a7f3fd0173693601b426467daa671ff8761d1da96a650e0efe0de"
+    },
+    {
+      "repository_path": "configs/experiments/four_hand_ppo_1000_base.json",
+      "source_path": "/root/autodl-tmp/crossdex_experiments/four_hand_short_20261003_143524/runs/077_rubiks_cube_2026-10-03_22-35-38/config.json",
+      "sha256": "888dd2309afb0e8512e884916be335bd835bea828ab89096ca5da0ff87b0397f"
+    },
+    {
+      "repository_path": "results/mapping/original/verified_diagnosis.json",
+      "source_path": "/root/crossdex_validation/mapping_origin/verified_diagnosis.json",
+      "sha256": "e6459a4aa872f62ecddd36e432b2767c058a244b114f8a3459bc3d3edcb5a0a0"
+    },
+    {
+      "repository_path": "results/mapping/original/runtime_chain.json",
+      "source_path": "/root/crossdex_validation/mapping_origin/runtime_chain.json",
+      "sha256": "59271b13bb5c8dfc06d79391f95e9067f8967730169dac11385cadb7950f38f9"
+    },
+    {
+      "repository_path": "results/mapping/original/assets_and_input.json",
+      "source_path": "/root/crossdex_validation/mapping_origin/assets_and_input.json",
+      "sha256": "41a405dd5a264f1f375c0222afc27c3395b3bfca2dd754a838ee1682632ec1a0"
+    },
+    {
+      "repository_path": "results/mapping/original/uploaded_evidence_analysis.json",
+      "source_path": "/root/crossdex_validation/mapping_origin/uploaded_evidence_analysis.json",
+      "sha256": "794ee4cdd9285053f96b3630e73b60dbe12d409e52bea4c64e9e5e53629988aa"
+    },
+    {
+      "repository_path": "results/mapping/original/reference_calibration.json",
+      "source_path": "/root/crossdex_validation/mapping_origin/reference_calibration.json",
+      "sha256": "81f71bd793fe692847768e04cf67f3edc40fcdd3de6c919e3c3b1ef23f77e18f"
+    },
+    {
+      "repository_path": "results/mapping/original/controlled_reference.json",
+      "source_path": "/root/crossdex_validation/mapping_origin/controlled_reference.json",
+      "sha256": "f623f8c513959504e4a8b45891681a0d3831c3fd85920caa518f9546f7d65917"
+    },
+    {
+      "repository_path": "results/mapping/additional_hands_status.json",
+      "source_path": "/root/crossdex_validation/additional_hands/full_run/status.json",
+      "sha256": "759f3ed01a3a0b305e3a7afe4ee9d8d48b59a1c8ba542b7d16792ff3020cf01b"
+    },
+    {
+      "repository_path": "results/mapping/ability_hand/quality.json",
+      "source_path": "/root/crossdex_validation/additional_hands/full_run/ability_hand/quality.json",
+      "sha256": "a132f1ab05a2b49730b96cdb879cc4f23f1c8957ca5ab65e3eedc858574cefce"
+    },
+    {
+      "repository_path": "results/mapping/ability_hand/pair_generation_complete.json",
+      "source_path": "/root/crossdex_validation/additional_hands/full_run/ability_hand/pair_generation_complete.json",
+      "sha256": "0a2ff0d1bb0cf828cad4635df67436e8190b7d9c6a072d7b8cc313194a4b5ede"
+    },
+    {
+      "repository_path": "results/mapping/schunk_svh_hand/quality.json",
+      "source_path": "/root/crossdex_validation/additional_hands/full_run/schunk_svh_hand/quality.json",
+      "sha256": "f4c2b16203c8a0a167b3c6b0a3a7f1a49f2da74171d05738eb5126bfadd65146"
+    },
+    {
+      "repository_path": "results/mapping/schunk_svh_hand/pair_generation_complete.json",
+      "source_path": "/root/crossdex_validation/additional_hands/full_run/schunk_svh_hand/pair_generation_complete.json",
+      "sha256": "ade3cde70920e1265c444f6f8b5278c886895539f0f74fa1f44efc49c25671d5"
+    },
+    {
+      "repository_path": "configs/mapping/retargeting_nn_allegro_hand_grab_dexpilot.yaml",
+      "source_path": "/home/siyu/CrossDex/retargeting/models/retargeting_nn_allegro_hand_grab_dexpilot.yaml",
+      "sha256": "8ee031402ac06db02937bb619c962a74cb62e1982f50b001006087302043b32b"
+    },
+    {
+      "repository_path": "configs/mapping/retargeting_nn_shadow_hand_grab_dexpilot.yaml",
+      "source_path": "/home/siyu/CrossDex/retargeting/models/retargeting_nn_shadow_hand_grab_dexpilot.yaml",
+      "sha256": "8f557e16530970c19acc66264d6eadb767a0221cc29e0aa817e2e8b62d371668"
+    },
+    {
+      "repository_path": "configs/mapping/retargeting_nn_ability_hand_grab_dexpilot.yaml",
+      "source_path": "/home/siyu/CrossDex/retargeting/models/retargeting_nn_ability_hand_grab_dexpilot.yaml",
+      "sha256": "8a8531f301b7486c368faa5de1ae4c08140549363a8fd78c257fc9d5b6174d18"
+    },
+    {
+      "repository_path": "configs/mapping/retargeting_nn_schunk_svh_hand_grab_dexpilot.yaml",
+      "source_path": "/home/siyu/CrossDex/retargeting/models/retargeting_nn_schunk_svh_hand_grab_dexpilot.yaml",
+      "sha256": "8c6ac1d232927ed85ee9e73e797ccca889ae4651e0d20ca870f5a54c9b4d86aa"
+    },
+    {
+      "repository_path": "results/provenance/source_audit.json",
+      "source_path": "/root/crossdex_validation/source_audit.json",
+      "sha256": "0cf971c1fd20f98ef6e74e7619dbab3f305c1f1818a59eb0fc86f8fd3a73b0bb"
+    },
+    {
+      "repository_path": "results/provenance/asset_weight_manifest.json",
+      "source_path": "/root/crossdex_validation/asset_weight_manifest.json",
+      "sha256": "2ac20962d662b9a496f7083bc61792333e1ee07c306453163e900d207f2639f0"
+    },
+    {
+      "repository_path": "results/summary/success_rates.csv",
+      "source_path": "/root/crossdex_validation/reports/isaacgym_20261009/success_rates.csv",
+      "sha256": "b9c4b7befc57c7f07f64866ae17da6216863af33e0f9208225c6172d203d2d9d"
+    },
+    {
+      "repository_path": "results/summary/experiment_results.json",
+      "source_path": "/root/crossdex_validation/reports/isaacgym_20261009/experiment_results.json",
+      "sha256": "917884b94579d8be8816b5a97adc540e719c527646ac08833e3ef22f9a1a8007"
+    },
+    {
+      "repository_path": "results/summary/evidence_manifest.json",
+      "source_path": "/root/crossdex_validation/reports/isaacgym_20261009/evidence_manifest.json",
+      "sha256": "f249ab62d72239677b3916a83e36662450f48fc082d1c364c96a0301ecbd3af1"
+    }
+  ]
+}

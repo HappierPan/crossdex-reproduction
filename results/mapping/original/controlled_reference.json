@@ -1,0 +1,469 @@
+{
+  "method": "Independent cold-start DexPilot per sample; no output LP filter; projection flags reset; additional NN-initialized optimizer result; same objective evaluated across candidates. Policy actions sampled from all envs before forced-hold onset, excluding initial frame. Scaling contracts PCA coefficients towards PCA zero, not action midpoint. No original heldout GRAB dataset available.",
+  "hands": {
+    "allegro_hand": {
+      "pc_zero": {
+        "samples": 1,
+        "clipped_nn_vs_default_reference_tip_error_m": {
+          "mean": 0.018706399690473326,
+          "p95": 0.03540075949070247,
+          "max": 0.03836228483019572
+        },
+        "clipped_nn_vs_best_two_initializations_tip_error_m": {
+          "mean": 0.013481311220566426,
+          "p95": 0.0259298052321428,
+          "max": 0.02821661927593711
+        },
+        "raw_joint_abs_error_rad": {
+          "mean": 0.2003173767006956,
+          "p95": 0.39201580360531807,
+          "max": 0.6410259306430817
+        },
+        "clipped_joint_abs_error_rad": {
+          "mean": 0.2003173767006956,
+          "p95": 0.39201580360531807,
+          "max": 0.6410259306430817
+        },
+        "raw_limit_excess_rad": {
+          "mean": 0.0,
+          "p95": 0.0,
+          "max": 0.0
+        },
+        "raw_joint_elements_needing_clamp_fraction": 0.0,
+        "same_dexpilot_cartesian_objective_nn": {
+          "mean": 0.11285323927392596,
+          "p95": 0.11285323927392596,
+          "max": 0.11285323927392596
+        },
+        "same_dexpilot_cartesian_objective_default_reference": {
+          "mean": 0.07784939990821813,
+          "p95": 0.07784939990821813,
+          "max": 0.07784939990821813
+        },
+        "same_dexpilot_cartesian_objective_best_reference": {
+          "mean": 0.071365153970654,
+          "p95": 0.071365153970654,
+          "max": 0.071365153970654
+        },
+        "normalized_action_components_at_bound_fraction": 0.0,
+        "pose45_abs_max_rad": 0.8213850259780884
+      },
+      "small_pc_gaussian": {
+        "samples": 64,
+        "clipped_nn_vs_default_reference_tip_error_m": {
+          "mean": 0.025454542171468565,
+          "p95": 0.0604435479394865,
+          "max": 0.1259291418342272
+        },
+        "clipped_nn_vs_best_two_initializations_tip_error_m": {
+          "mean": 0.018286411997073447,
+          "p95": 0.05216366955786294,
+          "max": 0.12105612156598684
+        },
+        "raw_joint_abs_error_rad": {
+          "mean": 0.20198772287071165,
+          "p95": 0.48224983662366816,
+          "max": 1.17397078871727
+        },
+        "clipped_joint_abs_error_rad": {
+          "mean": 0.20196829021750431,
+          "p95": 0.48224983662366816,
+          "max": 1.17397078871727
+        },
+        "raw_limit_excess_rad": {
+          "mean": 2.1385750733316075e-05,
+          "p95": 0.0,
+          "max": 0.007453052997589138
+        },
+        "raw_joint_elements_needing_clamp_fraction": 0.0048828125,
+        "same_dexpilot_cartesian_objective_nn": {
+          "mean": 0.15033780981204853,
+          "p95": 0.27297247799002494,
+          "max": 0.9624524796773472
+        },
+        "same_dexpilot_cartesian_objective_default_reference": {
+          "mean": 0.08038456064035182,
+          "p95": 0.10536486844829329,
+          "max": 0.13765246593288596
+        },
+        "same_dexpilot_cartesian_objective_best_reference": {
+          "mean": 0.07348428485946379,
+          "p95": 0.09297969802640026,
+          "max": 0.12936868682321473
+        },
+        "normalized_action_components_at_bound_fraction": 0.0,
+        "pose45_abs_max_rad": 1.216565728187561
+      },
+      "policy_coeff_scale_0.25": {
+        "samples": 64,
+        "clipped_nn_vs_default_reference_tip_error_m": {
+          "mean": 0.03477006670100191,
+          "p95": 0.06216992442823002,
+          "max": 0.126912907049041
+        },
+        "clipped_nn_vs_best_two_initializations_tip_error_m": {
+          "mean": 0.019306553486281353,
+          "p95": 0.054905059887171606,
+          "max": 0.10930511482990475
+        },
+        "raw_joint_abs_error_rad": {
+          "mean": 0.23829432577775833,
+          "p95": 0.515579524450004,
+          "max": 0.9015247672796249
+        },
+        "clipped_joint_abs_error_rad": {
+          "mean": 0.2381700352353141,
+          "p95": 0.515579524450004,
+          "max": 0.9015247672796249
+        },
+        "raw_limit_excess_rad": {
+          "mean": 0.00013333181035704968,
+          "p95": 0.0,
+          "max": 0.016065506935119656
+        },
+        "raw_joint_elements_needing_clamp_fraction": 0.021484375,
+        "same_dexpilot_cartesian_objective_nn": {
+          "mean": 0.2523195233373565,
+          "p95": 0.7929403706388692,
+          "max": 1.0896412747312234
+        },
+        "same_dexpilot_cartesian_objective_default_reference": {
+          "mean": 0.11888548581343183,
+          "p95": 0.15373949919173155,
+          "max": 0.16012032625693384
+        },
+        "same_dexpilot_cartesian_objective_best_reference": {
+          "mean": 0.10755295730214733,
+          "p95": 0.12869138092805993,
+          "max": 0.15733097648812475
+        },
+        "normalized_action_components_at_bound_fraction": 0.0,
+        "pose45_abs_max_rad": 1.3219654560089111
+      },
+      "policy_coeff_scale_0.5": {
+        "samples": 64,
+        "clipped_nn_vs_default_reference_tip_error_m": {
+          "mean": 0.03455288613243758,
+          "p95": 0.08407890274523971,
+          "max": 0.09716481908518004
+        },
+        "clipped_nn_vs_best_two_initializations_tip_error_m": {
+          "mean": 0.028014511932560354,
+          "p95": 0.07011630325587828,
+          "max": 0.08527960105258545
+        },
+        "raw_joint_abs_error_rad": {
+          "mean": 0.24074630259582364,
+          "p95": 0.5702337056398391,
+          "max": 0.9486819803714752
+        },
+        "clipped_joint_abs_error_rad": {
+          "mean": 0.2372570749943802,
+          "p95": 0.5694611445069313,
+          "max": 0.9409999859333038
+        },
+        "raw_limit_excess_rad": {
+          "mean": 0.0035223514979006703,
+          "p95": 0.006902994513511662,
+          "max": 0.6636561441421509
+        },
+        "raw_joint_elements_needing_clamp_fraction": 0.0615234375,
+        "same_dexpilot_cartesian_objective_nn": {
+          "mean": 0.1712667311542256,
+          "p95": 0.25428176172054456,
+          "max": 0.5121501218244502
+        },
+        "same_dexpilot_cartesian_objective_default_reference": {
+          "mean": 0.06845584423931388,
+          "p95": 0.09518862040418719,
+          "max": 0.11243711661729355
+        },
+        "same_dexpilot_cartesian_objective_best_reference": {
+          "mean": 0.05941446305522843,
+          "p95": 0.08399751668511429,
+          "max": 0.10835270412834822
+        },
+        "normalized_action_components_at_bound_fraction": 0.0,
+        "pose45_abs_max_rad": 2.0732102394104004
+      },
+      "policy_coeff_scale_1.0": {
+        "samples": 64,
+        "clipped_nn_vs_default_reference_tip_error_m": {
+          "mean": 0.07752212816981373,
+          "p95": 0.17965438598776515,
+          "max": 0.22810882671411356
+        },
+        "clipped_nn_vs_best_two_initializations_tip_error_m": {
+          "mean": 0.07039688100801342,
+          "p95": 0.1792192562530737,
+          "max": 0.2013770768161713
+        },
+        "raw_joint_abs_error_rad": {
+          "mean": 0.532458267862296,
+          "p95": 1.588973452174104,
+          "max": 2.6290651112794876
+        },
+        "clipped_joint_abs_error_rad": {
+          "mean": 0.4480426165660888,
+          "p95": 1.2729784117341036,
+          "max": 1.8840000381469726
+        },
+        "raw_limit_excess_rad": {
+          "mean": 0.08461390018084784,
+          "p95": 0.5059536252021782,
+          "max": 2.2789554882049563
+        },
+        "raw_joint_elements_needing_clamp_fraction": 0.21875,
+        "same_dexpilot_cartesian_objective_nn": {
+          "mean": 0.47212148886775196,
+          "p95": 1.6915491227856718,
+          "max": 2.4467900158806053
+        },
+        "same_dexpilot_cartesian_objective_default_reference": {
+          "mean": 0.056804982439411573,
+          "p95": 0.13366108986394148,
+          "max": 0.17387516688688998
+        },
+        "same_dexpilot_cartesian_objective_best_reference": {
+          "mean": 0.031236356263582857,
+          "p95": 0.07261059767387885,
+          "max": 0.08512637490144777
+        },
+        "normalized_action_components_at_bound_fraction": 0.47395833333333337,
+        "pose45_abs_max_rad": 3.7920286655426025
+      }
+    },
+    "shadow_hand": {
+      "pc_zero": {
+        "samples": 1,
+        "clipped_nn_vs_default_reference_tip_error_m": {
+          "mean": 0.022515288914251207,
+          "p95": 0.025753207389758045,
+          "max": 0.02576753674706591
+        },
+        "clipped_nn_vs_best_two_initializations_tip_error_m": {
+          "mean": 0.014681595921008778,
+          "p95": 0.022211513546473056,
+          "max": 0.023259752952701468
+        },
+        "raw_joint_abs_error_rad": {
+          "mean": 0.22940877786922184,
+          "p95": 0.4900529447942971,
+          "max": 0.7681241035461426
+        },
+        "clipped_joint_abs_error_rad": {
+          "mean": 0.22940877786922184,
+          "p95": 0.4900529447942971,
+          "max": 0.7681241035461426
+        },
+        "raw_limit_excess_rad": {
+          "mean": 0.0,
+          "p95": 0.0,
+          "max": 0.0
+        },
+        "raw_joint_elements_needing_clamp_fraction": 0.0,
+        "same_dexpilot_cartesian_objective_nn": {
+          "mean": 0.055410745599872205,
+          "p95": 0.055410745599872205,
+          "max": 0.055410745599872205
+        },
+        "same_dexpilot_cartesian_objective_default_reference": {
+          "mean": 0.00576541818231801,
+          "p95": 0.00576541818231801,
+          "max": 0.00576541818231801
+        },
+        "same_dexpilot_cartesian_objective_best_reference": {
+          "mean": 0.0034286190037128876,
+          "p95": 0.0034286190037128876,
+          "max": 0.0034286190037128876
+        },
+        "normalized_action_components_at_bound_fraction": 0.0,
+        "pose45_abs_max_rad": 0.8213850259780884
+      },
+      "small_pc_gaussian": {
+        "samples": 64,
+        "clipped_nn_vs_default_reference_tip_error_m": {
+          "mean": 0.024596638660420455,
+          "p95": 0.039356790958226855,
+          "max": 0.06666258518627763
+        },
+        "clipped_nn_vs_best_two_initializations_tip_error_m": {
+          "mean": 0.017063019168212634,
+          "p95": 0.03344556414199877,
+          "max": 0.06718334528859363
+        },
+        "raw_joint_abs_error_rad": {
+          "mean": 0.22814102545487458,
+          "p95": 0.6223560810089107,
+          "max": 1.1316299736499786
+        },
+        "clipped_joint_abs_error_rad": {
+          "mean": 0.22742998838150041,
+          "p95": 0.6223560810089107,
+          "max": 1.0813299278356086
+        },
+        "raw_limit_excess_rad": {
+          "mean": 0.0007138779826000291,
+          "p95": 0.0,
+          "max": 0.09016715464784447
+        },
+        "raw_joint_elements_needing_clamp_fraction": 0.026278409090909092,
+        "same_dexpilot_cartesian_objective_nn": {
+          "mean": 0.08130535485878622,
+          "p95": 0.13477726060204634,
+          "max": 0.6456302048294883
+        },
+        "same_dexpilot_cartesian_objective_default_reference": {
+          "mean": 0.008907433240396015,
+          "p95": 0.029547779444977117,
+          "max": 0.12788375562971027
+        },
+        "same_dexpilot_cartesian_objective_best_reference": {
+          "mean": 0.006902765107390584,
+          "p95": 0.02831861458655085,
+          "max": 0.1250945584227027
+        },
+        "normalized_action_components_at_bound_fraction": 0.0,
+        "pose45_abs_max_rad": 1.2675981521606445
+      },
+      "policy_coeff_scale_0.25": {
+        "samples": 64,
+        "clipped_nn_vs_default_reference_tip_error_m": {
+          "mean": 0.02710890773169424,
+          "p95": 0.05288875803434748,
+          "max": 0.05993931778392138
+        },
+        "clipped_nn_vs_best_two_initializations_tip_error_m": {
+          "mean": 0.01625325747415306,
+          "p95": 0.03484010734185114,
+          "max": 0.0512039806514652
+        },
+        "raw_joint_abs_error_rad": {
+          "mean": 0.26700923167399276,
+          "p95": 0.7725770719349383,
+          "max": 1.2046060860157013
+        },
+        "clipped_joint_abs_error_rad": {
+          "mean": 0.2662332454052636,
+          "p95": 0.7725770719349383,
+          "max": 1.2046060860157013
+        },
+        "raw_limit_excess_rad": {
+          "mean": 0.0007762877911548665,
+          "p95": 0.0,
+          "max": 0.08854417977525536
+        },
+        "raw_joint_elements_needing_clamp_fraction": 0.03551136363636364,
+        "same_dexpilot_cartesian_objective_nn": {
+          "mean": 0.10255273619929835,
+          "p95": 0.1534203133855082,
+          "max": 0.16248229726108157
+        },
+        "same_dexpilot_cartesian_objective_default_reference": {
+          "mean": 0.01916457119413101,
+          "p95": 0.03692785984783504,
+          "max": 0.04051240294573035
+        },
+        "same_dexpilot_cartesian_objective_best_reference": {
+          "mean": 0.017013397911428765,
+          "p95": 0.036507591116670776,
+          "max": 0.040092415674451584
+        },
+        "normalized_action_components_at_bound_fraction": 0.0,
+        "pose45_abs_max_rad": 1.418975591659546
+      },
+      "policy_coeff_scale_0.5": {
+        "samples": 64,
+        "clipped_nn_vs_default_reference_tip_error_m": {
+          "mean": 0.02993161551230485,
+          "p95": 0.04716269342429056,
+          "max": 0.059572712838223234
+        },
+        "clipped_nn_vs_best_two_initializations_tip_error_m": {
+          "mean": 0.02262022108418282,
+          "p95": 0.04363913220392356,
+          "max": 0.06483082473158934
+        },
+        "raw_joint_abs_error_rad": {
+          "mean": 0.30675714406952054,
+          "p95": 0.7594636276364324,
+          "max": 1.956575870513916
+        },
+        "clipped_joint_abs_error_rad": {
+          "mean": 0.29914254884934394,
+          "p95": 0.73727352281194,
+          "max": 1.6372599310370362
+        },
+        "raw_limit_excess_rad": {
+          "mean": 0.00763946350656548,
+          "p95": 0.05075084414800428,
+          "max": 0.3222864111326684
+        },
+        "raw_joint_elements_needing_clamp_fraction": 0.09161931818181818,
+        "same_dexpilot_cartesian_objective_nn": {
+          "mean": 0.14132987581169484,
+          "p95": 0.36566149064351466,
+          "max": 0.7452366095434994
+        },
+        "same_dexpilot_cartesian_objective_default_reference": {
+          "mean": 0.01635589160520016,
+          "p95": 0.03985182378758334,
+          "max": 0.25220395613947716
+        },
+        "same_dexpilot_cartesian_objective_best_reference": {
+          "mean": 0.014300629421825093,
+          "p95": 0.038400819822938595,
+          "max": 0.24844783849658328
+        },
+        "normalized_action_components_at_bound_fraction": 0.0,
+        "pose45_abs_max_rad": 2.2007970809936523
+      },
+      "policy_coeff_scale_1.0": {
+        "samples": 64,
+        "clipped_nn_vs_default_reference_tip_error_m": {
+          "mean": 0.04627095424804857,
+          "p95": 0.12248211635217954,
+          "max": 0.16202399724474012
+        },
+        "clipped_nn_vs_best_two_initializations_tip_error_m": {
+          "mean": 0.04333156350982635,
+          "p95": 0.11949839872733446,
+          "max": 0.16536700240548105
+        },
+        "raw_joint_abs_error_rad": {
+          "mean": 0.516780023605365,
+          "p95": 1.4265638746321185,
+          "max": 2.607790529727936
+        },
+        "clipped_joint_abs_error_rad": {
+          "mean": 0.4063081824059154,
+          "p95": 1.1613529356196521,
+          "max": 1.8335956858260385
+        },
+        "raw_limit_excess_rad": {
+          "mean": 0.11068016345007958,
+          "p95": 0.6280269702337729,
+          "max": 1.5025314529798974
+        },
+        "raw_joint_elements_needing_clamp_fraction": 0.34019886363636365,
+        "same_dexpilot_cartesian_objective_nn": {
+          "mean": 0.4542745972441978,
+          "p95": 1.5422921467793493,
+          "max": 1.7473670717723313
+        },
+        "same_dexpilot_cartesian_objective_default_reference": {
+          "mean": 0.0450045274605181,
+          "p95": 0.12264818328512672,
+          "max": 0.16617726208850958
+        },
+        "same_dexpilot_cartesian_objective_best_reference": {
+          "mean": 0.04218776988598841,
+          "p95": 0.11330162744418845,
+          "max": 0.1246073957422601
+        },
+        "normalized_action_components_at_bound_fraction": 0.4010416666666667,
+        "pose45_abs_max_rad": 3.817626714706421
+      }
+    }
+  }
+}

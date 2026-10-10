@@ -1,0 +1,38 @@
+{
+  "source_config": "/root/autodl-tmp/crossdex_experiments/four_hand_short_20261003_143524/runs/077_rubiks_cube_2026-10-03_22-35-38/config.json",
+  "changes": [
+    {
+      "path": "train.params.log_dir",
+      "old": "/root/autodl-tmp/crossdex_experiments/four_hand_short_20261003_143524/runs",
+      "new": "/root/autodl-tmp/crossdex_experiments/four_hand_10000_20261003_160542/runs"
+    },
+    {
+      "path": "train.params.max_iterations",
+      "old": 1000,
+      "new": 10000
+    }
+  ],
+  "mapping_weight_sha256": {
+    "allegro_hand": "4d970e85d3cbdb1c2cd60075404021a3166eb5d4d9c84432abf44efce0dae01c",
+    "shadow_hand": "069debac8f11f36667b072c73232be4bdaf4a3fadb9a32833722e6d3fb39d4e0",
+    "ability_hand": "79cd7e32cba1807906e84567854e2a7d02d28bc5e4d6c6087415e31ea22d2f45",
+    "schunk_svh_hand": "c4fd1b4c244365ba267296a9bd0aa8df52cbbc17cdc044f0a306a86ac227c105"
+  },
+  "initialization": "from_scratch",
+  "seed": 42,
+  "iterations": 10000,
+  "started_utc": "2026-10-03T16:05:47.270948+00:00",
+  "evaluation_checkpoints": [
+    1000,
+    5000,
+    10000
+  ],
+  "evaluation_seeds": [
+    101,
+    202,
+    303,
+    404,
+    505
+  ],
+  "evaluation_envs": 256
+}

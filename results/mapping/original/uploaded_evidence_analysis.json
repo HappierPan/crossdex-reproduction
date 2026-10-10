@@ -1,0 +1,196 @@
+{
+  "allegro_hand": {
+    "weights_match_export": true,
+    "pca_matches_export": true,
+    "exported_splits_disjoint": true,
+    "fits": {
+      "train": {
+        "samples": 16000,
+        "mse_rad2": 0.001380983777407915,
+        "rmse_rad": 0.037161590081802406,
+        "mae_rad": 0.022809594869613647,
+        "joint_abs_error_rad": {
+          "mean": 0.022809594869613647,
+          "median": 0.012409523129463196,
+          "p95": 0.077944578230381,
+          "p99": 0.13565121859312063,
+          "max": 0.9479145407676697
+        },
+        "sampled_fk_tip_error_m": {
+          "mean": 0.004235316630972278,
+          "median": 0.0033546065055314097,
+          "p95": 0.010952187625883151,
+          "p99": 0.01818216810306709,
+          "max": 0.03884881513134882
+        },
+        "raw_joint_clamp_fraction": 0.04716015625,
+        "label_joint_limit_excess_fraction": 0.0
+      },
+      "val": {
+        "samples": 8000,
+        "mse_rad2": 0.0015637216543780848,
+        "rmse_rad": 0.039543920574193,
+        "mae_rad": 0.02355748973786831,
+        "joint_abs_error_rad": {
+          "mean": 0.02355748973786831,
+          "median": 0.012414634227752686,
+          "p95": 0.08074667304754256,
+          "p99": 0.14540625169873234,
+          "max": 1.1045382022857666
+        },
+        "sampled_fk_tip_error_m": {
+          "mean": 0.004532052133835415,
+          "median": 0.003447083631836537,
+          "p95": 0.012113134533518912,
+          "p99": 0.020051480094427337,
+          "max": 0.055019260419355176
+        },
+        "raw_joint_clamp_fraction": 0.0483203125,
+        "label_joint_limit_excess_fraction": 0.0
+      }
+    },
+    "loss_summary": {
+      "last_train_mse_rad2": 0.0014635224360972643,
+      "best_val_mse_rad2": 0.0015506506897509098,
+      "last_val_mse_rad2": 0.0016143647953867912,
+      "relative_best_val_improvement_recent_50_epochs": 0.024172699902651616
+    },
+    "domain": {
+      "pca_mahalanobis_radius_train": {
+        "mean": 2.851777858195225,
+        "median": 2.7772669045609923,
+        "p95": 4.528000875240209,
+        "p99": 5.410602146545679,
+        "max": 7.198777608778703
+      },
+      "pca_mahalanobis_radius_val": {
+        "mean": 2.846097141315171,
+        "median": 2.767520489954113,
+        "p95": 4.494052252274751,
+        "p99": 5.351759895273038,
+        "max": 6.991137517959328
+      },
+      "pca_mahalanobis_radius_policy": {
+        "mean": 10.73017424012515,
+        "median": 10.847412379445432,
+        "p95": 13.077029312701015,
+        "p99": 13.461873982079581,
+        "max": 13.789492484626125
+      },
+      "val_p99_radius": 5.351759895273038,
+      "policy_fraction_above_val_p99_radius": 0.998046875,
+      "standardized_pose_nearest_training_sample_distance_val": {
+        "mean": 1.742246579112625,
+        "median": 1.655795958993169,
+        "p95": 3.5602562785541343,
+        "p99": 4.708970600813703,
+        "max": 7.395261701243764
+      },
+      "standardized_pose_nearest_training_sample_distance_policy": {
+        "mean": 13.766339233021856,
+        "median": 14.308683761442104,
+        "p95": 18.465022162363475,
+        "p99": 19.31727434528556,
+        "max": 19.61148519522425
+      },
+      "coverage_limit": "Mahalanobis and nearest-neighbor distances are diagnostics; original split is frame-random, not a subject/sequence-heldout test."
+    }
+  },
+  "shadow_hand": {
+    "weights_match_export": true,
+    "pca_matches_export": true,
+    "exported_splits_disjoint": true,
+    "fits": {
+      "train": {
+        "samples": 16000,
+        "mse_rad2": 0.00492409145485669,
+        "rmse_rad": 0.07017187082340537,
+        "mae_rad": 0.0488886833190918,
+        "joint_abs_error_rad": {
+          "mean": 0.0488886833190918,
+          "median": 0.033577967435121536,
+          "p95": 0.1461519099771976,
+          "p99": 0.2322211834788324,
+          "max": 1.358127474784851
+        },
+        "sampled_fk_tip_error_m": {
+          "mean": 0.0053650449171696955,
+          "median": 0.004481405597861985,
+          "p95": 0.012267314028276237,
+          "p99": 0.018046933852880323,
+          "max": 0.03816709009097325
+        },
+        "raw_joint_clamp_fraction": 0.06882954545454545,
+        "label_joint_limit_excess_fraction": 0.0
+      },
+      "val": {
+        "samples": 8000,
+        "mse_rad2": 0.005092485381633574,
+        "rmse_rad": 0.07136165203828716,
+        "mae_rad": 0.04931635782122612,
+        "joint_abs_error_rad": {
+          "mean": 0.04931635782122612,
+          "median": 0.0336746871471405,
+          "p95": 0.14809968397021292,
+          "p99": 0.24030059680342694,
+          "max": 0.9942238926887512
+        },
+        "sampled_fk_tip_error_m": {
+          "mean": 0.005718878701991493,
+          "median": 0.004720764802215029,
+          "p95": 0.013622707180362303,
+          "p99": 0.020409940080995104,
+          "max": 0.03199555350862509
+        },
+        "raw_joint_clamp_fraction": 0.06809659090909091,
+        "label_joint_limit_excess_fraction": 0.0
+      }
+    },
+    "loss_summary": {
+      "last_train_mse_rad2": 0.0050018560141325,
+      "best_val_mse_rad2": 0.005208229646086693,
+      "last_val_mse_rad2": 0.00530497170984745,
+      "relative_best_val_improvement_recent_50_epochs": 0.016408683923049634
+    },
+    "domain": {
+      "pca_mahalanobis_radius_train": {
+        "mean": 2.851777858195225,
+        "median": 2.7772669045609923,
+        "p95": 4.528000875240209,
+        "p99": 5.410602146545679,
+        "max": 7.198777608778703
+      },
+      "pca_mahalanobis_radius_val": {
+        "mean": 2.846097141315171,
+        "median": 2.767520489954113,
+        "p95": 4.494052252274751,
+        "p99": 5.351759895273038,
+        "max": 6.991137517959328
+      },
+      "pca_mahalanobis_radius_policy": {
+        "mean": 10.8481066182508,
+        "median": 10.814661429943609,
+        "p95": 13.093161542515396,
+        "p99": 13.584035011790553,
+        "max": 13.764611280565259
+      },
+      "val_p99_radius": 5.351759895273038,
+      "policy_fraction_above_val_p99_radius": 1.0,
+      "standardized_pose_nearest_training_sample_distance_val": {
+        "mean": 1.742246579112625,
+        "median": 1.655795958993169,
+        "p95": 3.5602562785541343,
+        "p99": 4.708970600813703,
+        "max": 7.395261701243764
+      },
+      "standardized_pose_nearest_training_sample_distance_policy": {
+        "mean": 14.044646838623088,
+        "median": 14.189601470350318,
+        "p95": 18.475327420860573,
+        "p99": 19.179864058624577,
+        "max": 19.54800531304281
+      },
+      "coverage_limit": "Mahalanobis and nearest-neighbor distances are diagnostics; original split is frame-random, not a subject/sequence-heldout test."
+    }
+  }
+}

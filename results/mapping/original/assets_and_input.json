@@ -1,0 +1,60 @@
+{
+  "allegro_hand": {
+    "standalone_vs_simulator_hand_limits_max_abs_difference_rad": 5.340576181289691e-08,
+    "standalone_vs_arm_attached_fk_fingertip_difference_m": {
+      "mean": 1.6620282018106217e-16,
+      "p95": 2.9002972694876545e-16,
+      "max": 3.8907337820626684e-16
+    },
+    "policy_samples_before_forced_hold": 12581,
+    "raw_action_components_outside_minus1_plus1_fraction": 0.40773123493098057,
+    "clipped_action_components_at_bounds_fraction": 0.4081286596190022,
+    "pca_coefficient_norm": {
+      "mean": 20.000425338745117,
+      "p95": 24.728923797607422,
+      "max": 26.973983764648438
+    },
+    "sampled_pose_joint_axis_angle_norm_rad": {
+      "mean": 1.4272702932357788,
+      "p95": 2.959529161453245,
+      "max": 4.052326679229736
+    },
+    "sampled_pose_joints_over_pi_fraction": 0.03802083432674408,
+    "equivalent_axis_angle_wrap_human_keypoints_max_difference_mm": 6.61611557006836e-05,
+    "equivalent_axis_angle_wrap_nn_joint_difference_rad": {
+      "mean": 0.29924923181533813,
+      "p95": 1.6967989802360535,
+      "max": 3.5056521892547607
+    },
+    "representation_check_scope": "Wrapping is a diagnostic only; no preprocessing or model weights changed. Does not establish training input coverage."
+  },
+  "shadow_hand": {
+    "standalone_vs_simulator_hand_limits_max_abs_difference_rad": 4.3716286590722575e-08,
+    "standalone_vs_arm_attached_fk_fingertip_difference_m": {
+      "mean": 1.3326871284666434e-16,
+      "p95": 2.3556457448854853e-16,
+      "max": 3.1966016425556574e-16
+    },
+    "policy_samples_before_forced_hold": 11683,
+    "raw_action_components_outside_minus1_plus1_fraction": 0.42524275538056244,
+    "clipped_action_components_at_bounds_fraction": 0.4255851331944801,
+    "pca_coefficient_norm": {
+      "mean": 20.488073348999023,
+      "p95": 24.63807907104492,
+      "max": 27.72760009765625
+    },
+    "sampled_pose_joint_axis_angle_norm_rad": {
+      "mean": 1.397606372833252,
+      "p95": 2.7562483191490172,
+      "max": 4.180685043334961
+    },
+    "sampled_pose_joints_over_pi_fraction": 0.02265625074505806,
+    "equivalent_axis_angle_wrap_human_keypoints_max_difference_mm": 5.340576171875e-05,
+    "equivalent_axis_angle_wrap_nn_joint_difference_rad": {
+      "mean": 0.23336376249790192,
+      "p95": 1.4481131613254543,
+      "max": 3.7084367275238037
+    },
+    "representation_check_scope": "Wrapping is a diagnostic only; no preprocessing or model weights changed. Does not establish training input coverage."
+  }
+}

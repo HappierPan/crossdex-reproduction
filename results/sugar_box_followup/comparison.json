@@ -1,0 +1,64 @@
+{
+  "baseline_PPO_10000": {
+    "iteration": 10000,
+    "episodes": 1280,
+    "native_successes": 451,
+    "per_hand": {
+      "shadow_hand": {
+        "episodes": 320,
+        "native_successes": 198,
+        "success_rate": 0.61875
+      },
+      "allegro_hand": {
+        "episodes": 320,
+        "native_successes": 239,
+        "success_rate": 0.746875
+      },
+      "ability_hand": {
+        "episodes": 320,
+        "native_successes": 1,
+        "success_rate": 0.003125
+      },
+      "schunk_svh_hand": {
+        "episodes": 320,
+        "native_successes": 13,
+        "success_rate": 0.040625
+      }
+    },
+    "success_rate": 0.35234375
+  },
+  "weights_warmstart_followup": {
+    "episodes": 1280,
+    "successes": 566,
+    "per_hand": {
+      "shadow_hand": {
+        "episodes": 320,
+        "successes": 190,
+        "success_rate": 0.59375
+      },
+      "allegro_hand": {
+        "episodes": 320,
+        "successes": 227,
+        "success_rate": 0.709375
+      },
+      "ability_hand": {
+        "episodes": 320,
+        "successes": 1,
+        "success_rate": 0.003125
+      },
+      "schunk_svh_hand": {
+        "episodes": 320,
+        "successes": 148,
+        "success_rate": 0.4625
+      }
+    },
+    "success_rate": 0.4421875
+  },
+  "training": {
+    "checkpoint": "/root/autodl-tmp/crossdex_experiments/sugar_box_warmstart_20261005/runs/004_sugar_box_2026-10-05_10-12-41/model_7165.pt",
+    "run": "/root/autodl-tmp/crossdex_experiments/sugar_box_warmstart_20261005/runs/004_sugar_box_2026-10-05_10-12-41",
+    "additional_iterations_completed": 7165,
+    "elapsed_seconds": 13801.938223624602,
+    "finished_utc": "2026-10-05T06:02:28.795004+00:00"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "official_commit": "b94c567eb6a6d3a142279cce32475af3c986b8b3",
+  "files": [
+    {
+      "path": "rl/tasks_crossdex/multi_dex_grasp.py",
+      "local_sha256": "e9d66245c0cfd64c8a14d38a4417aa0f615ea28ce025428be4926dd91e1206d7",
+      "official_sha256": "e9d66245c0cfd64c8a14d38a4417aa0f615ea28ce025428be4926dd91e1206d7",
+      "byte_equal": true,
+      "ast_equal": true
+    },
+    {
+      "path": "rl/tasks_crossdex/reward.py",
+      "local_sha256": "83366af4a12230b58fbc06428dfa9aa9f99443a807d58b612293f0611aa4ad35",
+      "official_sha256": "83366af4a12230b58fbc06428dfa9aa9f99443a807d58b612293f0611aa4ad35",
+      "byte_equal": true,
+      "ast_equal": true
+    },
+    {
+      "path": "rl/tasks_crossdex/vec_task.py",
+      "local_sha256": "c8f1df80d92125f3c0a72c2d5a2535c447d9289793e8f448070a219f5ded5b83",
+      "official_sha256": "c8f1df80d92125f3c0a72c2d5a2535c447d9289793e8f448070a219f5ded5b83",
+      "byte_equal": true,
+      "ast_equal": true
+    },
+    {
+      "path": "rl/tasks_crossdex/utils.py",
+      "local_sha256": "b6be12162e591293998be39f6026e3e28940fb8f6ea5d231a775476628bc9b9a",
+      "official_sha256": "b6be12162e591293998be39f6026e3e28940fb8f6ea5d231a775476628bc9b9a",
+      "byte_equal": true,
+      "ast_equal": true
+    },
+    {
+      "path": "rl/retargeting_wrapper.py",
+      "local_sha256": "49362b09d7c6d97d40175af4c19f8d265f2f6570c894bf509ec0439094fab92d",
+      "official_sha256": "49362b09d7c6d97d40175af4c19f8d265f2f6570c894bf509ec0439094fab92d",
+      "byte_equal": true,
+      "ast_equal": true
+    },
+    {
+      "path": "retargeting/retargeting_nn_utils.py",
+      "local_sha256": "85dcc2237be858282b999e6638ac30658b0d976a301083f4d3e52ac992660d9a",
+      "official_sha256": "85dcc2237be858282b999e6638ac30658b0d976a301083f4d3e52ac992660d9a",
+      "byte_equal": true,
+      "ast_equal": true
+    },
+    {
+      "path": "rl/tasks_crossdex/task/MultiDexGrasp.yaml",
+      "local_sha256": "3703b1c362f60e8c51895f48cad89c922a622e4446ece25167628c1dc048695c",
+      "official_sha256": "3703b1c362f60e8c51895f48cad89c922a622e4446ece25167628c1dc048695c",
+      "byte_equal": true
+    },
+    {
+      "path": "rl/tasks_crossdex/train/MultiDexGraspPPO.yaml",
+      "local_sha256": "e3d7444349ee5dff8fc24be20f48b357c4f5260d80832931c121056c38a7e7b3",
+      "official_sha256": "e3d7444349ee5dff8fc24be20f48b357c4f5260d80832931c121056c38a7e7b3",
+      "byte_equal": true
+    },
+    {
+      "path": "rl/run_ppo_multidex.py",
+      "local_sha256": "b481e366cf67922d69217fc58cc7ecb6a1e8a11aefec18063af842dde1d50720",
+      "official_sha256": "b481e366cf67922d69217fc58cc7ecb6a1e8a11aefec18063af842dde1d50720",
+      "byte_equal": true,
+      "ast_equal": true
+    }
+  ],
+  "scope": "Source comparison only; runtime equivalence of a separate implementation is not established."
+}

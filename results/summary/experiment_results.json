@@ -1,0 +1,510 @@
+{
+  "two_ppo": [
+    {
+      "iteration": 1000,
+      "episodes": 1280,
+      "native_successes": 617,
+      "per_hand": {
+        "allegro_hand": {
+          "episodes": 640,
+          "native_successes": 244,
+          "success_rate": 0.38125
+        },
+        "shadow_hand": {
+          "episodes": 640,
+          "native_successes": 373,
+          "success_rate": 0.5828125
+        }
+      },
+      "success_rate": 0.48203125
+    },
+    {
+      "iteration": 5000,
+      "episodes": 1280,
+      "native_successes": 982,
+      "per_hand": {
+        "allegro_hand": {
+          "episodes": 640,
+          "native_successes": 472,
+          "success_rate": 0.7375
+        },
+        "shadow_hand": {
+          "episodes": 640,
+          "native_successes": 510,
+          "success_rate": 0.796875
+        }
+      },
+      "success_rate": 0.7671875
+    },
+    {
+      "iteration": 10000,
+      "episodes": 1280,
+      "native_successes": 1076,
+      "per_hand": {
+        "allegro_hand": {
+          "episodes": 640,
+          "native_successes": 519,
+          "success_rate": 0.8109375
+        },
+        "shadow_hand": {
+          "episodes": 640,
+          "native_successes": 557,
+          "success_rate": 0.8703125
+        }
+      },
+      "success_rate": 0.840625
+    }
+  ],
+  "four_ppo": [
+    {
+      "iteration": 1000,
+      "episodes": 1280,
+      "native_successes": 382,
+      "per_hand": {
+        "shadow_hand": {
+          "episodes": 320,
+          "native_successes": 202,
+          "success_rate": 0.63125
+        },
+        "allegro_hand": {
+          "episodes": 320,
+          "native_successes": 27,
+          "success_rate": 0.084375
+        },
+        "ability_hand": {
+          "episodes": 320,
+          "native_successes": 63,
+          "success_rate": 0.196875
+        },
+        "schunk_svh_hand": {
+          "episodes": 320,
+          "native_successes": 90,
+          "success_rate": 0.28125
+        }
+      },
+      "success_rate": 0.2984375
+    },
+    {
+      "iteration": 5000,
+      "episodes": 1280,
+      "native_successes": 1032,
+      "per_hand": {
+        "shadow_hand": {
+          "episodes": 320,
+          "native_successes": 296,
+          "success_rate": 0.925
+        },
+        "allegro_hand": {
+          "episodes": 320,
+          "native_successes": 237,
+          "success_rate": 0.740625
+        },
+        "ability_hand": {
+          "episodes": 320,
+          "native_successes": 220,
+          "success_rate": 0.6875
+        },
+        "schunk_svh_hand": {
+          "episodes": 320,
+          "native_successes": 279,
+          "success_rate": 0.871875
+        }
+      },
+      "success_rate": 0.80625
+    },
+    {
+      "iteration": 10000,
+      "episodes": 1280,
+      "native_successes": 1161,
+      "per_hand": {
+        "shadow_hand": {
+          "episodes": 320,
+          "native_successes": 314,
+          "success_rate": 0.98125
+        },
+        "allegro_hand": {
+          "episodes": 320,
+          "native_successes": 274,
+          "success_rate": 0.85625
+        },
+        "ability_hand": {
+          "episodes": 320,
+          "native_successes": 290,
+          "success_rate": 0.90625
+        },
+        "schunk_svh_hand": {
+          "episodes": 320,
+          "native_successes": 283,
+          "success_rate": 0.884375
+        }
+      },
+      "success_rate": 0.90703125
+    }
+  ],
+  "dagger": {
+    "teacher": {
+      "episodes": 1280,
+      "successes": 1161,
+      "per_hand": {
+        "shadow_hand": {
+          "episodes": 320,
+          "successes": 314,
+          "success_rate": 0.98125
+        },
+        "allegro_hand": {
+          "episodes": 320,
+          "successes": 274,
+          "success_rate": 0.85625
+        },
+        "ability_hand": {
+          "episodes": 320,
+          "successes": 290,
+          "success_rate": 0.90625
+        },
+        "schunk_svh_hand": {
+          "episodes": 320,
+          "successes": 283,
+          "success_rate": 0.884375
+        }
+      },
+      "success_rate": 0.90703125
+    },
+    "student": {
+      "episodes": 1280,
+      "successes": 1149,
+      "per_hand": {
+        "shadow_hand": {
+          "episodes": 320,
+          "successes": 311,
+          "success_rate": 0.971875
+        },
+        "allegro_hand": {
+          "episodes": 320,
+          "successes": 258,
+          "success_rate": 0.80625
+        },
+        "ability_hand": {
+          "episodes": 320,
+          "successes": 300,
+          "success_rate": 0.9375
+        },
+        "schunk_svh_hand": {
+          "episodes": 320,
+          "successes": 280,
+          "success_rate": 0.875
+        }
+      },
+      "success_rate": 0.89765625
+    }
+  },
+  "sugar": [
+    {
+      "iteration": 1000,
+      "episodes": 1280,
+      "native_successes": 0,
+      "per_hand": {
+        "shadow_hand": {
+          "episodes": 320,
+          "native_successes": 0,
+          "success_rate": 0.0
+        },
+        "allegro_hand": {
+          "episodes": 320,
+          "native_successes": 0,
+          "success_rate": 0.0
+        },
+        "ability_hand": {
+          "episodes": 320,
+          "native_successes": 0,
+          "success_rate": 0.0
+        },
+        "schunk_svh_hand": {
+          "episodes": 320,
+          "native_successes": 0,
+          "success_rate": 0.0
+        }
+      },
+      "success_rate": 0.0
+    },
+    {
+      "iteration": 5000,
+      "episodes": 1280,
+      "native_successes": 185,
+      "per_hand": {
+        "shadow_hand": {
+          "episodes": 320,
+          "native_successes": 11,
+          "success_rate": 0.034375
+        },
+        "allegro_hand": {
+          "episodes": 320,
+          "native_successes": 173,
+          "success_rate": 0.540625
+        },
+        "ability_hand": {
+          "episodes": 320,
+          "native_successes": 0,
+          "success_rate": 0.0
+        },
+        "schunk_svh_hand": {
+          "episodes": 320,
+          "native_successes": 1,
+          "success_rate": 0.003125
+        }
+      },
+      "success_rate": 0.14453125
+    },
+    {
+      "iteration": 10000,
+      "episodes": 1280,
+      "native_successes": 451,
+      "per_hand": {
+        "shadow_hand": {
+          "episodes": 320,
+          "native_successes": 198,
+          "success_rate": 0.61875
+        },
+        "allegro_hand": {
+          "episodes": 320,
+          "native_successes": 239,
+          "success_rate": 0.746875
+        },
+        "ability_hand": {
+          "episodes": 320,
+          "native_successes": 1,
+          "success_rate": 0.003125
+        },
+        "schunk_svh_hand": {
+          "episodes": 320,
+          "native_successes": 13,
+          "success_rate": 0.040625
+        }
+      },
+      "success_rate": 0.35234375
+    }
+  ],
+  "soup": [
+    {
+      "iteration": 1000,
+      "episodes": 1280,
+      "native_successes": 0,
+      "per_hand": {
+        "shadow_hand": {
+          "episodes": 320,
+          "native_successes": 0,
+          "success_rate": 0.0
+        },
+        "allegro_hand": {
+          "episodes": 320,
+          "native_successes": 0,
+          "success_rate": 0.0
+        },
+        "ability_hand": {
+          "episodes": 320,
+          "native_successes": 0,
+          "success_rate": 0.0
+        },
+        "schunk_svh_hand": {
+          "episodes": 320,
+          "native_successes": 0,
+          "success_rate": 0.0
+        }
+      },
+      "success_rate": 0.0
+    },
+    {
+      "iteration": 5000,
+      "episodes": 1280,
+      "native_successes": 998,
+      "per_hand": {
+        "shadow_hand": {
+          "episodes": 320,
+          "native_successes": 308,
+          "success_rate": 0.9625
+        },
+        "allegro_hand": {
+          "episodes": 320,
+          "native_successes": 213,
+          "success_rate": 0.665625
+        },
+        "ability_hand": {
+          "episodes": 320,
+          "native_successes": 218,
+          "success_rate": 0.68125
+        },
+        "schunk_svh_hand": {
+          "episodes": 320,
+          "native_successes": 259,
+          "success_rate": 0.809375
+        }
+      },
+      "success_rate": 0.7796875
+    },
+    {
+      "iteration": 10000,
+      "episodes": 1280,
+      "native_successes": 1105,
+      "per_hand": {
+        "shadow_hand": {
+          "episodes": 320,
+          "native_successes": 303,
+          "success_rate": 0.946875
+        },
+        "allegro_hand": {
+          "episodes": 320,
+          "native_successes": 292,
+          "success_rate": 0.9125
+        },
+        "ability_hand": {
+          "episodes": 320,
+          "native_successes": 223,
+          "success_rate": 0.696875
+        },
+        "schunk_svh_hand": {
+          "episodes": 320,
+          "native_successes": 287,
+          "success_rate": 0.896875
+        }
+      },
+      "success_rate": 0.86328125
+    }
+  ],
+  "sugar_followup": {
+    "baseline_PPO_10000": {
+      "iteration": 10000,
+      "episodes": 1280,
+      "native_successes": 451,
+      "per_hand": {
+        "shadow_hand": {
+          "episodes": 320,
+          "native_successes": 198,
+          "success_rate": 0.61875
+        },
+        "allegro_hand": {
+          "episodes": 320,
+          "native_successes": 239,
+          "success_rate": 0.746875
+        },
+        "ability_hand": {
+          "episodes": 320,
+          "native_successes": 1,
+          "success_rate": 0.003125
+        },
+        "schunk_svh_hand": {
+          "episodes": 320,
+          "native_successes": 13,
+          "success_rate": 0.040625
+        }
+      },
+      "success_rate": 0.35234375
+    },
+    "weights_warmstart_followup": {
+      "episodes": 1280,
+      "successes": 566,
+      "per_hand": {
+        "shadow_hand": {
+          "episodes": 320,
+          "successes": 190,
+          "success_rate": 0.59375
+        },
+        "allegro_hand": {
+          "episodes": 320,
+          "successes": 227,
+          "success_rate": 0.709375
+        },
+        "ability_hand": {
+          "episodes": 320,
+          "successes": 1,
+          "success_rate": 0.003125
+        },
+        "schunk_svh_hand": {
+          "episodes": 320,
+          "successes": 148,
+          "success_rate": 0.4625
+        }
+      },
+      "success_rate": 0.4421875
+    },
+    "training": {
+      "checkpoint": "/root/autodl-tmp/crossdex_experiments/sugar_box_warmstart_20261005/runs/004_sugar_box_2026-10-05_10-12-41/model_7165.pt",
+      "run": "/root/autodl-tmp/crossdex_experiments/sugar_box_warmstart_20261005/runs/004_sugar_box_2026-10-05_10-12-41",
+      "additional_iterations_completed": 7165,
+      "elapsed_seconds": 13801.938223624602,
+      "finished_utc": "2026-10-05T06:02:28.795004+00:00"
+    }
+  },
+  "ability_svh": {
+    "stage": "complete_independent_mapping_training",
+    "input": "/root/crossdex_validation/additional_hands/input/crossdex_grab_pose45.npz",
+    "frames": 1623695,
+    "hands": {
+      "ability_hand": {
+        "hand": "ability_hand",
+        "train_frames": 1583102,
+        "validation_frames": 40593,
+        "validation_mse_rad2": 0.012515174224972725,
+        "validation_rmse_rad": 0.11187124252319336,
+        "validation_mae_rad": 0.0756000429391861,
+        "sampled_mean_fingertip_error_mm": 4.7946100986797715,
+        "sampled_p95_fingertip_error_mm": 12.82981296974202,
+        "original_frame_random_split": true,
+        "limitation": "Adjacent frames may occur across training and validation. Does not establish PPO-domain coverage or grasp performance.",
+        "weights": "/root/crossdex_validation/additional_hands/full_run/ability_hand/retargeting_nn_ability_hand_grab_dexpilot.pth",
+        "weight_sha256": "79cd7e32cba1807906e84567854e2a7d02d28bc5e4d6c6087415e31ea22d2f45"
+      },
+      "schunk_svh_hand": {
+        "hand": "schunk_svh_hand",
+        "train_frames": 1583102,
+        "validation_frames": 40593,
+        "validation_mse_rad2": 0.008288070559501648,
+        "validation_rmse_rad": 0.09103883802890778,
+        "validation_mae_rad": 0.06453395634889603,
+        "sampled_mean_fingertip_error_mm": 5.096596466352171,
+        "sampled_p95_fingertip_error_mm": 12.43968742909287,
+        "original_frame_random_split": true,
+        "limitation": "Adjacent frames may occur across training and validation. Does not establish PPO-domain coverage or grasp performance.",
+        "weights": "/root/crossdex_validation/additional_hands/full_run/schunk_svh_hand/retargeting_nn_schunk_svh_hand_grab_dexpilot.pth",
+        "weight_sha256": "c4fd1b4c244365ba267296a9bd0aa8df52cbbc17cdc044f0a306a86ac227c105"
+      }
+    },
+    "ppo_started": false,
+    "production_weights_written": false,
+    "active_hand": "schunk_svh_hand",
+    "generated_frames": 1623695,
+    "updated_unix": 1791019423.8910973,
+    "epochs": 200
+  },
+  "mapping_origin": {
+    "training_started": false,
+    "mapping_weights_modified": false,
+    "source_data": "Original local paired GRAB data; exported 8000 original validation and 16000 training frames per hand, plus input moments and original 200-epoch curves.",
+    "primary_finding": "Strong evidence of mapping input distribution mismatch in the current policy domain, rather than a runtime indexing/scaling/URDF error or a large in-distribution train/validation gap.",
+    "important_correction": "Prior fresh-DexPilot discrepancies are not original heldout errors. Fresh reference optimization also differs from original sequential labels; those discrepancies should not be attributed entirely to network fitting.",
+    "per_hand": {
+      "allegro_hand": {
+        "original_holdout_rmse_rad": 0.039543920574193,
+        "original_holdout_sampled_mean_fingertip_error_mm": 4.532052133835415,
+        "original_holdout_sampled_p95_fingertip_error_mm": 12.113134533518913,
+        "policy_fraction_beyond_validation_p99_pca_radius": 0.998046875,
+        "fresh_reference_vs_original_label_mean_fingertip_discrepancy_mm": 19.027666579617946,
+        "recent_50_epoch_best_validation_relative_improvement": 0.024172699902651616,
+        "weights_sha256_matches_local": true
+      },
+      "shadow_hand": {
+        "original_holdout_rmse_rad": 0.07136165203828716,
+        "original_holdout_sampled_mean_fingertip_error_mm": 5.718878701991493,
+        "original_holdout_sampled_p95_fingertip_error_mm": 13.622707180362303,
+        "policy_fraction_beyond_validation_p99_pca_radius": 1.0,
+        "fresh_reference_vs_original_label_mean_fingertip_discrepancy_mm": 15.391732297446472,
+        "recent_50_epoch_best_validation_relative_improvement": 0.016408683923049634,
+        "weights_sha256_matches_local": true
+      }
+    },
+    "next_step_recommendation": "Prioritize a separately versioned mapping dataset with representative policy-domain and smooth PCA-range sequences, retaining original GRAB samples. Hold out complete generated sequences, compare original holdout and policy-domain performance before replacing weights. Do not change official simulation, reward or action bounds.",
+    "limitations": [
+      "Frame-random original split can share adjacent frames.",
+      "Coverage metrics are diagnostic, not a hard proof that every policy input is outside dataset support.",
+      "No new mapping or PPO training was launched."
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "pose45_sha256": "aa291cb6b5cb46829357e3b77cd515aaa02a6252abce787b3528932030c42c21",
+  "joint_names": [
+    "right_hand_Thumb_Opposition",
+    "right_hand_Thumb_Flexion",
+    "right_hand_j3",
+    "right_hand_j4",
+    "right_hand_index_spread",
+    "right_hand_Index_Finger_Proximal",
+    "right_hand_Index_Finger_Distal",
+    "right_hand_j14",
+    "right_hand_j5",
+    "right_hand_Finger_Spread",
+    "right_hand_Pinky",
+    "right_hand_j13",
+    "right_hand_j17",
+    "right_hand_ring_spread",
+    "right_hand_Ring_Finger",
+    "right_hand_j12",
+    "right_hand_j16",
+    "right_hand_Middle_Finger_Proximal",
+    "right_hand_Middle_Finger_Distal",
+    "right_hand_j15"
+  ],
+  "frames": 1623695,
+  "method": "Official ordered continuous SeqRetargeting and default LPFilter; no label clipping."
+}

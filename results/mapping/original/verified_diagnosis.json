@@ -1,0 +1,33 @@
+{
+  "training_started": false,
+  "mapping_weights_modified": false,
+  "source_data": "Original local paired GRAB data; exported 8000 original validation and 16000 training frames per hand, plus input moments and original 200-epoch curves.",
+  "primary_finding": "Strong evidence of mapping input distribution mismatch in the current policy domain, rather than a runtime indexing/scaling/URDF error or a large in-distribution train/validation gap.",
+  "important_correction": "Prior fresh-DexPilot discrepancies are not original heldout errors. Fresh reference optimization also differs from original sequential labels; those discrepancies should not be attributed entirely to network fitting.",
+  "per_hand": {
+    "allegro_hand": {
+      "original_holdout_rmse_rad": 0.039543920574193,
+      "original_holdout_sampled_mean_fingertip_error_mm": 4.532052133835415,
+      "original_holdout_sampled_p95_fingertip_error_mm": 12.113134533518913,
+      "policy_fraction_beyond_validation_p99_pca_radius": 0.998046875,
+      "fresh_reference_vs_original_label_mean_fingertip_discrepancy_mm": 19.027666579617946,
+      "recent_50_epoch_best_validation_relative_improvement": 0.024172699902651616,
+      "weights_sha256_matches_local": true
+    },
+    "shadow_hand": {
+      "original_holdout_rmse_rad": 0.07136165203828716,
+      "original_holdout_sampled_mean_fingertip_error_mm": 5.718878701991493,
+      "original_holdout_sampled_p95_fingertip_error_mm": 13.622707180362303,
+      "policy_fraction_beyond_validation_p99_pca_radius": 1.0,
+      "fresh_reference_vs_original_label_mean_fingertip_discrepancy_mm": 15.391732297446472,
+      "recent_50_epoch_best_validation_relative_improvement": 0.016408683923049634,
+      "weights_sha256_matches_local": true
+    }
+  },
+  "next_step_recommendation": "Prioritize a separately versioned mapping dataset with representative policy-domain and smooth PCA-range sequences, retaining original GRAB samples. Hold out complete generated sequences, compare original holdout and policy-domain performance before replacing weights. Do not change official simulation, reward or action bounds.",
+  "limitations": [
+    "Frame-random original split can share adjacent frames.",
+    "Coverage metrics are diagnostic, not a hard proof that every policy input is outside dataset support.",
+    "No new mapping or PPO training was launched."
+  ]
+}

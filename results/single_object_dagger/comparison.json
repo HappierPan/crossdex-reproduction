@@ -1,0 +1,56 @@
+{
+  "teacher": {
+    "episodes": 1280,
+    "successes": 1161,
+    "per_hand": {
+      "shadow_hand": {
+        "episodes": 320,
+        "successes": 314,
+        "success_rate": 0.98125
+      },
+      "allegro_hand": {
+        "episodes": 320,
+        "successes": 274,
+        "success_rate": 0.85625
+      },
+      "ability_hand": {
+        "episodes": 320,
+        "successes": 290,
+        "success_rate": 0.90625
+      },
+      "schunk_svh_hand": {
+        "episodes": 320,
+        "successes": 283,
+        "success_rate": 0.884375
+      }
+    },
+    "success_rate": 0.90703125
+  },
+  "student": {
+    "episodes": 1280,
+    "successes": 1149,
+    "per_hand": {
+      "shadow_hand": {
+        "episodes": 320,
+        "successes": 311,
+        "success_rate": 0.971875
+      },
+      "allegro_hand": {
+        "episodes": 320,
+        "successes": 258,
+        "success_rate": 0.80625
+      },
+      "ability_hand": {
+        "episodes": 320,
+        "successes": 300,
+        "success_rate": 0.9375
+      },
+      "schunk_svh_hand": {
+        "episodes": 320,
+        "successes": 280,
+        "success_rate": 0.875
+      }
+    },
+    "success_rate": 0.89765625
+  }
+}

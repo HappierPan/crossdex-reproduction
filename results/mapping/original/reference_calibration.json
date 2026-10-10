@@ -1,0 +1,129 @@
+{
+  "method": "Calibration on 64 sampled original held-out GRAB poses per hand using their original saved robot joint labels. Independent cold-start DexPilot per pose with output LP filtering disabled and projection flags reset; also evaluate NN-initialized optimization and choose the candidate with the lower common objective. Compare fresh references and network predictions against original labels. Inputs are original MANO poses, not policy actions or reconstructed PCA poses.",
+  "hands": {
+    "allegro_hand": {
+      "original_holdout_pose45": {
+        "samples": 64,
+        "clipped_nn_vs_default_reference_tip_error_m": {
+          "mean": 0.02917560929377256,
+          "p95": 0.08798400592535635,
+          "max": 0.13039062706370308
+        },
+        "clipped_nn_vs_best_two_initializations_tip_error_m": {
+          "mean": 0.018729711825174637,
+          "p95": 0.06439014077002027,
+          "max": 0.12349945558923382
+        },
+        "raw_joint_abs_error_rad": {
+          "mean": 0.2145843834659189,
+          "p95": 0.5337182506918904,
+          "max": 1.1688192933797836
+        },
+        "clipped_joint_abs_error_rad": {
+          "mean": 0.21376472158449347,
+          "p95": 0.5302038468420502,
+          "max": 1.1688192933797836
+        },
+        "raw_limit_excess_rad": {
+          "mean": 0.0008320090431952853,
+          "p95": 0.0,
+          "max": 0.08326211357116708
+        },
+        "raw_joint_elements_needing_clamp_fraction": 0.048828125,
+        "same_dexpilot_cartesian_objective_nn": {
+          "mean": 0.17415712022147695,
+          "p95": 0.35767283183475207,
+          "max": 0.6586365830151724
+        },
+        "same_dexpilot_cartesian_objective_default_reference": {
+          "mean": 0.0950362634970103,
+          "p95": 0.14525887918330457,
+          "max": 0.5773284986141592
+        },
+        "same_dexpilot_cartesian_objective_best_reference": {
+          "mean": 0.0888191859237977,
+          "p95": 0.13335932329718841,
+          "max": 0.5725687976033816
+        },
+        "nn_vs_original_label_tip_error_m": {
+          "mean": 0.004335712054131179,
+          "p95": 0.0126561881882922,
+          "max": 0.03814387703717207
+        },
+        "fresh_default_reference_vs_original_label_tip_error_m": {
+          "mean": 0.030029279032193566,
+          "p95": 0.09209371804185963,
+          "max": 0.1333334579427296
+        },
+        "fresh_best_reference_vs_original_label_tip_error_m": {
+          "mean": 0.019027666579617946,
+          "p95": 0.07522252431240489,
+          "max": 0.13037356932649047
+        },
+        "pose45_abs_max_rad": 2.358384370803833
+      }
+    },
+    "shadow_hand": {
+      "original_holdout_pose45": {
+        "samples": 64,
+        "clipped_nn_vs_default_reference_tip_error_m": {
+          "mean": 0.026089775652873393,
+          "p95": 0.044133949987486314,
+          "max": 0.10724910893320769
+        },
+        "clipped_nn_vs_best_two_initializations_tip_error_m": {
+          "mean": 0.01583959241042775,
+          "p95": 0.03528854816300671,
+          "max": 0.06830750664396454
+        },
+        "raw_joint_abs_error_rad": {
+          "mean": 0.2379101923503878,
+          "p95": 0.6309539020061492,
+          "max": 1.5368763208389282
+        },
+        "clipped_joint_abs_error_rad": {
+          "mean": 0.23627590945269475,
+          "p95": 0.6309539020061492,
+          "max": 1.5368763208389282
+        },
+        "raw_limit_excess_rad": {
+          "mean": 0.001651592525778685,
+          "p95": 0.009256331142691726,
+          "max": 0.1182970303077871
+        },
+        "raw_joint_elements_needing_clamp_fraction": 0.06889204545454546,
+        "same_dexpilot_cartesian_objective_nn": {
+          "mean": 0.0922928269459596,
+          "p95": 0.18693118800141736,
+          "max": 0.6422454001459265
+        },
+        "same_dexpilot_cartesian_objective_default_reference": {
+          "mean": 0.01197072667705262,
+          "p95": 0.03392993425963677,
+          "max": 0.1288640761345762
+        },
+        "same_dexpilot_cartesian_objective_best_reference": {
+          "mean": 0.009193479303515262,
+          "p95": 0.03157569888897285,
+          "max": 0.12864910434466975
+        },
+        "nn_vs_original_label_tip_error_m": {
+          "mean": 0.005101744219623701,
+          "p95": 0.011917085080180122,
+          "max": 0.019307253240402625
+        },
+        "fresh_default_reference_vs_original_label_tip_error_m": {
+          "mean": 0.026150763148866794,
+          "p95": 0.045283063855250744,
+          "max": 0.10977011517393082
+        },
+        "fresh_best_reference_vs_original_label_tip_error_m": {
+          "mean": 0.015391732297446472,
+          "p95": 0.03632062937725222,
+          "max": 0.06558758682983373
+        },
+        "pose45_abs_max_rad": 2.2537429332733154
+      }
+    }
+  }
+}
