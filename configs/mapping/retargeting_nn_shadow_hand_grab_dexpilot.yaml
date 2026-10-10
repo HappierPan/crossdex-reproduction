@@ -1,0 +1,26 @@
+robot_dim: 22
+robot_joint_names:
+- FFJ4
+- FFJ3
+- FFJ2
+- FFJ1
+- LFJ5
+- LFJ4
+- LFJ3
+- LFJ2
+- LFJ1
+- MFJ4
+- MFJ3
+- MFJ2
+- MFJ1
+- RFJ4
+- RFJ3
+- RFJ2
+- RFJ1
+- THJ5
+- THJ4
+- THJ3
+- THJ2
+- THJ1
+robot_name: shadow_hand
+robot_urdf_path: /home/siyu/crossdex-deps/dex-retargeting/assets/robots/hands/shadow_hand/shadow_hand_right.urdf

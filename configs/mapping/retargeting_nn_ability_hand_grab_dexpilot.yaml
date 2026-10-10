@@ -1,0 +1,14 @@
+robot_dim: 10
+robot_joint_names:
+- index_q1
+- index_q2
+- middle_q1
+- middle_q2
+- pinky_q1
+- pinky_q2
+- ring_q1
+- ring_q2
+- thumb_q1
+- thumb_q2
+robot_name: ability_hand
+robot_urdf_path: /home/siyu/crossdex-deps/dex-retargeting/assets/robots/hands/ability_hand/ability_hand_right.urdf
